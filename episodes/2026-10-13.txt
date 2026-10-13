@@ -1,0 +1,61 @@
+Good morning Brad, this is your Modern Battlefield brief for Tuesday, October thirteenth.
+
+Here's the top line. Israel's military, flying its helicopters freely, gets whole blood into a casualty in about five minutes and has cut its death rate among the wounded in half, while Ukrainian medics say most soldiers who could have been saved are dying while they wait. The Army is quietly writing what amounts to a spec for a soldier wearable, through its brain health and blast exposure program. And day one of AUSA, the Army's big annual conference, was all drones, robots and cheap interceptors, with still nothing medical on stage.
+
+Drones and the front line.
+
+The Army just made drones a career. Ten warrant officers were inducted as the first robotics technicians, a new job with the code three ninety alpha, at the Special Warfare Center at Fort Bragg. They went through a nineteen-week course where they build drones from scratch, and the drones have to navigate without GPS or radio. These technicians will sit at brigade and group level, advise commanders, fix systems in the field, and come up with new ways to use them. The Army's vice chief of staff said they're scaling this across the Army.
+
+Also at AUSA, the commander of Eighth Army in Korea called one-way attack drones an ever-present reality. His air defenders now train on the assumption that they'll be hunted, and they borrow tricks from Ukraine: moving constantly, using decoys, and making the enemy guess.
+
+Why this matters to you: every brigade is getting a technical person whose job is to own robots and sensors. That's a new kind of buyer and integrator inside the unit. And the hide-and-move mindset reinforces what we said yesterday: anything a soldier wears has to keep quiet electronically.
+
+Casualty care.
+
+Two documents today, and they make a sharp contrast.
+
+First, the reality in Ukraine. The Kyiv Independent published this in March, and it's new to our archive. Ukrainian medics say wounds to the head, chest, torso or groin, the places a tourniquet can't reach, are usually fatal on today's front. One medic estimated that eighty percent of soldiers who could have survived with timely evacuation died forward. That's his estimate, not measured data. Vehicles often can't get within six to twelve miles of the forward positions. Waits run from hours to days, sometimes more than a month. And here's the number that complicates yesterday's story about a hundred and twelve thousand robot missions: one deputy battalion commander said ground robots fail to reach their positions about four times out of five. A brigade medical chief said about ninety percent of injuries are shrapnel from FPV drones, the small first-person-view attack drones.
+
+Second, the benchmark. The Army's 68th Theater Medical Command, with help from the Center for Army Lessons Learned, wrote up Israel's medical lessons from Gaza. Across about forty-five hundred casualties, Israel's case fatality rate fell from nearly fifteen percent in 2006 to about seven percent in 2024, even though severe injuries roughly tripled as a share of casualties. Time to an advanced medical provider dropped to zero to four minutes. Time to start whole blood at the point of injury dropped from about twenty minutes to five. And their data showed early blood was tied to survival, while field airway and chest-needle procedures were not. So Israel now checks for shock right after stopping the bleeding, and the report recommends flying whole blood forward by drone.
+
+Why this matters to you: put those side by side. With air superiority, about an hour to a hospital and minutes to blood. Without it, days, and the deaths come from internal bleeding no tourniquet fixes. In both worlds, the key decision is spotting shock early and deciding who gets blood first. Shock index, which is heart rate divided by blood pressure, was the outcome measure in the drone plasma study we covered yesterday. That's something a wearable can trend continuously.
+
+On the robot side, Forterra, a ground-autonomy company, launched a system at AUSA called OASIS OneLink, one screen to command robots from different manufacturers. It's already in use at the Army's Joint Readiness Training Center. Defense News reports Forterra's autonomy has been used on eighty-eight casualty evacuation missions in Ukraine. For scale, a ground robot newsletter called UGVs Codex reports Ukraine had more than twenty-two thousand ground robots contracted for this year as of July. And the US Army's Infantry Last Tactical Mile robots, whose official mission includes casualty evacuation, have trials coming October nineteenth through twenty-third.
+
+Why this matters to you: the robot evacuation market is settling around a few autonomy and control companies. A casualty-monitoring payload should plug into them, not compete with them. Forterra and Overland AI are natural partner conversations.
+
+One more, briefly. After a Washington Post investigation found discrepancies in casualty reporting for the Iran conflict, the Pentagon is adding a pending adjudication category to its public casualty database. Officials call it administrative; a government oversight analyst says it does nothing for transparency. For your purposes, public US casualty numbers for Iran will be harder to use, so lean on Joint Trauma System and lessons-learned reports.
+
+Research.
+
+A study in the European Journal of Trauma and Emergency Surgery, published online in July, looked at two hundred seventeen Ukrainian soldiers with chest blast injuries from FPV drones, but no broken ribs. Sixty percent ended up in critical care, forty-two percent needed a ventilator, the median hospital stay was twenty-two days, and eighty percent still had nerve pain three months later. It's a single-center pilot, and there's at least one numeric typo in the paper, so treat the details cautiously.
+
+Why this matters to you: no broken ribs didn't mean a minor injury. Blast chest trauma is hard to see at the point of injury, which argues for watching breathing and oxygen levels after any close drone strike.
+
+Wearables.
+
+This is the one to pay attention to. The Army says ninety-seven percent of soldiers now have a baseline cognitive test on file, retaken every year for artillery, engineers and bomb disposal. The Army plans a service-wide blast overpressure directive covering exposure tracking, cognitive monitoring and injury reporting. And back in April, Army Contracting Command asked industry for blast sensors paired with physiological monitoring that must measure heart rate, breathing, eye movement, gait, blood oxygen and brain electrical activity.
+
+A human example from yesterday: three air defenders were thrown unconscious by a ballistic missile blast at a base in Saudi Arabia in March, came to, and treated their wounded comrades, including putting on a tourniquet. They just received Purple Hearts.
+
+Why this matters to you: that request is the clearest written Army list yet for a multi-sensor soldier wearable, and it's coming through brain health, not trauma care. It's the same pattern as LifeLens, which got in through chemical defense. A device that logs blast exposure and vital signs together could serve both the coming directive and the casualty-care gap. Worth digging into who responded and what follows.
+
+Also at AUSA, the company formerly called Elbit America, now Twenty-Six Defense, showed Primex, a light night vision and augmented reality headset tied to the Army's soldier display program, able to show drone feeds. No health sensing. But the soldier's head is becoming a screen, so a vitals alert like teammate down, two hundred meters, could ride on it rather than requiring another device.
+
+Counter-drone.
+
+A newly public startup called Powerus showed three versions of its Guardian interceptor drone, from manually flown, Ukrainian style, up to fully autonomous, cued by radar and guided by AI. It cited a Congressional Budget Office finding that the US had used about two-thirds of some missile-defense interceptor stocks by August first, mostly against Shahed-type drones. Worth knowing: Powerus went public on October first by merging with a golf course holding company backed by the two eldest Trump sons, and it's worth about three hundred ninety million dollars. Army Under Secretary Mike Obadal put the cost ratio of a Patriot interceptor against a Shahed at a hundred fourteen to one, and said the cost curve needs to come back in our favor.
+
+Money.
+
+A defense newsletter tallied September venture funding at about one point three billion dollars across six rounds, and two companies took nearly all of it: Mach Industries with six hundred million and TEKEVER, a European drone maker, with five hundred eighty million. Poseidon Aerospace raised sixty million for autonomous cargo drones. Nothing medical or wearable. One loose end: this roundup lists Fortem's Series B at twenty-five million, while yesterday's sources said fifty, so that's unresolved. Also, the NATO Innovation Fund, with more than a billion euros, announced today that it is opening a branch in Warsaw. And the Army revived its night court budget review and has found just over a hundred million dollars in science and technology money to shift. Watch whether medical research lines win or lose in that shuffle.
+
+AI.
+
+The Army's new biodefense strategy uses AI to fuse clinical records, environmental sensors, logistics and intelligence to spot outbreaks early. Wearables weren't mentioned, which is a gap. Continuous physiological data is an obvious input to that kind of early warning system, and a pitch angle for a Pulse-like device beyond trauma.
+
+The takeaway.
+
+The one thing worth thinking about today: the Army may not buy a casualty wearable through the trauma door at all. The written requirement that exists right now is for blast exposure and brain health, and it already lists heart rate, breathing and oxygen. If a device can serve that program in garrison and training, it's already on the soldier when the shock and bleeding problem shows up on the battlefield.
+
+That's your brief. The written version, with every source, is in the project archive. Have a good day.

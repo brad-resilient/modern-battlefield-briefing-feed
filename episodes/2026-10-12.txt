@@ -1,0 +1,53 @@
+Good morning Brad, this is your Modern Battlefield brief for Monday, October twelfth. It's the first edition, so a few stories from earlier this year are mixed in as background.
+
+Here's the top line. The golden hour is giving way to what Army medics now call the golden window, meaning casualties will be held for hours or days, and Ukraine is filling the gap with ground robots. Counter-drone money is real and moving fast, with more than four billion dollars in new Army contracts and a Pentagon laser and microwave pilot at five bases. And the Army's biggest annual conference, AUSA, opens today in Washington.
+
+The front line.
+
+NPR reported last week that the drone kill zone now runs ten to twenty miles deep on each side of the line. Drones cause roughly eighty percent of casualties. Ukrainian infantry live mostly underground, in groups of two to four, spread hundreds of yards apart. One unit needed four hours to move a single kilometer, hiding every time a drone passed overhead. Ukraine says it will build ten million drones this year, and Russia more than seven million.
+
+Why this matters to you: this is the environment any medical or monitoring product has to survive in. Small, isolated, hidden teams who stay forward for a long time and can't move vehicles. A wounded soldier may be hours on foot from anyone who can help. Knowing that someone is hit, and how badly, without a radio call, becomes very valuable.
+
+Casualty care.
+
+On October eighth, a Ukrainian ground robot called Frodo, built by Frontline Robotics, carried a wounded soldier out of the kill zone with the 92nd Assault Brigade. It's a six-wheeled machine that carries about two hundred kilograms, runs up to forty kilometers an hour, and swaps batteries in two minutes. The bigger number is this: Ukraine's Defense Ministry says ground robots ran about one hundred twelve thousand logistics and evacuation missions from January through August of this year.
+
+Why it matters: unmanned casualty evacuation is becoming routine, but the casualty rides alone. Nobody is watching their vital signs during a multi-hour trip. A wearable that streams vitals to the robot operator, and tells them to speed up or divert, is a concrete product idea that fits Resilient's wearable experience.
+
+Here's the second piece of that puzzle. A scoping review published this year in the Journal of Emergency and Disaster Medicine, by Gregory Ciottone's group and colleagues, screened more than eleven hundred papers on unmanned systems in conflict and kept seven. Not one evaluated drones or robots for evacuation, resupply, or medical care. None measured survival. The data that do exist from Ukraine tie delayed evacuation to more wound contamination and infection. For reference, after the 2009 golden hour directive in Afghanistan, average transport times dropped from about ninety minutes to forty-three.
+
+Why it matters: in medicine, evidence is a moat. A company that instruments casualties during prolonged care and robot evacuation would be producing the first real outcome data, and that's exactly the kind of work Army medical research funders pay for.
+
+And for background, from May: the eighteenth Airborne Corps' senior medic put it simply. The golden window is in, the golden hour is out. The Army is planning to keep casualties alive for hours or days in a fight with a peer adversary. Ukrainian medics described a tourniquet left on for seven hours, against a goal of two, and a soldier who waited twelve days to reach a field unit. One idea being discussed is running care sites without generators, because generators light up on drone thermal cameras.
+
+Take note of that. Anything that gives off heat, light, or radio near a casualty is a target. A monitoring device has to be low-emission, or transmit in short bursts. That's a design requirement worth tracking from day one.
+
+Wearables.
+
+On wearables, the closest thing to a fielded Pulse for soldiers is LifeLens Technologies, based in Warminster, Pennsylvania. Its system, called WARP, streams heart rate, breathing rate, and core temperature, plus chemical, gas, and radiation sensors, back to command posts, and claims location tracking without GPS. It's run by the Pentagon's chemical and biological defense program office, for special operations forces first, with fielding planned for this fiscal year.
+
+Why it matters: this is both the reference competitor and the reference buyer. Notice it came in through the chemical defense door, not the medical one, and through special operations first. That's a deep dive worth doing: the contract vehicle, the unit cost, and whether regular Army units are next.
+
+Counter-drone.
+
+At the end of September, the Army signed counter-drone contracts with ten companies worth up to four point one five billion dollars, with room to grow to seven billion. Seven firms, including Allen Control Systems, DroneShield, and L3Harris, each got five hundred million dollar ceilings. Only about fifty million was actually committed at signing, so the real money flows through later orders. Behind this is the Army's new drone marketplace, which has handled about eight hundred million dollars in purchases. Any Pentagon buyer, and allies like Australia, can buy in days instead of months.
+
+Why it matters: the Army is building something like an online storefront for drone and counter-drone gear. If a medical or monitoring product could get listed on a marketplace like this, the sales cycle would shrink dramatically. It's worth learning how vendors get on.
+
+Then on October sixth, the Pentagon picked four directed energy weapons to protect five U.S. bases from drones: lasers from AeroVironment, Boeing, and Kord, which is part of KBR, and a high-powered microwave from Epirus. It's a one-year pilot, with another shoot-off in December at Dugway Proving Ground. The general running it made a sharp point: a cheap cost per shot means little if an expensive system rarely fires. Separately, a new Pentagon office called FORTRESS America promises to harden every U.S. installation against drones, cyber attacks, and sabotage.
+
+Why it matters: defending bases at home is a second large counter-drone market, with its own budget and program office.
+
+Money.
+
+Investors poured a record nineteen point eight billion dollars into defense tech in the first quarter of this year, according to PitchBook, as reported by Fortune. Early-stage companies are raising at seventeen to fifty times revenue, and investors say drones and battlefield AI look crowded. The companies most at risk are those burning cash without a production contract. A more critical take, in a Reason review of Sharon Weinberger's new book, Valley of Death, argues that government money shields companies from real customers, and that some American products underperformed homegrown Ukrainian ones.
+
+Why it matters: money is plentiful but herding into drones and AI. Medical and survivability is far less crowded. In any segment, the winners are the ones that reach production contracts, so build the business around the path to a program of record from the start.
+
+Finally, two quick items from practitioner newsletters. The Army has opened five test ranges to companies that don't yet have government contracts, and the Air Force may follow. That lowers the cost of proving a product in realistic conditions. And Anduril says more than seventy systems now plug into the Army's counter-drone fire control network.
+
+The takeaway.
+
+The one thing worth thinking about today: Ukraine is running tens of thousands of robot evacuations, nobody is monitoring the casualty on the way out, and the medical literature has essentially no data on any of it. That gap, between what's happening on the battlefield and what anyone can measure, looks a lot like the kind of problem Resilient already knows how to work on.
+
+That's your brief. The written version, with every source, is in the project archive. Have a good day.

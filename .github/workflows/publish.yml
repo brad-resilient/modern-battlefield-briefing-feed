@@ -1,0 +1,57 @@
+name: Publish episodes
+
+on:
+  push:
+    branches: [main]
+    paths: ["episodes/**", "tools/**", ".github/workflows/publish.yml"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install audio tools
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg festival festvox-us-slt-hts >/dev/null
+      - name: Make missing episode audio
+        env:
+          GOOGLE_TTS_API_KEY: ${{ secrets.GOOGLE_TTS_API_KEY }}
+          GOOGLE_TTS_VOICE: ${{ vars.GOOGLE_TTS_VOICE }}
+        run: |
+          for t in episodes/*.txt; do
+            mp3="${t%.txt}.mp3"
+            [ -f "$mp3" ] || python3 tools/tts.py "$t" "$mp3"
+          done
+      - name: Commit new audio
+        run: |
+          git config user.name "battlefield-briefing-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add episodes/*.mp3
+          git diff --cached --quiet || (git commit -m "Add episode audio" && git push)
+      - name: Build feed
+        run: python3 tools/build_feed.py . "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}"
+      - name: Build site
+        run: |
+          mkdir -p _site/episodes
+          cp feed.xml index.html _site/
+          cp episodes/*.mp3 _site/episodes/
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deploy
+        uses: actions/deploy-pages@v4
