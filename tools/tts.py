@@ -5,7 +5,7 @@ Usage: make_audio.py SCRIPT.txt OUT.mp3
 
 Uses Google Cloud Text-to-Speech when GOOGLE_TTS_API_KEY is set (natural voice),
 otherwise the offline Festival HTS voice. Optional GOOGLE_TTS_VOICE overrides the
-default voice (en-US-Chirp3-HD-Charon, falling back to en-US-Neural2-D).
+default voice (en-US-Chirp3-HD-Aoede, falling back to en-US-Neural2-F).
 """
 import base64, json, os, re, subprocess, sys, tempfile, urllib.request
 
@@ -24,7 +24,7 @@ def chunks(text, limit=3800):
     return out
 
 def google(text, key, workdir):
-    voices = [os.environ.get("GOOGLE_TTS_VOICE")] if os.environ.get("GOOGLE_TTS_VOICE") else ["en-US-Chirp3-HD-Charon", "en-US-Neural2-D"]
+    voices = [os.environ.get("GOOGLE_TTS_VOICE")] if os.environ.get("GOOGLE_TTS_VOICE") else ["en-US-Chirp3-HD-Aoede", "en-US-Neural2-F"]
     last = None
     for voice in voices:
         try:
