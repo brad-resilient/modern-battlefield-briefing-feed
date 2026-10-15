@@ -1,0 +1,69 @@
+Good morning Brad, this is your Modern Battlefield brief for Thursday, October 15th.
+
+Here's the top line. DARPA, the Defense Advanced Research Projects Agency, has small-business research topics open until next Wednesday that pay for exactly what medics can't do today: find internal bleeding without an imaging machine, and, in one topic, spot an opioid overdose and deliver naloxone with a robot. The military's own medical university has formally written off the golden hour in its new strategic plan. And the Army's big conference closed with the Defense Secretary asking for about fifty billion dollars more for drones and robots, with no medical line in sight.
+
+Drones and the new Army playbook.
+
+AUSA, the Association of the United States Army's annual meeting, wrapped up yesterday, and three pieces from the final days fit together.
+
+First, the Pentagon described a new outfit called Task Force Easy. Its commander, Colonel Michael Penn, says the job is to speed up fielding of small attack drones and small ground robots, starting with first-person-view and one-way attack drones. His line was that the answer isn't just drone dominance, it's adaptation dominance: build a system that learns and updates faster than the enemy. It sits under the new Joint Task Force for Autonomous Warfare.
+
+Second, the Army's vice chief of staff, General Christopher LaNeve, put out a forty-six page guide called How The Army Fights. The part that matters for you is the sustainment section, which they call Endurance. It says medical facilities and supply depots must be protected because there is no safe rear area anymore, and that dispersed units will be supplied by autonomous ground, air and boat platforms, specifically to minimize human exposure in high-threat corridors. Defense News noted the guide says very little about casualty care beyond protecting hospitals.
+
+Third, leaders from the 2nd Cavalry Regiment in Europe listed the soldier's new basics: small drones, counter-drone, ground robots, and, in their words, camouflage for electromagnetic signatures. Every soldier now has to think about what they emit.
+
+Why it matters to you: doctrine now assumes robots carry the supplies into danger and that anything transmitting is a target. A casualty wearable has to fit both. It should ride the same autonomous supply network, and it should stay quiet until a medic or a robot is close. And the guide's silence on casualty care is an opening.
+
+Ukraine's satellite links get throttled.
+
+Overnight Tuesday into Wednesday, Ukraine's military satellite terminals, the government version of Starlink called Starshield, were suddenly limited when moving faster than about a hundred miles an hour. No warning. Ukrainian officials say it disrupted drone strikes and especially the interceptor drones they use against Russia's new jet-powered Shaheds, and one air assault corps said missions were cancelled. Elon Musk says the US government, not SpaceX, controls those limits. The White House and Pentagon didn't comment. Former Ukrainian defense minister Mykhailo Fedorov posted that service up to that speed is being restored, but called removing the cap entirely critical. President Zelensky said people will die. Europe has no equivalent service.
+
+Who ordered it and why is not confirmed, and every side is spinning it. But it matters for one of your standing questions. The threat to a battlefield device isn't only jamming. It's depending on one pipe that someone else can throttle overnight. Any casualty data system needs a fallback: a local mesh, line-of-sight radio, or simply data stored on the device that travels with the wounded soldier.
+
+The golden hour, officially gone.
+
+Stars and Stripes reported yesterday on the strategic plan from the Uniformed Services University of the Health Sciences, the school in Bethesda that trains military doctors. The plan, covering twenty twenty-six to twenty twenty-nine, says flatly: contested air superiority means the golden hour is unfeasible. Medics will instead provide prolonged field care in decentralized, hardened or underground facilities, on what it calls a hyper-lethal battlefield. It points to Ukraine and the Iran conflict. The school plans to shift training toward trauma surgery, emergency medicine and prolonged care, increase students' exposure to severely injured patients by twenty percent through foreign and partner hospitals, and create standard measures of combat medical skill. It doesn't estimate casualty numbers or staffing.
+
+On Monday you heard medics talk about a golden window replacing the golden hour. This is the institution saying it in writing. Care measured in hours or days, in a bunker, with few providers watching many casualties, is a continuous-monitoring job.
+
+DARPA's open medical topics.
+
+This is the one to act on. DARPA's biology office has four battlefield medicine topics in the current round of the Small Business Innovation Research program, called SBIR. Proposals are due October 21st, next Wednesday.
+
+The first asks for a way for a front-line medic with no imaging training to detect internal torso bleeding that can't be compressed, locate it, and estimate how fast it's bleeding, with continuous monitoring in contested conditions. Third-party summaries put the awards at about a quarter million dollars for a first phase, or a million dollars plus a half-million option for teams that can skip ahead.
+
+The second is called TRIAGE-X. Picture a mass-casualty event in a chemically contaminated area where responders can't go in yet. DARPA wants an autonomous drone or ground robot that finds at least twenty casualties, reads vital signs from a distance, recognizes the pattern of poisoning, and actually delivers the treatment after a human approves. And here's the line that should jump out: one of the listed categories is fentanyl-type opioid agents, treated with intranasal or intramuscular naloxone. That's up to one and a half million dollars plus a half-million option.
+
+The third is software that predicts casualty flow and the lifesaving value of different response options, and it has to work with full, spotty, or zero communications. The fourth is an autonomous intensive-care unit in a box for prolonged field care.
+
+Why it matters to you: TRIAGE-X puts opioid overdose recognition, Resilient Pulse's home turf, inside a military mass-casualty program. A week is tight to bid, but it's worth a call to Resilient about teaming with a robotics company, now or next cycle. And verify the dollar figures against the official topic text; I got them from consultant summaries.
+
+Research: the casualty's black box, and lighter kits.
+
+Two papers new to the archive.
+
+The Army Institute of Surgical Research tested three prototype kits that record what a medic does automatically: cameras, microphones, motion sensors on the medic, a pulse oximeter or heart-monitor patch on the casualty, and tags on supplies. Medics liked best the kit that looked worst on paper, one with a near-infrared camera, a heart patch, a muscle-sensing armband and a small edge computer. It was the only one whose video worked in sun, indoors, and low light. The problems were telling: vital signs that lagged made medics distrust them, tags that needed scanning got forgotten under stress, wires came loose, and video ran up to a quarter of a gigabyte a minute. Nobody tracked supplies well, and jamming and multiple casualties weren't tested yet.
+
+The lesson for a product: passive beats active, lag kills trust, and you have to shrink the data at the edge before it can move in a contested network. After the Kuwait story yesterday, where wounded soldiers' injuries went unrecorded, this is the Army building the record that rides with the casualty.
+
+The second paper, in Military Medicine, comes from Northwestern, the military medical university, the Marine Corps Warfighting Lab and the Joint Trauma System. The original prolonged field care kit weighed over fifty pounds, too heavy for dispersed units. They cut it into a basic kit and an advanced kit, with simpler drugs and fewer needles, now going into the 1st Marine Division. Every ounce in a medic's bag is fought over, so a monitor has to earn its weight by replacing a task. And note that Joint Trauma System researchers, including Jennifer Gurney, also co-wrote yesterday's AI triage paper. They're the people to know.
+
+Counter-drone: the jet drone problem.
+
+Russia's jet-powered Geran-5 flies up to about three hundred seventy miles an hour and outruns most interceptor drones. Zelensky said in late September Ukraine downs only fifty-seven percent of jet drones. Ukraine's air force says twelve automatic machine-gun turrets with AI aiming have started knocking them down, and Fedorov says a new interceptor went from idea to its first two kills over Kyiv in a month. Ukraine's defense ministry says drone deliveries this year are about three point seven times last year's pace. These are all Ukrainian claims.
+
+The takeaway: the cost-per-kill race keeps resetting. Cheap interceptors worked until the threat got faster, and now the interceptors depend on fragile satellite links. Protection stays partial, so casualties keep coming.
+
+Money.
+
+On AUSA's last day, Defense Secretary Pete Hegseth said the Pentagon wants roughly fifty billion dollars in one-time reconciliation money to scale autonomous and robotic systems from thousands into millions, and asked officials to tell him which rules can be signed away. Separately, the fiscal twenty twenty-seven Drone Dominance request is fifty-three point six billion dollars. That breaks down to about seventeen billion for unmanned procurement, fourteen billion for counter-drone, thirteen and a half billion for contested logistics, and the rest for collaborative autonomy and personnel. How the two pots overlap isn't clear.
+
+There's no medical line. But thirteen and a half billion for contested logistics is where robotic resupply and casualty movement live. The pitch is a casualty-care payload or data layer for the logistics robots being bought.
+
+Two related deals. Gallatin AI raised a fifty million dollar Series A from 8VC and Silent Ventures for software that plans military supply distribution; its CEO points out that thousands of autonomous robots still need someone to stock them. And the Army gave nine companies a combined ninety-three point six million dollars for a year to build apps on its Next Generation Command and Control system, the data layer Anduril leads. Sustainment is one of its named functions. And the Army's drone marketplace now counts thirty-three nations by AUSA's tally, up from twenty-nine the Army cited the day before; the numbers don't fully reconcile.
+
+That means NGC2 is now effectively an app store with paying customers. A casualty-status or blood-demand app is a plausible software-first way in.
+
+The one thing to think about.
+
+Here's the one thing worth thinking about today. Yesterday it was the Army's triage wearable spec; today it's a DARPA topic that names opioid overdose and naloxone delivery in a battlefield mass-casualty scenario. That's two separate Defense Department efforts this week asking for what Resilient Pulse already does, detecting respiratory depression, plus what it might do next, detecting shock. Meanwhile every program is designing for no network. So the question is: what would a Pulse-like sensor look like if it were built to be read by a robot standing next to the casualty, rather than by a cloud server far away?
