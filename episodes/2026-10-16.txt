@@ -1,0 +1,53 @@
+Good morning Brad, this is your Modern Battlefield brief for Friday, October 16th.
+
+Here's the top line. The Army says it wants a soldier-worn sensor that warns troops when a drone is watching them, with one hard rule: it can't be another thing to carry. A big trial led by the University of Pittsburgh found that whole blood given in the helicopter did not save more lives than standard blood components, while a Ukrainian study shows every extra hour of evacuation makes trouble in transit more likely. And we got a clear look at how the Army buys fast, from an interceptor drone that became a formal program in a hundred and forty-two days to a quarterly event where commanders pick the winners.
+
+A wearable that warns you you're being watched.
+
+At the Association of the United States Army's annual meeting this week, Beth Perry, who runs the Army's C5ISR Center, the command, control, communications, computers, cyber, intelligence, surveillance and reconnaissance lab, said her team has been exploring a lightweight wearable that warns soldiers about nearby enemy drones. It might pair with software that identifies which drone it is, so the unit can decide what to do. Drones sound different, so they're cataloguing acoustic signatures. She called it very early, still in the lab, with no form factor, timeline or budget yet.
+
+Her colleague Jami Davis put the user's priority simply: the soldier knowing he's being observed. And the design rule was just as clear: provide that awareness without giving the soldier another thing to carry. Several companies already sell radio-frequency or acoustic drone detectors as wearables, and one sergeant in Germany built his own for about a hundred and twenty dollars.
+
+Why it matters to you: this is the Army writing the rules any new body-worn sensor will live under. Tiny, low power, built into gear the soldier already wears. A vital-sign sensor and a drone-alert sensor want the same spot on the vest or helmet. A combined module that does threat warning and physiology, or partnering with whoever wins this, is worth thinking about while the requirement is still soft.
+
+Unmanned evacuation, from Pittsburgh.
+
+An Association of the United States Army feature, new to us though the page carries no date, quotes Ronald Poropatich, who directs the University of Pittsburgh's Center for Military Medicine Research. His picture of unmanned casualty evacuation has two halves: autonomous care and autonomous movement. Ground robots pull the wounded out of a kill zone six to twelve miles deep, then drones lift them to higher care, maybe all the way to a Navy ship serving as the hospital. Machine-learning triage would decide who is stable enough to fly without a medic. Pumps, sensors and software would adjust fluids and blood in flight. The flight path itself would adapt to the patient's blood pressure. He says a thirty-minute flight is very doable today, two to three hours with a critical patient probably isn't, and his realistic timeline is five to ten years. An Army spokesman said the service isn't ready to fly troops on unmanned aircraft yet. Practitioners are writing the same thing: an Army War College piece in July proposed drones that fly casualties straight to a surgical hospital while monitoring vital signs, and a defense Substack called Fox and Lion argues prolonged casualty care could run seventy-two hours.
+
+Why it matters to you: every piece of that vision depends on a continuous physiological feed riding with the casualty. And the person describing it works in your city.
+
+Robots can't do the second leg.
+
+A Ukrainian company that builds both ground robots and armored vehicles, Ukr Armo Tech, says robots are fine for resupply and for the first pull out of the kill zone, but the second leg of evacuation needs a protected medical vehicle where treatment starts on the move, transfusions and resuscitation, and a robot's capsule has no room for that. Its chief executive puts Ukraine's shortage of medical evacuation armor at about eighty percent. Keep in mind he sells armor. But it fits what we heard Tuesday, that robots fail most evacuation attempts. The pathway is becoming robot, then armored ambulance, then hospital, with a handoff at every step. Information that travels with the patient across those handoffs is a gap nobody owns.
+
+Research: blood, and time in transit.
+
+Two studies, both new to the archive. First, the TOWAR trial in the New England Journal of Medicine, led by Jason Sperry and Francis Guyette at the University of Pittsburgh. Forty-four air medical bases were randomized to give up to two units of type O whole blood, or standard plasma and red cells. Among about a thousand patients in hemorrhagic shock, thirty-day mortality was about twenty-six percent with whole blood and about twenty-one percent with components. That difference wasn't statistically significant, so whole blood didn't win. Blood stored fifteen to twenty-one days did just as well as fresher blood, which is good news for logistics. A tactical medicine commentary points out the comparison group had full components on a helicopter, which doesn't exist far forward, where the real alternative is saline or nothing.
+
+Second, a Military Medicine study from Kyiv's main military hospital looked at a hundred blast-injured soldiers moved by helicopter or by ground and rail critical-care transport. Eight percent had an adverse event in transit, including three deaths. Ground and rail were much riskier than air, and each extra hour raised the odds by forty-seven percent. A simple score using body weight and hours predicted trouble fairly well. It's one center and a small sample.
+
+Why it matters to you: the lesson from both is that what counts is spotting who is bleeding and getting blood in early, and then watching the patient while they move. Both are monitoring problems, and Pittsburgh's trauma group is running these trials.
+
+What China is learning from Ukraine.
+
+A Center for Strategic and International Studies paper by Lilly Min-Chen Lee and Kateryna Bondar reviewed more than ninety Chinese-language sources. Chinese analysts write up new drone tactics from Ukraine in about four months, and turn them into hardware or training in about a year. Fiber-optic drones were in Chinese training within a year of showing up at the front. Their counter-drone conclusion is that the best counter to a drone is another drone. One detail stood out: a Chinese brigade used detectors that match radio emissions against a catalog of more than eight hundred commercial drone models. Why it matters to you: in a Pacific fight, expect Ukraine-style casualty patterns, and expect that anything that transmits, a wearable included, can be fingerprinted.
+
+Counter-drone: speed and cost.
+
+The Army explained how its Merops interceptor drone became a formal program of record in a hundred and forty-two days, faster than its hundred-and-eighty-day standard. It was rushed to NATO partners in about three weeks, the Army bought thirteen thousand of them about eight days after the Iran conflict started, and each costs about fifteen thousand dollars, maybe under ten thousand at scale. Meanwhile Estonia's new defense minister said his country should study light jet aircraft to shoot down Russia's jet-powered drones, which fly over four hundred kilometers an hour. Ukraine's interception rate rose from about forty to sixty percent over the summer while jet-drone launches grew to several thousand a month. Protection stays partial, so casualties stay high.
+
+The front door for small companies.
+
+The office behind Merops, the Global Tactical Edge Acquisition Directorate, runs what it calls Accelerated Capability Events. A commander submits a problem. The directorate checks whether an existing program already solves it, then goes to industry. It typically gets a hundred and fifty to two hundred and fifty responses, brings fifteen to a soldier-led demonstration, and gives five of them contracts and feedback. Those five get about forty-five days to improve before an operational test, the commander picks, and the directorate pays for the first buy. Its director says the warfighting command gets fifty-one percent of the vote. Events are meant to be quarterly, with Army Europe and Africa next month and Army Pacific later. No medical event has been mentioned. Why it matters to you: this is the shortest path from prototype to a first Army purchase, but the problem has to come from a commander. Getting a unit's surgeon to raise casualty monitoring is the move.
+
+Money.
+
+Anduril opened an employee share sale of up to about one point three billion dollars that values the company near ninety billion, up from sixty-one billion in May, according to secondary reports citing Bloomberg and CNBC. In Europe, defense startup funding hit seven point four billion dollars so far this year, up from two point six billion in all of last year, with drones taking most of it. A Bessemer investor warned that exits are scarce in Europe and the United States alike. Medical isn't even a category in the European data. That means less competition for a medical niche, but plan on a buyer like a big defense tech company that needs a casualty-care story.
+
+AI.
+
+Two quick ones. The Marine Corps is opening a wargame tournament from December through April where Marines play against an adaptive AI opponent in drone-swarm scenarios. And Jeremy Pamplin, who works at the Defense Advanced Research Projects Agency's biology office, wrote in Military Medicine that remote expert telemedicine won't scale when casualties pile up and networks are thin, so triage AI has to be small enough to run on the device. His office wrote the battlefield triage and bleeding topics we covered yesterday.
+
+The one thing to think about.
+
+Here's the one thing worth thinking about today. Two of the most important people for your thesis, the researcher designing unmanned evacuation and the team running the biggest prehospital blood trial, are at the University of Pittsburgh. Their work all points at one need: a sensor and a record that stay with the casualty from the robot to the armored ambulance to the aircraft, and tell someone who is bleeding and who is getting worse. So the question is: would a coffee with Poropatich's center be the fastest way to find out what that device has to do, and who at the Army would buy it?
