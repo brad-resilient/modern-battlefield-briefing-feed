@@ -1,0 +1,47 @@
+Good morning Brad, this is your Modern Battlefield brief for Saturday, October 17th.
+
+Here's the top line. The Army's Pacific commanders now say that if the enemy can see you, the enemy can hit you, and that hardening alone won't save a base, so the answer is to keep moving, hide and deceive. The slowdown of SpaceX's military satellite service in Ukraine this week was reportedly ordered from inside the White House, and it hit the cheap interceptor drones Ukraine uses against Russian attack drones hardest. And Ukraine has sent a drone that carries a wounded soldier on a stretcher to a front-line brigade for testing.
+
+The threat picture.
+
+At the Association of the United States Army's annual meeting, Gen. Ron Clark, who commands US Army Pacific, told The War Zone that the lessons from Ukraine and Iran apply in the Pacific, but the problem is harder there because China is a near-peer and the ability to see targets on the surface is, in his words, almost ubiquitous. His line was simple: if they can see you, they can hit you. Gen. Xavier Brunson, who commands US forces in Korea, described maneuver now as a series of short relocations, always expecting to move again soon. Col. Rosanna Clemente, who runs the 35th Air Defense Artillery Brigade, said her units practice what she calls mobility and survivability jumps when a threat warning comes in, and that passive defense has to include deception, movement and distraction, not just hardening. The piece also notes old tricks coming back: smokescreens against drones, and paint schemes designed to confuse AI-enabled targeting.
+
+That matters because survivability is shifting from protecting a fixed site to not being where the enemy thinks you are. That creates demand for cheap, fast things: quick-erect decoys, signature reduction, smoke, camouflage that fools a machine as well as a person, and sensors that tell a unit when it's time to move. The buyer is big and the field has no dominant vendors.
+
+A quick note from Europe. Bulgaria formally asked NATO for combat aircraft and anti-drone systems after a commercial ship sank off its coast following a drone attack, and two more ships burned off Romania. NATO ambassadors take it up next week. Commercial shipping and ports have almost no air defense of their own, so that's a growing customer outside the Pentagon.
+
+Detection and early warning.
+
+This one is from July but new to us. The 352nd Special Operations Wing at RAF Mildenhall in England went shopping for passive acoustic drone sensors after the drone swarms over British bases in late 2024. The spec is concrete: four networked units, each under ten kilograms so one person can set it up, detecting small drones at five hundred meters or more, and still working when GPS is jammed. The appeal of listening rather than using radar is that it emits nothing, so it doesn't give away the base. The catch: no award until money is appropriated. That's the pattern in base early warning: buyers write good, simple specs before they have money, so timing the budget matters as much as the product.
+
+Counter-drone.
+
+Lasers keep getting cheaper per shot and simpler to run. In South Korea on Wednesday, two Hanwha lasers shot down all three target drones in an Army exercise. Hanwha says a shot costs about a dollar fifty, and it plans to start building a fifty-kilowatt laser armored vehicle for export at the end of 2027. Here at home, the company KBR described Firefly, one of the four lasers in the Pentagon's yearlong base-defense pilot we covered on the twelfth. What's new is how it works: radar cues a human, the human confirms on camera and fires, aiming at a propeller or fuel tank, and the controller is literally an Xbox controller to cut training time. The company admits it engages one drone at a time and is not a silver bullet against a swarm. So the open problems around lasers are cueing, deciding which drone to burn first, and operator workload. Those are software and sensor jobs smaller companies can win.
+
+Now the Starshield follow-up. On Thursday we reported that the military version of Starlink slowed for Ukraine overnight. Reuters now reports, citing two US officials and a Western official, that the order came from inside the White House; a senior US official denied the president asked for it. Receivers on anything moving faster than about a hundred miles an hour stopped working, and some units reported dropouts closer to forty-five. Ukrainian officials say it slowed the interceptor drones they launch against Russian Shaheds, while long-range strikes on Russian refineries weren't affected. Elon Musk said on X that the limits are set by the US military and ultimately the president. This lands just as Russia's jet-powered drones climb to about forty percent of launches, possibly heading to eighty. Fourteen companies are flight-testing faster interceptors with Ukraine's air force, and officials don't expect them at scale before late November.
+
+The lesson for anyone building drones or interceptors: the cheapest air defense layer in the world depended on one satellite network that someone else could throttle overnight. Link independence, meaning multiple paths, mesh networking, and onboard autonomy that can finish the job without a link, is now a hard requirement and an open, funded problem.
+
+Moving through the kill zone.
+
+The Associated Press got a first look at StarGate, a six-rotor drone from the Ukrainian company SkyFall that carries a wounded soldier on a stretcher. By the company's figures it lifts a hundred and fifty kilograms, enough for a soldier in armor, flies about fifteen kilometers one way at around forty miles an hour, takes ten minutes to prepare, flies at night, keeps going when GPS is jammed, and can fire a net at an attacking drone. It costs at least fifty thousand dollars. A commander who goes by KVN said ground robots take two to three hours to reach the same positions, and that covering ten kilometers in minutes would be a drastic change. But there's no combat data yet; his unit needs a month to judge, and other soldiers doubt it survives a drone attack with a person aboard.
+
+Put that next to what we've heard all week: robots for the first pull, armored ambulances for the second leg, now aircraft. Casualty movement is turning into a chain of different vehicles, and protecting each leg, with escort counter-drone, routes that avoid watched corridors, and tracking of who is where, is a gap nobody owns.
+
+On the research side, the conflict-monitoring group ACLED counted three hundred sixty-one Ukrainian attacks in six months along Russia's main southern supply road to Crimea, about nine in ten by drone. Attacks on trucks, fuel tankers and convoys nearly tripled from March to April. Russia closed the highway to military traffic, moved to back roads, escorted convoys and restricted hours, and shifted to rail and water. Compare Ukraine, which netted more than eight hundred kilometers of its own roads by June. One side hardens the road; the other abandons it. That's the clearest data yet on what drones do to road-bound logistics, and it is the problem US planners face in the Pacific.
+
+Hardening.
+
+The War Zone points out that the Pentagon still has no department-wide push to build aircraft shelters, using the example of B-1 bombers parked in the open in England before they suddenly left. Air Force Gen. Kevin Wilsbach prefers active defense and cheap nets, saying the economics of a shelter that can't be destroyed don't work, and that unless you go a hundred feet underground, it can be blown up. What Central Command has actually asked for is telling: prefabricated blast and fragment shelters delivered to Jordan in three, fifteen or thirty days, with delivery speed ranked ahead of protection level. The near-term money in hardening isn't concrete. It's fast, modular, good-enough protection that ships in days.
+
+Casualty care.
+
+In the Pacific, Maj. Gen. Darrin Cox of the 18th Theater Medical Command says distances make the golden hour hard to meet, so the goal is bringing care to the casualty instead. His command is experimenting with autonomous delivery of blood, pursuing blood-sharing deals with Australia and Japan, testing surgical teams that operate from Army boats, and already carrying patients on small robotic vehicles. Pacific casualty care is turning into a logistics problem on water, which opens the door to maritime and autonomy companies, not just medical-device makers.
+
+Money.
+
+One follow-up on the fifty billion dollar drone request. Hegseth now ties the new Autonomous Warfare Command to a reconciliation bill he wants at three hundred fifty billion or more, and a Democratic win in either chamber on November third would all but kill it; the fallback is the base budget, with cuts elsewhere. Meanwhile, the small Florida company Mountain Horse Solutions got a second fast-track order for its one-soldier interceptor through the Army's tactical edge acquisition office. Big autonomy money is uncertain for a year. Small, repeat orders for things that already work are the reliable path.
+
+The one thing to think about.
+
+Every story today says the same thing in a different way: the side that wins isn't the one with the hardest shell, it's the one that is hardest to find, hardest to cut off, and quickest to move. So ask which piece of that you'd build: hiding a unit, keeping its links alive, or moving its people and supplies through ground the enemy is watching.
