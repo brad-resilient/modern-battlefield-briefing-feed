@@ -1,0 +1,65 @@
+Good morning Brad, this is your Modern Battlefield brief for Sunday, October eighteenth.
+
+Here's the top line. Russia is mass-producing jet-powered attack drones and building launch sites for them in weeks, and the cheap interceptors Ukraine relied on are being knocked out by a speed cap on their satellite link. The drone war at sea has now reached NATO waters, with at least seven merchant ships hit off Romania and Bulgaria this month and no navy there equipped to escort them. And the Army says it wants lasers on any vehicle in the motor pool, while its own engineers admit the hard part is keeping them running.
+
+It's a Sunday, so the news was thin. I've used the last two days plus a few important items from earlier in the week that we hadn't covered.
+
+The threat picture.
+
+Start with what Russia is building. Satellite images, analyzed by a Ukrainian open-source group and separately by Reuters, show a new launch base for jet-powered drones near Millerovo air base in Russia's Rostov region. On September first it was an empty field. By October twelfth it had launch rails going in and drones appeared to be arriving. It has eight launch positions and thirty-two preparation areas, and one analyst estimates it could send a hundred or more of these jet drones in a single day once it's finished. That's his estimate, not a confirmed figure.
+
+Then on Thursday night into Friday, Russia launched three hundred thirty-two drones at Ukraine, some of them jet-powered, along with ballistic missiles. Ukraine says it brought down two hundred eighty-nine. More than fifteen power plants and transmission sites were targeted, and seven people were killed. On Friday evening, Romania scrambled two F-16s and shot down two jet-powered drones of the Geran family over Romanian waters.
+
+Why it matters: these jet drones fly at up to six hundred kilometers an hour, and the sites that launch them can be built in about six weeks. Every fixed target within range, including allied bases and ports, now needs a defense that can catch something fast. Slow propeller interceptors and short-range guns struggle with that.
+
+Now the Black Sea, a follow-up to yesterday's note about Bulgaria. At least seven cargo ships have been hit by drones in Romanian and Bulgarian waters this month. Two people are dead and at least twenty-five are missing, and two ships have sunk. Romania's acting defense minister says Romania and Bulgaria will jointly propose a NATO counter-drone command for the Black Sea, with Romania offering to lead it starting in twenty twenty-eight. A Romanian defense source said bluntly that Romanian warships lack the air defense to escort merchant convoys. Insurance premiums are climbing. Who launched the drones is still disputed; Ukraine blames Russia.
+
+That's convoy protection with no protection. The buyers forming here are the eastern-flank NATO states, plus shippers and insurers. Detection and defeat kits that bolt onto a merchant ship or a port are an open market.
+
+Detection and early warning.
+
+One research item. A preprint posted in June on arXiv, the open research archive, describes EchoHawk, an open-source system that listens for drones by the hum of their rotors, figures out which way the sound is coming from with an array of microphones, and tracks it. The more useful finding is a warning. The author shows that a popular public dataset lets pieces of the same recording land in both the training and the test set, which makes detection look better than it is. Fixing that cut the detection rate by about five points. It hasn't been peer reviewed.
+
+Why care? Listening sensors are exactly what buyers are asking for: the special operations wing at Mildenhall we covered yesterday, and the Army's soldier-worn drone warning idea from Friday. If vendors are grading themselves on leaky data, then an honest, field-recorded test set and an independent evaluation service is a gap of its own.
+
+Counter-drone.
+
+The Starlink story has new details. President Zelensky says the satellite connection drops once anything passes a hundred sixty-one kilometers an hour, which is about a hundred miles an hour, and is lost completely after about two minutes. So the interceptor drones Ukraine uses against Russia's jet drones simply fall out of the sky. He says Ukraine tested the same equipment in European Union countries at a hundred eighty kilometers an hour and higher, and it worked fine, which is why he calls the cap a planned operation. SpaceX isn't answering Ukrainian military calls, and US officials call it technical difficulties.
+
+Meanwhile Ukrainian fighter jets are doing fifty-five to sixty percent of the work against jet drones. But about half of Ukraine's F-16s have been in Europe for long repairs, and some parts for the older models aren't made anymore. One bright spot: Ukraine's defense minister says one unit destroyed five targets with five Bars jet-powered interceptors. And Serhii Beskrestnov, the presidential tech adviser who goes by Flash, wrote on Telegram that the cap takes away one of the few chances Ukraine has against these drones. Keep in mind these are Ukrainian officials who are a party to the dispute.
+
+The takeaway: the fallback against jet drones is scarce jets and scarce pilots. An interceptor that doesn't need a commercial satellite link, one that finds its target with its own seeker or a local network, is the most urgent counter-drone gap of the week.
+
+Next, lasers. At the Association of the United States Army meeting, Brigadier General Guy Yelverton said the Army wants its new thirty-kilowatt laser, AeroVironment's LOCUST, on many kinds of vehicles and run by soldiers who aren't air defenders. What's new is the honesty about limits. The laser runs on batteries, and its magazine is about eighty to a hundred twenty seconds of firing before it has to recharge. The Army's directed energy engineers say their top priorities are reliability, maintenance and repairability, then making it small enough for light vehicles, then better tracking and aim-point control. A separate panel said the Army will mix interceptors to stay on an affordable cost curve, with a new low-cost interceptor capped at a million dollars against about four million for a Patriot missile.
+
+So the laser itself isn't the bottleneck. Keeping it running, powering it, and choosing which drone to burn in a two-minute window are. Those are jobs smaller companies can win.
+
+Moving through the kill zone.
+
+Airbus flew its MQ-72C, an uncrewed version of the Army's Lakota helicopter, five times in Huntsville on its own dime. In one test, a no-fly zone popped up mid-flight and the aircraft rerouted around it by itself. A safety pilot was aboard and never touched the controls. It takes commands from up to seventy miles away, over Starlink. The general commanding the hundred-and-first Airborne said long-range air assaults will need autonomous resupply, because you can't sling-load cargo under a helicopter at two hundred fifty knots for five hundred miles. On the ground, the Army's six robot vendors for its Infantry Last Tactical Mile program, including Forterra and Overland AI, are on prototype deals, with trials reported for this coming week.
+
+Notice the catch. A brand-new autonomous cargo aircraft leans on Starlink, the very link that failed in Ukraine this week. Navigation and control that work without it are a requirement waiting to be written.
+
+Hardening.
+
+Russia has turned the improvised drone cage into a factory product. A Ukrainian outlet, working from Russian media photos and an analyst's notes, reports a kit for the BTR-82A armored personnel carrier with metal grilles, chains, rubber-fabric screens, and a screened enclosure on top for troops. It's meant to set off a drone about a foot from the armor. The cost is measured: about fifteen percent more weight, top speed down to about fifty kilometers an hour on roads, a turret that no longer turns all the way around, and about sixty hours of labor to install. The analyst calls the rubber screens a fire hazard. Treat the details as unverified.
+
+That gives Western makers a baseline to beat: standoff protection for troop carriers that's lighter, doesn't burn, and fits in hours.
+
+Casualty care.
+
+The Army's Blast Injury Research Coordinating Office has asked industry for information to help set standards for blast brain injury, covering everything from overpressure and fragments to building collapse and toxic gas. It specifically wants protective gear makers to weigh in on human tolerance limits. Those standards will feed survivability assessments and the design of protective gear. Recall from yesterday that most of the nearly seven hundred Americans wounded in the Iran war had brain injuries. Whoever helps define the thresholds shapes what every helmet, seat and shelter must meet, and answering a request for information costs almost nothing.
+
+Money.
+
+Ukraine's December First, which makes the Damba jammer it says is deployed by the thousands at the front, is setting up a joint venture in Lithuania with a local drone designer, with production starting in twenty twenty-seven. Battle-tested Ukrainian gear is moving into European factories just as NATO's forty-billion-dollar counter-drone initiative ramps up. For an American company, partnering or licensing may beat competing head-on.
+
+Artificial intelligence.
+
+Two items on autonomy without a link. The Navy flew a drone that completed its mission and landed on a moving ship with no GPS and no pilot, using ordinary cameras and motion sensors. And the Ukrainian startup Occam raised three point eight million euros for software that lets existing cheap drones find, track and hit targets without a constant operator link or satellite navigation, with interceptor guidance next. This week showed exactly why that's fundable.
+
+Your weekly synthesis for the past seven days is in the archive, in the file called weekly.
+
+The one thing to think about.
+
+This week the cheapest air defense in the world went dark because someone else controlled the link. Ask yourself which of the things troops depend on, a link, a road, a ship, a helicopter, has no backup today, and what the smallest product would be that keeps it working when that single thread is cut.
