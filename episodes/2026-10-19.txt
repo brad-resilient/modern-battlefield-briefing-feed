@@ -1,0 +1,67 @@
+Good morning Brad, this is your Modern Battlefield brief for Monday, October nineteenth.
+
+Here's the top line. The long-range drone war now reaches about eight hundred fifty kilometers deep in both directions, and both sides are rationing their defenses, with Ukraine down to a trickle of Patriot missiles. The satellite link Ukraine's interceptors depend on is now under physical attack as well as political pressure, with a third sabotage attempt on a European Starlink ground station in a month. And the military is buying for the casualty who waits: the Marines are fielding a portable blood and ultrasound kit, and a new study shows what long waits are doing to tourniquets.
+
+It's Monday, so this covers the whole weekend, plus a couple of items from earlier in October we hadn't covered.
+
+The threat picture.
+
+Start with the weekend's biggest event. Russia's defense ministry says it brought down one thousand and fifteen Ukrainian drones overnight Saturday into Sunday, across fifteen regions. Some reached the St. Petersburg area, about eight hundred fifty kilometers from Ukraine, where officials reported hits on an oil terminal, an oil depot, a data center and a big logistics warehouse. One person was killed and about twenty thousand lost power. Those are Russian figures, and the damage hasn't been independently verified. President Trump criticized Ukraine's energy strikes and paused new sanctions on Russia. Zelensky, for his part, offered to stop hitting Russian diesel facilities in exchange for Patriot missiles.
+
+Going the other way, Russia launched almost twenty-seven hundred attack drones at Ukraine last week, by Zelensky's count. And one night's numbers tell you where the problem is. On Saturday night into Sunday, Russia sent a hundred eighty Shahed-type drones, twenty-six of them jet-powered. Ukraine shot down about eighty-eight percent of the propeller drones, but only about sixty-two percent of the jet drones. That's my arithmetic from the Ukrainian Air Force report. Put simply, jet drones are getting through about three times as often.
+
+Why it matters: long-range one-way drones are now a mass weapon aimed at fuel, data and logistics, far from the front. And that leak rate on jet drones is the gap every cheap interceptor and gun maker is trying to close.
+
+One more threat item. Russia's Gerbera drone, which started life as a cheap decoy to soak up air defenses, now has a bigger version carrying a ten-kilogram warhead plus a bag of incendiary fuel, apparently built to set warehouses on fire. That comes from photos on a Russian Telegram channel, so treat the details as unconfirmed. The point is that the decoy defenders learned to ignore is turning into a real weapon, and the depots it seems built for are among the least protected sites anywhere.
+
+Detection and early warning.
+
+Following up on yesterday's Romania story, we now have the timeline. On Saturday evening, Romanian radar picked up two jet drones about a hundred twenty kilometers out, F-16s launched, and both drones were down within six minutes of crossing into Romanian airspace. Romania has logged thirty-five drone intrusions this year and shot down six. NATO's North Atlantic Council meets in a special session tomorrow on Black Sea security.
+
+The next morning, an unidentified drone crossed into Lithuania. NATO jets tracked it and couldn't shoot it down because of the weather. Debris was found later in a village. And Zelensky said American intelligence on Russian ballistic missile launches was cut off for three days before it resumed on Sunday.
+
+Why it matters: detection works when radar and fighters are already in place. It fails when the target is a fast jet in bad weather, or when the warning feed belongs to somebody else who can switch it off. Cheap, all-weather ground sensors and shooters for the long, quiet stretches of NATO's border are still an open problem.
+
+Counter-drone.
+
+The constraint on air defense right now is magazine depth, meaning how many shots you have. Zelensky says the U.S. is now sending about twelve Patriot interceptors a month, roughly a quarter of the earlier rate, including some Ukraine has already paid for. Those are his numbers, and the U.S. hasn't confirmed them. Against jet drones, Ukraine is leaning on F-16s firing their twenty-millimeter cannons, which account for well over half the kills, plus cheap interceptor missiles and dozens of home-built automated gun turrets.
+
+On the supply side, Raytheon is testing a new version of its Coyote interceptor that swaps the small jet engine for a solid rocket motor, with a new seeker and warhead, aimed at the bigger, faster class of drones. It's had three live test launches. For scale, Coyote has been reported at about a hundred thousand dollars a shot, against about fifty thousand for a Shahed. And Hungary showed off a laser that destroyed a target drone on Saturday, saying troops could have one within a year.
+
+Why it matters: everyone is short of interceptors, and every fix is about making a shot faster or cheaper. Jet drones are forcing interceptors to get faster without getting more expensive, and that's the core design problem in this market.
+
+Protected movement.
+
+Ukraine has spent this year hanging anti-drone netting over roads, with a plan for four thousand kilometers of it. Now one brigade says that's not enough. Ukraine's ninety-third Mechanized Brigade, near Kramatorsk, showed a TV crew an underground passage whose exits lead straight to its drone-operator positions, so troops spend less time in the open. A soldier said nets no longer reliably protect people, because new drone tactics get past them.
+
+Why it matters: when the cheapest protection starts failing, the next step is digging, and digging is slow, heavy labor. Fast tunneling, prefabricated buried passages and engineer tools for covered movement are a hardening market that almost nobody in Western defense tech is serving.
+
+Second, ground robots are starting to protect themselves. At the Army's big conference last week, Forterra showed its autonomous ground vehicle carrying a ten-tube launcher of small counter-drone interceptors. Textron launched a kit that converts ordinary crewed vehicles to drive themselves. And a British robot called Varan, carrying about five hundred kilograms, navigates with cameras and thermal sensors only, so it gives off no radar or satellite signal for the enemy to find. It lists casualty evacuation among its modules. This lands just as the Army's Infantry Last Tactical Mile robot trials, for frontline resupply and casualty evacuation, were due to start this week, though there's no reporting on them yet.
+
+Why it matters: the logistics robot is becoming a protected convoy of one. If you want into that market, supplying the parts, like small interceptors, passive navigation or retrofit kits, to the six Army vendors may be easier than building a whole robot.
+
+Hardening.
+
+Back to the satellite link. At about two in the morning on Sunday, people carrying containers of flammable liquid tried to burn nine Starlink antennas at a Lithuanian company that provides communications for Ukraine. Security had been increased after warnings, and nothing was damaged. Lithuania's prime minister called it sabotage tied to Russia. It's the third attack on Starlink ground stations in Europe in thirty days, after sites in Poland and Bulgaria, with arrests in both cases. Meanwhile, the speed cap on Ukraine's military Starshield service, which cuts out above about a hundred sixty kilometers an hour, still hasn't been fully lifted. Ukraine is asking for at least four hundred fifty.
+
+Why it matters: the link that interceptors, strike drones and logistics run on now has two weak points, political control and physical sabotage at commercial sites with ordinary fences. Guarding those unglamorous nodes is a force-protection problem that private companies own, not militaries.
+
+Casualty care.
+
+The Marine Corps is fielding a prolonged-care kit: a battery-powered refrigerator for blood, a portable blood warmer, a handheld ultrasound for spotting internal bleeding, and a power manager to keep it all running. The fridge and warmer went to the Middle East this year, where one unit ran a continuous mobile blood bank. The program manager put it plainly: "We're leaving the golden hour behind." Separately, Latvia set up war reserves of critical medicines, and Germany's military is planning for up to a thousand wounded a day in a war on NATO's eastern flank.
+
+And here's the research item. Ukrainian military surgeons, writing in the journal Military Medicine in June, compared tourniquet patients in early twenty twenty-five with patients in twenty sixteen, before drones. In twenty twenty-five, more than sixty percent arrived after three hours, compared with fifteen percent before. Two-thirds of the injuries were from drones. Badly applied or ineffective tourniquets more than doubled, from about seventeen percent to thirty-seven and a half percent. And evacuation points had to move ten to fifteen kilometers further back.
+
+Why it matters: this is the golden-hour story in hard numbers. Long waits mean tourniquets left on too long or put on wrong, and both cost limbs. Training, tourniquet conversion tools and simple ways to track a waiting casualty are cheap problems with clear evidence. And the Marine kit shows the hidden enablers of waiting are cold storage and power.
+
+Money and AI.
+
+Under the Pentagon's Drone Dominance program, the drone maker XTEND won a forty and a half million dollar order for six thousand drones, which works out to under seven thousand dollars each, and Orqa won thirty-eight million to build drones in the U.S. The Navy put another hundred fifty million dollars into Shield AI's X-BAT fighter drone, and Shield AI is matching that with its own money. And the Australian firm Electro Optic Systems signed a seven hundred million dollar counter-drone deal with an unnamed Gulf state, built around its software stitching together other companies' radars, jammers and interceptors. That one is still conditional, with no guarantee it goes ahead.
+
+Finally, the Army gave a company called webAI fourteen and a half million dollars to run artificial intelligence models directly on laptops, handhelds and vehicles, so they keep working when the network is jammed. It's the same lesson as Starlink, applied to software.
+
+The one thing to think about.
+
+Here's the thing worth chewing on today. Almost every story this morning comes back to dependence on something you don't control: someone else's satellite, someone else's missile warning, someone else's interceptor stockpile, a commercial ground station behind a chain-link fence. The force-protection opportunities that keep showing up aren't just better weapons. They're ways to remove a single point of failure. Ask of any idea: what does this unit stop depending on if they buy it?
+
+That's your brief. Have a good Monday.
