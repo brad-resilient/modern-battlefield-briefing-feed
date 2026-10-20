@@ -1,0 +1,61 @@
+Good morning Brad, this is your Modern Battlefield brief for Tuesday, October twentieth.
+
+Here's the top line. Ukraine says it flew a wounded soldier off the front line hanging under a heavy-lift drone, which would be the first aerial drone evacuation of its kind, though it isn't independently confirmed. The cheap end of air defense is going into long-term production, with a Pentagon deal for up to twenty-five thousand guided rocket kits a year and a new European line for anti-drone cannon rounds. And the links that protection depends on are still owned by someone else: Kyiv got no missile warning again, Starshield now drops out at lower speeds, and NATO's top council meets today on the drone attacks against ships in the Black Sea.
+
+The threat picture.
+
+Start with Sunday night into Monday. Russia launched sixteen ballistic missiles and more than two hundred drones at Ukraine in three waves, aimed mostly at Kyiv. Zelensky says they hit twenty-eight substations and other energy sites across eleven regions, and at least five hundred fifty thousand households lost power.
+
+The part that matters for force protection is the warning. Zelensky says partners, including the United States, gave no early warning. Ukraine's Air Force says there was nothing before the first wave around eleven at night, though they did get notice before the three a.m. wave. Kyiv Independent reporters say the first explosions came at the same moment as the sirens. Secretary of State Rubio said he didn't know exactly what happened. He mentioned a software problem with Ukraine's early warning system a few nights earlier that U.S. European Command had looked at.
+
+One follow-up from yesterday. The drone that came down in Lithuania on Sunday was Ukrainian, according to Kyiv's foreign ministry, which thinks Russian jamming pushed it off course. That explanation is preliminary. Its debris damaged a civilian car.
+
+So two lessons. Warning that depends on a partner's satellites and software can fail, or be withheld, and the cost is minutes of shelter time. And jammed drones are now landing in allied countries.
+
+Detection and early warning.
+
+Two small Ukrainian products show where soldier-level drone warning is heading. BlueBird Tech released version four point five of its Chuyka detector. It weighs nine hundred forty grams, mounts on standard webbing, runs about four and a half hours on its battery, and scans four bands from about one gigahertz up to eight point eight gigahertz every four to eight seconds. It shows the enemy drone's own video feed on its screen and can now send that feed to a monitor in a command post. Range is up to four kilometers, depending on terrain. The new top band is there to catch newer first-person-view drones and Russia's fixed-wing Molniya. A second company, CODE380, makes a two-hundred-ninety-gram software-defined radio analyzer. The maker says it can pick up analog drone video as far as ten kilometers away and detect, though not decode, DJI drone signals at about two and a half kilometers.
+
+Now pair that with a research paper new to our archive, from July on arXiv, by David Shulman. Radio-frequency drone identification models often look far better than they are, because slices of the same recording end up in both the training data and the test data. On a public dataset, honest testing dropped one result from a score of point seven four to point four six, which is coin-flip level. That's the second paper we've covered this month with the same warning. The first, on October eighteenth, was about acoustic detection. Cheap detectors are shipping monthly, but the accuracy numbers behind them deserve independent testing. That's a small, defensible niche.
+
+Also, the Army's Multi-Domain Command Europe told The War Zone it wants to launch high-altitude balloons two or three hundred at a time in a European war, as sensors, decoys and a backup communications relay if satellites are degraded. Some would carry small attack drones. There's no funding yet.
+
+Counter-drone.
+
+This was a good day for the cheap end of the counter-drone market. The Pentagon signed a framework with BAE Systems for up to twenty-five thousand APKWS kits a year for up to seven years. APKWS stands for Advanced Precision Kill Weapon System. The kits turn ordinary unguided rockets into laser-guided ones, a much cheaper way to shoot down drones than air-to-air missiles. There's a path to thirty-five thousand a year if allies order. The cost wasn't disclosed, and Congress still has to fund it. Italy is considering about five thousand kits for counter-drone use.
+
+Rheinmetall is putting about twenty million euros into a line in Albacete, Spain, for about one point two million cannon rounds a year, twenty to thirty-five millimeter. That includes airburst rounds like the ones Ukraine fires from its Skynex anti-aircraft guns. A Slovenian company, Valhalla Turrets, showed a turret pairing a three-barrel twenty-millimeter Gatling gun with laser-guided rockets and three-hundred-sixty-degree radar, though it hasn't published performance figures. Zelensky says anti-drone turrets have been highly effective against Shaheds and will be built in larger numbers.
+
+At the expensive end, the Patriot story moved. Three anonymous Ukrainian sources told the Kyiv Independent that a significant batch of Patriot interceptors, already paid for by allies, is waiting on Defense Secretary Hegseth's approval. A U.S. official called that not true, and NATO says deliveries continue.
+
+And the Starshield update, nine days in. Zelensky said yesterday the equipment now stops working somewhere between one hundred thirty and one hundred sixty-one kilometers an hour at the front. Last week's reported cap was one hundred sixty-one, so the floor looks lower, and it contradicts defense ministry sources who said connectivity had been restored. It still grounds Ukraine's jet interceptor drones.
+
+Protected movement.
+
+The Black Sea is the movement story of the day, and NATO's North Atlantic Council meets on it today. Here's what's new. Maritime Executive counts eight drone attacks on merchant ships in the western Black Sea this month, outside Ukrainian waters. Four were near Romania, two of those inside its territorial waters, and four were in Bulgaria's offshore economic zone. About twenty-eight crew are missing from three ships. Ships heading to Ukraine are now hugging the Bulgarian coast to stay safer.
+
+Ukraine says it will cover up to eighty percent of losses to ships and cargo when insurers won't, and Zelensky says Russia refused to guarantee safe passage for food shipped under Turkish, Indian or Egyptian flags. Under the law of the sea, a coastal country isn't responsible for ships passing through its economic zone, so protecting merchant ships from drones has no clear owner yet. Watch whether today's meeting produces a mission, air defense deployments, or just a statement.
+
+Hardening.
+
+Data centers have become front-line targets. Between October eighth and eighteenth, Ukrainian drones hit three Yandex data centers, a Sberbank facility and a VK data center. The first strike caused outages in banking and other services across Moscow and Saint Petersburg. About eighty percent of Russia's data centers sit in the Moscow region, according to a former head of Yandex Ukraine. A Russian regional governor has now proposed putting data centers in old open-pit mines and quarries. Russia hit a Kyiv data center in September too, but Ukraine's more spread-out network makes a nationwide outage unlikely.
+
+The practitioner view comes from Mick Ryan, the retired Australian major general, on his Substack. His advice to militaries is to map which computing they really depend on, spread it out, defend it against drones, and plan the response before it's hit. Data centers are the new depot, and the answers are the old ones: disperse, bury, and put point defense around them. A lot of the buyers will be commercial operators, not militaries.
+
+Casualty care.
+
+Now the evacuation. Ukraine's ninety-second Assault Brigade says its ground-robot company flew a wounded infantryman from the thirtieth Mechanized Brigade off his position with a heavy-lift six-rotor drone, donated by the maker, Gurzuf Defence. Mines and constant enemy drones had made a ground-robot evacuation impossible. The soldier clipped himself into a harness under the drone and stayed in touch with the operator during the flight. Crews had tested it at the maker's site first to stop it swaying or rolling. He's now being treated.
+
+Caveats. No distance, flight time, date or place was released. It isn't independently verified, and The War Zone notes the video could be staged. The method needs a casualty who is conscious, trained and able to strap in, and there's no room for a medic. Compare the SkyFall StarGate drone we covered on October seventeenth, which has a covered stretcher. Meanwhile, there's still no public reporting on the Army's robot resupply and evacuation trials that were due this week.
+
+Money.
+
+Anduril's head of Europe says the company would definitely consider building its new Steelfin interceptor in Europe, naming only Poland as a possible customer, and it's in talks to build a cruise missile in Poland. His line was, sovereignty has a cost. And in Kyiv, Andrii Hrytseniuk stepped down as head of Brave1, Ukraine's government defense-tech cluster, with no successor named, weeks after its investment chief left. Interceptors are the most-ordered category among five hundred ninety thousand drones bought through its marketplace this year. If you're selling into Ukraine, expect a few months of uncertainty at that door.
+
+AI.
+
+The biggest long-run item. A Ukrainian autonomy company called The Fourth Law says its terminal-guidance module, which lets a drone find and hit a target by itself in the final seconds, now flies with more than fifty Ukrainian units and twenty drone makers. It claims autonomous drone use is up tenfold in six months, and says Ukraine runs into a new Russian autonomous system every two to three weeks. In a September trial run by Brave1, six of seven companies passed a fully autonomous strike on a moving target from more than five hundred meters. The company's point is blunt: once the drone picks its own target, electronic warfare stops working as a countermeasure, and only physical defenses are left. Treat the growth numbers as vendor claims, but the direction matches everything else this week.
+
+The one thing to think about.
+
+Put the evacuation drone and the autonomy story side by side. Jamming won't protect against a drone that steers itself, and a ground robot can't get through a minefield under drones. Both push protection toward things that physically fly, shoot or shelter. The open question for today is who owns the gap between the drone and the patient: the harness, the litter, keeping someone stable on a swinging flight, and giving the operator a read on how the casualty is doing. Right now neither the drone makers nor the medics own it.
