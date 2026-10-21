@@ -1,0 +1,57 @@
+Good morning Brad, this is your Modern Battlefield brief for Wednesday, October twenty-first.
+
+Here's the top line. We now know who Ukraine flew off the front line under a drone: a soldier who had lost both feet and held his position for months, and on the same day the Army put blood-delivery drones on contract. NATO's answer to the drone attacks on ships in the Black Sea is more patrol aircraft and radars, which means watching more closely, not defending the ships. And Russia's jet drones are getting much harder to jam because they now pass their signals to each other, while the American backstop of Patriot missiles and missile warning stays rationed and unpredictable.
+
+The threat picture.
+
+The Kyiv Independent ran a long piece this morning on how Russia controls its drones over Kyiv. After SpaceX cut off Russia's unauthorized Starlink terminals in February, Russia moved its Shahed-family drones onto what's called a mesh network. Each drone carries a radio that passes commands and live video to the next one, starting from ground relay stations along the front and the Belarusian border. In one strike on a Kyiv business center in late September, a second jet drone circled at nearly three kilometers up, relaying the link and filming the hit. One analysis estimates live control now reaches a hundred fifty to a hundred seventy-five kilometers past the last ground station, about double last year's figure. A Ukrainian presidential adviser believes one to three relays were sitting inside Kyiv itself, guiding drones onto the security service headquarters.
+
+The volume is up too. On Monday night Russia launched a hundred sixty-five drones, and a hundred five of them were jet-powered. That's about sixty-four percent, up from roughly forty percent reported last Friday.
+
+Here's why it matters. Jamming one link no longer stops the drone. It re-routes through the mesh, falls back to cellular, or finishes the job on its own camera. So protection has to beat several links at once or go physical, and finding relay nodes, including ones planted inside a defended city, is a new detection job nobody clearly owns.
+
+Early warning.
+
+Yesterday's thread about missing ballistic-missile warnings has an update. Speaking in Oslo, Zelensky confirmed that the warning feed, which depends on American intelligence, is working again. The explanations still don't line up: the White House blamed bad weather, Secretary of State Rubio blamed a software malfunction, and nobody has said how many alerts were missed or what was fixed. On the same day Lithuania began deploying three American long-range air-surveillance radars, a fifty-two million dollar purchase. That helps track missiles and aircraft in flight, but it doesn't replace warning of launches. Warning came back the same way it went, on someone else's side of the fence, where Kyiv can't see it.
+
+Counter-drone.
+
+On Patriots, Rubio said a shipment "may have been delayed" while the United States weighs its own needs, but denied any deliberate political directive against Ukraine. Poland's foreign minister said Poland simply has no Patriot missiles left to give.
+
+At the cheap end, things look very different. Powerus, a young American drone company that's already publicly traded, says jet Shaheds at about six hundred kilometers an hour are very hard to defeat. It wants an interceptor that flies six to seven hundred kilometers an hour and says it's aiming for five thousand interceptors a month by November. Treat that number as a company claim until deliveries show up. In Lithuania, a charity drive raised one point three million euros for interceptors and training, and the first Lithuanian-made interceptor drones are already in Ukrainian hands.
+
+Then there's the drone you can't jam at all, the fiber-optic F P V, short for first-person view, which is steered through a thin cable instead of a radio. A volunteer group called Defense Tech for Ukraine says in its October newsletter that it has built "anti-fiber fences" that cut the cable, and that they've already brought down Russian drones in field testing. Rolling them out along roads and villages near the front needs real money. A Ukrainian maker, Ptashka, has put microphones on its own fiber drones, and says they can hear voices at twenty to thirty meters and incoming enemy drones.
+
+The pattern is clear. The top of air defense has become a political allocation problem. The bottom is becoming a high-volume market, funded by everyone from governments to crowdfunding. Against fiber and mesh drones, the answers are turning physical and passive, and volunteers are still doing much of that development.
+
+Protected movement.
+
+NATO's North Atlantic Council met on the Black Sea ship attacks on Tuesday. Afterward, officials said allies have sent or will send more maritime patrol aircraft, radars and drones, and that the immediate priority is better awareness through surveillance and intelligence sharing. A NATO spokesperson pointed to counter-drone capability already added on the eastern flank. What wasn't announced matters as much: no escort mission, no new air defense for shipping, no formal Article Four consultation, and still no country named as the attacker. An American P-8 Poseidon patrol plane flew low off Bulgaria's ports, the first such flight in months. Romania's proposal for a rotating NATO Black Sea command to protect shipping is still on the table.
+
+So the alliance chose sensing first. That makes sense when nobody can yet prove who launched the drones, but it leaves the ships to protect themselves. Ukraine is still covering up to eighty percent of uninsured losses. Protecting ships and ports from drones is still a market without a buyer. Watch whether the Romanian command, the insurers or the shipowners step in first.
+
+Hardening.
+
+On Monday, Russian drones hit the sixth-floor operating room of a cardiology institute in Kyiv. The prime minister said one patient was hurt, and that the same institute's fourth floor was hit last year. Meanwhile, from a September exercise new to our archive, the Oklahoma National Guard drove convoy trucks, a Humvee and a marked ambulance under welded cages and mesh screens. Nobody reported results, weights or costs. Hospitals and ambulances are on the target list, and their protection is still improvised. Overhead cover, standoff screens and point defense for medical sites is an under-served corner where hardening meets casualty care.
+
+Casualty care.
+
+Now back to the drone evacuation from Monday's brief, because the new details change the story. Militarnyi, citing an interview by the soldier and journalist Yuri Butusov, identifies the man as Kostyantyn Vlasenko of the 30th Mechanized Brigade. He lost both feet to shrapnel at his position and amputated one himself. He described laying it on a brick and taking a knife, with tears streaming down his face. He stayed at his post, supplied by his commanders and by parcels from his wife, because an attempt to rotate him out failed under drone attack. The headline says four hundred ninety-one days at his post, while the article body says about ten months in the position, so take the exact figure with caution. The aircraft is reported to be a six-rotor heavy drone from Gurzuf Defence that can survive losing a motor. The flight figures conflict, from eight kilometers in one report to sixty-two kilometers and about an hour and fourteen minutes from Ukrainian officials in another. None is independently confirmed.
+
+This is delayed evacuation at its most extreme: an amputee with no medic, kept alive by resupply drones, and finally lifted out in a one-off escorted operation, not a routine system. The open problems are care for casualties who can't be reached for weeks, meaning self-aid, remote guidance and medical resupply, and making drone lifts routine and safe for patients who can't strap themselves in.
+
+On the American side, the Army's blood program announced a contract on Tuesday with the Good Drone Company and Delta Development Team. It covers two hybrid vertical-takeoff cargo drones, each carrying up to six units of blood, flown by one person with minimal training and delivering within ten meters, day or night. The smart coolers hold temperature for three hours from fifteen to a hundred twenty degrees Fahrenheit and log every reading for accountability. No price or schedule was given. It's small, but it shows the Army paying for the cold chain and the tracking as well as the aircraft, and that layer is where firms that don't build drones can sell.
+
+Money.
+
+The biggest pot of new defense money is now tangled up in the Ukraine fight. Some House Republicans, including Don Bacon and Brian Fitzpatrick, are threatening to block the White House's three hundred fifty billion dollar military package unless sanctions pressure on Russia returns and the Starshield restrictions on Ukraine are lifted. The package includes about seventeen billion for the Golden Dome missile shield and forty-seven billion for ammunition production. The White House wants it passed after the November third midterms, and it needs nearly every House Republican. On Starshield itself, the cap is still in place, and a major Ukrainian interceptor maker, Wild Hornets, says it is rethinking projects that would need fast Starlink links, because, as its spokesman put it, depending on a single solution is very risky.
+
+And a deadline: DARPA's medical small business topics close at noon Eastern today. They include hidden-bleeding detection, casualty prediction software, robotic triage and an I C U in a box, with awards up to two million dollars. If that one's missed, the next Defense Department small business release opens October twenty-eighth and closes November twenty-fifth, and direct contact with the topic authors is allowed only until October twenty-seventh.
+
+AI.
+
+Quickly, the Marine Corps has ordered that every echelon give authorized Marines their own accounts on Maven, the Palantir system that fuses drone video, satellite imagery and logistics. AI-assisted pictures are becoming standard issue down to small units. Anything built for those units will increasingly have to plug into Maven, and it has to hold up when the links go down.
+
+The one thing to think about.
+
+Here's the thought for today. Nearly every cheap countermeasure is being out-adapted at once. Jamming loses to mesh relays, fiber cables and onboard autonomy, nets are being beaten, and slow interceptors are outrun by jet drones. What still works is physical: guns, fences that cut the wire, microphones and cameras that hear and see drones lying in wait, and digging in. Meanwhile, a wounded man waited months for a ride. The question worth chewing on is which of those physical, unglamorous problems, along a road or at a casualty's position, you could own before the big money notices it.
