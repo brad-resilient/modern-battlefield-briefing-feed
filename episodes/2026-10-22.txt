@@ -1,0 +1,55 @@
+Good morning Brad, this is your Modern Battlefield brief for Thursday, October twenty-second.
+
+Here's the top line. Ukraine's best weapon against Russia's jet-powered attack drones hits only about three times in ten, and a new think-tank report says Russia's main drone factory can build more than fifty-five hundred drones a month with the help of up to twelve thousand North Korean workers. New reporting says Elon Musk himself ordered the speed cap on the satellite service Ukraine's interceptors depend on, and a week later it is still in place. And a front-line report from a Ukrainian counteroffensive shows what moving troops and casualties looks like now: mines caused eight in ten casualties, and a soldier rescued by a ground robot was killed by a drone on the way out.
+
+The threat picture.
+
+Start with supply. The Center for Strategic and International Studies, working with the George W. Bush Institute, published a report on the Alabuga drone complex in Tatarstan, where Russia builds its upgraded versions of the Iranian Shahed, which it calls the Geran. The workforce has three parts: up to twelve thousand North Korean laborers and technicians, according to a Ukrainian intelligence estimate, thousands of young Russians recruited through so-called work placements, and a few hundred migrants from Africa and elsewhere. North Korea reportedly keeps seventy to ninety percent of its workers' pay. A Korean newspaper summarizing the report says the complex can turn out more than fifty-five hundred drones a month, and September satellite images showed new workshops going up.
+
+Two things stand out. First, fifty-five hundred a month is the number any air defense has to be priced against. Second, the authors warn that returning North Korean technicians will take mass-production know-how home. That brings a drone threat of the same kind closer to American forces in Korea and Japan.
+
+You can see that output every night. On the night of the twentieth into the twenty-first, Russia launched one hundred eighty-six drones plus cruise missiles. Ukraine brought down one hundred fifty drones, sixty-three of them jet-powered. At least nine people were killed across the country, two of them in Kyiv when a drone hit a twenty-four-story apartment building.
+
+Detection.
+
+Last week the Army said it wants a drone-warning sensor that a soldier can wear without carrying anything new. Two products have now surfaced, and they show how the problem splits. A Danish company, MyDefence, has a wearable called Wingman Edge. It weighs just under a kilogram, listens passively for drone radio signals, uses artificial intelligence to classify them, claims detection out to six kilometers, and warns the wearer by sound, light or vibration. Then yesterday, the tactical headset maker Silynxcom announced it is developing a wearable that detects drones by their sound instead. The point is to catch fiber-optic drones, which give off no radio signal at all. It's a prototype with no orders and no launch date.
+
+Here's why that matters. Radio detection misses fiber-optic and autonomous drones. Sound detection catches them but at short range, and noise makes it harder. Neither one alone meets the Army's nothing-new-to-carry standard. The open product problem is fusing both into gear soldiers already wear, like headsets and radios, and testing the claims honestly.
+
+Counter-drone.
+
+The jet drone problem got a hard number this week. Euromaidan Press laid out how Ukraine turned its own jet-powered attack drone, the Bars, into an interceptor. It's boosted off a ramp by a rocket, flies at a reported seven hundred kilometers an hour, and an operator steers it into the target using an infrared camera in its nose. Zelensky says it hits about thirty percent of the jet drones it goes after, and that's the best rate of any Ukrainian interceptor. Russia launched more than twenty-seven hundred jet drones in September, each costing about a hundred thousand dollars. The outlet estimates that at three or more interceptors per kill, Ukraine could need eight to ten thousand interceptors a month. The bottleneck is small jet engines. Zelensky says Ukraine imports them in large numbers and doesn't make enough of its own.
+
+On Patriots, here's what changed: on Wednesday, Ukraine's defense minister and its top commander met a Lockheed Martin delegation in Kyiv about scaling up supply of the PAC-three interceptor. That came two days after Zelensky met the same group. Meanwhile, according to Ukrainian officials, Defense Secretary Hegseth still hasn't approved a large batch of transfers.
+
+The takeaway is that a fast interceptor that hits three times in ten needs three or four shots per drone. The value is shifting to cheaper small turbojets, onboard seekers that don't depend on an operator or a satellite link, and sensors that cue the launch early. Those are component markets underneath a crowded interceptor field.
+
+At the very bottom of the defense stack, the Kyiv Independent profiled a net gun from the Ukrainian company BlueBird Tech, called the Chipa. It costs about sixty-seven dollars, fires once, works best at ten to twenty meters, and it's legally classed as a non-firearm, so civilians in front-line areas can buy it without a permit. National Guard soldiers carry it alongside shotguns. One catch: a netted drone can still explode near you. The last line of defense against a small attack drone is now a cheap consumable sold to farmers and drivers.
+
+Protected movement.
+
+This is the story I'd read in full. Asami Terajima of the Kyiv Independent reported on Operation Vivaldi, a months-long Ukrainian push near Lyman in the Donbas. A battalion commander says anti-personnel mines caused eighty percent of his casualties, more than drone strikes or gunfire. Mines hidden in tall spring grass killed a stretcher team while it carried a wounded comrade. Troops moved in pairs along treelines, at night, under anti-thermal blankets, changing their routes and timing, and drones still spotted them thirty to forty percent of the time. One drone swarm chased a three-man team for about four hours. Ground robots were slow and drew drones. One robot did pull out a badly wounded soldier, and a drone killed him about fifteen hundred meters from the front. Taking a single village of about fifty houses took more than a month.
+
+Here's why it matters. This is the whole protected-movement problem in one place: mines and drones working together, roughly one-in-three detection even with good concealment, and evacuation robots that are just slower targets. The gaps are clearing mines from foot and stretcher routes, thermal concealment that actually works, and escorting the casualty leg instead of sending a robot out alone.
+
+Hardening and installations.
+
+Germany's military raised its threat level for Russian sabotage to the second-highest step. It says it can no longer limit the risk to a few kinds of sites. The cases include a crashed drone found near an air base in September with a can of explosives a few meters away, and suspicious drone flights over missile-defense and Patriot maintenance sites. The Bundeswehr says it's strengthening protection at its bases, with no details.
+
+At the same time, European governments are debating whether power companies, railways and other infrastructure operators should be allowed to detect, jam and even shoot down drones themselves. France already passed a law in August allowing it for approved operators. It plans a catalogue of approved systems and wants an expanded list of sites equipped by twenty twenty-seven. Poland already lets operators' security teams take down drones near energy sites. Finland's grid operator pushes back, saying it should stay a job for the state. Nobody has settled who can order a shot, or who pays if a falling drone hurts someone. Rheinmetall says the hardest part isn't detecting the drone, it's the delay in deciding whether you're allowed to respond. So the product utilities will buy is the decision chain, meaning the authority, the logging and the liability cover, as much as the sensor or the weapon.
+
+Casualty care.
+
+The Defense Advanced Research Projects Agency, DARPA, is putting money into its seventy-three-million-dollar program to make blood products that don't need refrigeration. The goal is fielding by twenty twenty-nine. On Tuesday, a Seattle company called RxMP Therapeutics announced up to ten point seven million dollars for an intravenous product made from red cell membranes that is meant to speed clotting where someone is bleeding. Last week, Abram Scientific announced up to eight point three million for a handheld clotting test that gives a result in under ten minutes from a single drop of blood, against thirty to sixty minutes for today's lab machines. MIT Technology Review reports that each funded company has only one guaranteed year, and some trauma experts question betting on products not yet tested in people.
+
+This is the Pentagon trying to make blood an ordinary supply item, because casualties now wait hours or days and blood banks are targets. Notice that it's also paying for testing at the point of injury, since a medic needs a test to know when to use these products.
+
+Money and doors.
+
+On Starshield, here's what changed. CBS and the Wall Street Journal reported on Wednesday that Musk ordered the speed cap after talking with administration officials. Musk says the limits are set by the military and ultimately the president, Hegseth says the Pentagon hasn't pulled anything back, and Trump says he'd like to find out. Meanwhile Zelensky's office says the cap is still on. Four Democratic senators have asked SpaceX for its records by November second, including whether a vendor can refuse a government order. Expect that question to show up in contracts: if you don't control the link, it can change without notice.
+
+Two other doors. Denmark is guaranteeing a loan of about one hundred thirteen million dollars to the Danish arm of the Ukrainian company Fire Point, which is developing a homegrown alternative to Patriot. And the Army's task force for Africa, working with its fast-buying office, the Global Tactical Edge Acquisition Directorate, will test up to fifteen counter-drone solutions in Morocco next spring to protect forward command posts. The categories include a packaged fly-away kit and, notably, passive protection, and the goal is to field what works within one hundred eighty days. Watch for that solicitation.
+
+The one thing to think about.
+
+Put the net gun, the wearable detectors and Operation Vivaldi side by side. In the real fight, the soldier is now the integration point. He carries the warning device, the last-ditch weapon and the concealment, and he still gets seen a third of the time and still steps on mines. The question for today is what a squad's protection kit looks like if you design it as one system, warn, hide, defeat and clear the route, rather than four separate purchases. Right now no one sells it that way.
