@@ -1,0 +1,63 @@
+Good morning Brad, this is your Modern Battlefield brief for Friday, October twenty-third.
+
+Here's the top line. Russia now builds about two jet-powered attack drones for every propeller one, and half of last night's raid on Ukraine was jets. The Pentagon will pay up to three hundred million dollars to put existing missiles on robot boats that shoot down drones, and it wants them in about four months. And hardening is back in the conversation from three directions at once: damaged American bases in the Middle East, a fortified Russian drone plant, and an Iranian tunnel airbase that is being rebuilt.
+
+The threat picture.
+
+Yesterday we had Russia's total capacity at its Alabuga plant, more than fifty-five hundred drones a month. What's new today is the mix. Ukraine's military intelligence says Russia is making about four thousand of the jet-powered Geran four and Geran five each month, up from about three thousand in August, while output of the older propeller Geran two has fallen to about two thousand. Counting reconnaissance drones and decoys, Russia is aiming for about ten thousand drones a month. It has also replaced the Chinese turbojet in the Geran four with a Russian-made engine.
+
+Ukrainian intelligence says the reason is simple. Ukraine's mobile fire groups, the trucks with machine guns and spotlights, got good at shooting down slow propeller drones. So Russia moved production to drones that fly four hundred to five hundred kilometers an hour.
+
+You could see it overnight. Russia launched a hundred and seventy-six drones, and ninety-two of them were jets. Ukraine's Air Force says it downed or jammed a hundred and forty, including sixty-eight of the jets, about three in four, but there were still hits in nineteen places. The night before, Russia fired twenty-one ballistic missiles in three waves at Kyiv and eleven other regions, hitting apartments, power sites, a rail station and the metro. One carried a cluster warhead into downtown Kyiv. At least four people were killed.
+
+One more detail from a practitioner newsletter, Ukraine's Arms Monitor on Substack: the Geran four now navigates on its own with help from a magnetometer, and one Geran five variant matches camera images to the terrain like a cruise missile does. Both make GPS jamming far less useful.
+
+The takeaway: the threat changed its design in about three months to beat the defense. Anything you build has to be judged against the next version of the drone, not this month's.
+
+Detection and early warning.
+
+In France, unidentified drones, sometimes several large ones at once, flew over Toulon, the naval base that holds about seventy percent of the French fleet, including the carrier Charles de Gaulle and its nuclear attack submarines. They also flew over a defense test site and an artillery regiment nearby. The irony is that it happened during an exercise built around defending Toulon. Counter-drone systems were switched on every time and jamming was reported, but nothing was confirmed shot down, and nobody knows what the drones were or who sent them. It follows five unidentified drones over France's ballistic missile submarine base last December.
+
+Why it matters: a navy that knew the threat and had its systems on still couldn't identify the drones, track them back to an operator, or bring them down. The gap at bases is less about weapons and more about classification, attribution and the legal authority to shoot.
+
+A quick follow-up to yesterday's story on soldier-worn detectors. The Danish company MyDefence says about two thousand of its Wingman detectors are already in Ukraine. They're passive radio receivers that give a direction to within about thirty degrees, pick up the controller as well as the drone, and emit nothing. Two thousand units means real field data on false alarms. But they only hear radio-linked drones, so fiber-optic drones are still the blind spot.
+
+Counter-drone.
+
+Now the robot boats. The Defense Innovation Unit, working with a Pentagon office for unmanned systems, opened a prize challenge on October nineteenth for unmanned surface vessels that carry missiles the military already has, Hellfire, the Joint Air-to-Ground Missile, the laser-guided rocket called APKWS, or Stinger, and use them to kill small and medium drones and helicopters more than three nautical miles out, plus small boats. The boats need two hundred nautical miles of range, autonomous navigation, three-hundred-sixty-degree tracking of air and surface threats, the ability to keep working when communications and satellite navigation are jammed, a human supervising the weapons, and rearming by a two-person crew. Prizes total up to a hundred million dollars, with two hundred million more set aside for prototypes and production. Testing starts early next year in Virginia.
+
+This is the American answer to the Black Sea problem we've tracked all week, drones hitting ships. Instead of risking a destroyer, you put cheap, expendable air defense on a robot hull. And because the missiles and hulls already exist, the winners will be integrators: sensing, autonomy that survives jamming, and fast reloading.
+
+On interceptors, the speed race is on. Germany's Quantum Systems flew an electric demonstrator to seven hundred seventy-seven kilometers an hour, for just a moment, and says the lessons are going into new counter-drone products. Germany's winter aid will pay for tens of thousands of Quantum interceptors built in Ukraine. Meanwhile a Lithuanian company, VYTIS TECH, has a system in use in Ukraine called SkyWiper Wall, where a radar steers a four-kilogram electric interceptor to within a hundred or two hundred meters and its camera finishes the attack on its own. Its honest admission: top speed is three hundred kilometers an hour, so it can't catch jet drones yet. A jet-engine version is in work. Notice that radar cueing plus a camera for the final attack doesn't need a satellite link, which matters while Ukraine's Starshield service is still throttled.
+
+Protected movement.
+
+Ukraine's Second Khartiia Corps says it ran an underground offensive near Kupiansk called Operation Veles. Troops and supplies moved more than fifteen kilometers through passages fitted with communications, navigation and life support, and came up behind Russian lines while other units attacked on the surface, with drone strikes coordinated from a joint operations center. The corps claims more than a hundred Russians killed and thirty captured. Those are the unit's own numbers, and it doesn't say whether the passages are tunnels or pipes. What changed since Monday's story about the Ninety-third Brigade's tunnels: going underground has grown from a protected walkway into an offensive maneuver at the level of a whole corps.
+
+And a volunteer group called DroneAid has spent a year and a half building a vehicle shield against first-person-view drones, the kind controlled by fiber-optic cable that jamming can't touch. A stabilized thermal camera sweeps all around the vehicle every five seconds out to about a hundred meters, and a ring of small mortars fires nets that tangle a drone's propellers at ten to twenty meters. Field trials in Ukraine are next, and they want seventy percent interceptions before it goes to the front. It sits alongside yesterday's sixty-seven-dollar net gun: protection for things that move is coming from the bottom up.
+
+Hardening.
+
+Three stories, one lesson. First, a senior Pentagon official told reporters the department is working with Central Command on which damaged Middle East bases to rebuild. Strikes reportedly knocked out the air operations center at Al Udeid in Qatar, and the Navy won't use its Bahrain base anytime soon. There's no repair cost estimate yet. The official called the installation a weapon system, not just real estate, and said the Golden Dome missile defense team is helping decide which bases get protected first, including at home.
+
+Second, satellite images published by Radio Liberty show Russia has built thirty-three air defense positions around the Alabuga drone plant since spring, with concrete towers for missiles and machine guns, and frames to stretch anti-drone nets over the factory buildings.
+
+Third, The War Zone looked at Iran's Eagle forty-four underground airbase. Strikes cratered the taxiways at the tunnel mouths and destroyed support buildings, but the caverns weren't the target, the four main entrances look intact, and Iran has cleared the runway and is adding a second taxiway. CNN reported in May that Iran had reopened fifty of sixty-nine struck tunnel entrances across eighteen sites.
+
+The lesson: buried space survives; entrances, surface buildings and anything moving between them don't. Fast repair, netting at scale and backup entrances are practical products, and hardening now has a sponsor tied to Golden Dome.
+
+Casualty care.
+
+Our research item is from the journal Critical Care, a review by French military doctors of palliative and end-of-life care at the front. They screened more than thirty-six hundred records and found only thirty-five usable sources. Pain control is the best covered, with ketamine favored in austere settings, but for casualties who aren't going to survive, guidance is thin: titrated opioids, sedation, simple comfort like warmth. Spiritual care and contacting families are barely written down. The authors say long evacuation delays have broken the golden hour and they want doctrine and training. It's the hard end of the long-waits thread: when nobody is coming, medics need a plan for the person they can't save.
+
+Money.
+
+War on the Rocks has a piece from Colorado School of Mines researchers on drone batteries. Defense used only a tiny share of the world's batteries last year, and drones were thirty-nine percent of that. The Drone Dominance program goes from tens of thousands of one-way attack drones this year to more than two hundred thousand next year, and from October first, twenty twenty-seven, the Pentagon can't buy batteries from CATL, BYD and several other Chinese makers. They propose a rotating battery reserve, common pack sizes, and protected allied production, and warn that assembling packs here isn't the same as independence.
+
+Breaking Defense adds that Ukraine's makers still can't easily export: licenses take up to thirty days, and over a fifth of more than a hundred eighty international partnerships are stuck at the memorandum stage. Openings sit below the airframe: qualified cells, and co-production deals with Ukrainian designers.
+
+AI and autonomy.
+
+Last, a follow-up on the planned Autonomous Warfare Command. A new memo from Project Agincourt's leaders says every dollar should reduce cost per kill or risk to the force, and systems won't be declared ready on paper. An implementation plan is due this month, and Congress still has to agree.
+
+Here's the one thing worth thinking about today. Russia redesigned its main drone in a single quarter to beat Ukraine's cheapest defense, and the Pentagon just wrote risk to the force into its test for autonomy money. If your idea protects soldiers, can you show it still works against next quarter's threat, with numbers from a real unit?
