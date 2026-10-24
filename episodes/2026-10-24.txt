@@ -1,0 +1,69 @@
+Good morning Brad, this is your Modern Battlefield brief for Saturday, October twenty-fourth.
+
+Here's the top line. Russia's next Geran drone is turning into a small cruise missile that steers by camera, and Ukraine's own drone-dissection lab says Russia changes its designs faster than Ukraine can build answers. In the Middle East, a second round with Iran looks possible, and American forces there already face a widening drone threat. And in the Black Sea, a tanker hit by a drone capsized within sight of a Romanian port, just two days after NATO announced more patrols.
+
+It's a thin weekend, so some of these are follow-ups, and I'll say what changed.
+
+The threat picture.
+
+Yesterday we had Russia building about four thousand jet-powered Gerans a month. Today's news is where the design is going. Ukraine's presidential adviser on defense technology, Serhii Beskrestnov, known as Flash, and Ukrainian military sources describe two new versions of the Geran five. One has swept wings, no wingtips, and the engine tucked inside the body, and the goal is up to nine hundred kilometers an hour. That's cruise-missile speed. A second design has a flat-sided, box-shaped body and a V tail, which probably makes it cheaper to build and harder to see on radar. Both reportedly navigate by matching camera images to the ground, so GPS jamming does nothing to them.
+
+The Kyiv Independent visited the unnamed Ukrainian Defense Ministry institute that takes apart downed Russian drones. The researchers there put a number on the problem. Building a countermeasure takes them four to six months. Russia can field a modification in two to three. They saw jet engines and mesh relays in wreckage a year before those showed up in mass. They've also found antenna chips with the markings scratched off to hide Western supply chains.
+
+The takeaway: the defender runs about a quarter behind. Anything that shortens the time from a new threat to a working counter is worth as much as the next interceptor.
+
+Now a story from the other side. Pavel Gubarev, a pro-Russian blogger, complained on Telegram that one group in Russia's Sparta unit fired about a hundred Lancet loitering munitions over three months on one sector, and hit three targets: a self-propelled gun, a dugout, and a kiosk. He blames Ukrainian air defense, Russian troops shooting down their own drones because nobody coordinated the airspace, and commanders who reported success anyway. At thirty-seven to sixty-seven thousand dollars a Lancet, that's around a million dollars per hit. It's one partisan claim, not a measurement, but it's a reminder that layered short-range defense works, and that friendly fire on your own drones is a real problem that deconfliction tools could solve.
+
+The Middle East.
+
+The War Zone's roundup reads like the run-up to a second round with Iran. The USS Theodore Roosevelt carrier group and the Thirteenth Marine Expeditionary Unit are heading to the region, about ten thousand sailors and Marines, due by the end of November. The State Department ordered non-emergency staff and families out of Saudi Arabia. Saudi Aramco told staff to leave its Dhahran headquarters, a first in this war. Houthi drones are being shot down over Saudi territory, and debris killed two people near an oilfield. The New York Times has reported American and Israeli planning for a three to five day operation after the November third midterms. None of that is confirmed.
+
+Iran also showed off a new drone, the Arash three. Iran says it carries one hundred to one hundred fifty kilograms of explosive and incendiary payload, up from about fifty, with AI-assisted accuracy and navigation that doesn't depend on GPS.
+
+Why it matters: this is the same base-defense problem as the strike in Kuwait in March and the damaged bases the Pentagon is now deciding whether to rebuild, with potentially thousands more Americans moving into range. Expect urgent buying for base and ship counter-drone, shelters and casualty capacity in Central Command.
+
+Detection and early warning.
+
+On Thursday afternoon, Ukrainian drones over the Moscow region forced Russia to close all four Moscow airports, the fifth time this month. More than three hundred forty flights were delayed or canceled, one drone crashed on the grounds of Sheremetyevo airport, and passengers were evacuated. Analysts also reported balloons with hanging payloads drifting toward the city, which isn't confirmed.
+
+Moscow has some of the densest air defenses in the world, and a handful of drones and balloons still shut a capital's airports for hours. For any base or port, the cost of an incursion is mostly the shutdown. That means fast, confident classification, threat or balloon, is worth real money.
+
+Counter-drone.
+
+Starshield, day eleven. President Trump said Elon Musk "put it back" around Tuesday, but Ukrainian Defense Ministry and intelligence sources say connections still drop at a hundred sixty-one kilometers an hour, and often lower. One intelligence official put it simply: Starshield still doesn't work. That matters because it controls the interceptor drones Ukraine uses against jet Gerans. Six Democratic lawmakers sent Musk five questions, due October thirty-first.
+
+What's new is the long-term answer. Ukraine signed a letter of intent with two Finnish companies, ICEYE and Nokia, to explore its own government-owned communications satellites, ground stations and rugged terminals. The first satellite is planned for twenty twenty-eight, and ICEYE says it's not an order. So the war's main counter-drone tool has been degraded for eleven days by one vendor's switch, and the fix is at least two years out. Links that don't depend on a single provider are the near-term market.
+
+Protected movement.
+
+Back to the Black Sea. On Wednesday NATO said it would answer the attacks on merchant ships with more patrol aircraft, radars and drones, but no escorts. On Thursday, a Comoros-flagged tanker called the Khoryv was hit by a drone about thirteen nautical miles off Constanța, Romania's main port. It caught fire and capsized. Of thirteen crew, nine were rescued, one died and three are missing. Romania's president called it another Russian escalation and said Romania is waiting for more protection.
+
+More eyes overhead didn't stop a strike two days later. Ships need defense on board or alongside, and that's the logic behind the Pentagon's robot-boat air-defense prize we covered yesterday. Insurers and port authorities are buyers here too, not just navies.
+
+Same theme, other ocean. The Army runs its own small fleet of landing craft and support ships, and its Pacific sustainment commander, Major General Frederick Crist, said at the Association of the United States Army meeting that the Army will make them autonomous in steps: navigation kits first, then engine rooms, then fully uncrewed. His predecessor wanted up to a hundred drone boats, some carrying eight to ten shipping containers. In August, the company Sea Machines put its autonomy software on a two-hundred-fifty-seven-foot commercial vessel in nine days. No budget or solicitation yet. And nothing in the plan mentions how these boats defend themselves. Retrofit autonomy and add-on protection for those hulls are openings.
+
+Hardening and the underground.
+
+A follow-up on Operation Veles, the Ukrainian push near Kupiansk where troops traveled more than fifteen kilometers underground. Yesterday we didn't know what the passages were. Now we do: gas pipelines. The corps commander said Ukraine studied how Russia used the region's big pipelines, and "went underground ourselves."
+
+A regiment called Skelia described what it's actually like. Ten soldiers in single file took three days to cover about five kilometers of pipe roughly one meter wide, through mud and water, with bad air and swings from cold to hot, and Russians sometimes twenty meters away. They built sandbag barricades and machine-gun posts and blew up sections of pipe, but the Russians just cut new connections around the breaks. The fight for that one pipeline took about two months.
+
+An essay from West Point's Modern War Institute in August makes the larger point: NATO doctrine covers clearing tunnels, not building them, moving through them or living in them. The authors call for robots that go in first, navigation that works without GPS, underground radios and sensors, buried hospitals, and partnerships with civilian tunneling firms. That's a two-sided market: equipping your own troops underground, and detecting the enemy moving through pipes.
+
+Casualty care.
+
+The Pentagon is fast-tracking a ketamine wafer that dissolves under the tongue for battlefield pain. It's called Wafermine, from a Singapore company, iX Biopharma, on a sole-source development contract of nearly forty-one million dollars. The path runs through emergency authorization. Secretary Hegseth declared a military emergency in July covering attacks that cause life-threatening injuries, and the Department of Health and Human Services said in September that emergency use is justified for drugs the Pentagon names. That could put it in medics' kits before full Food and Drug Administration approval. But Politico found the company's American manufacturing partner lacks a required Nevada license.
+
+When casualties wait hours or days, medics need pain control that doesn't require an IV. And that emergency door could open for other battlefield drugs and devices too.
+
+Money.
+
+Two funding rounds on Thursday added up to four hundred fifty million dollars. Xona Space Systems raised two hundred fifty million at a two point four five billion dollar valuation to build a low-orbit navigation network that broadcasts a signal it says is up to a hundred times stronger than GPS, with beta service in early twenty twenty-seven. And a startup called Warhound raised a two hundred million dollar seed round at a one point two billion dollar valuation, with backers including Sequoia and In-Q-Tel, the intelligence community's venture arm, to clone and gene-edit military working dogs. The dogs don't exist yet; the first are due in early twenty twenty-seven.
+
+One is a serious bet that jamming makes GPS unreliable. The other shows how far investor appetite now stretches on founder pedigree.
+
+AI.
+
+Last, a research note. A study posted on arXiv tested how drone-identification models that listen to radio signals are scored. When whole recordings were held out of training, instead of random slices, accuracy at telling two drone models apart fell to a coin flip. It echoes the acoustic finding we covered a week ago. Thousands of AI-assisted detectors are being fielded, and buyers rarely see honest scores. Independent testing is a small but real business.
+
+Here's the one thing worth thinking about today. Ukraine's lab says Russia redesigns in two to three months, and a counter takes four to six. If you had to cut that gap in half, would you build a better weapon, or a faster way to learn, test and update the ones already fielded?
