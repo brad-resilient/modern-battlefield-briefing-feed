@@ -1,0 +1,63 @@
+Good morning Brad, this is your Modern Battlefield brief for Sunday, October twenty-fifth.
+
+Here's the top line. Ukraine's satellite link for its interceptor drones is back at full speed after ten days of throttling, but for two days nobody on the user side could say for sure whether it had come back. Russia's jet drones talk to each other through a Chinese mesh modem, and reporters posing as buyers for Russia's main drone plant got a quote for five hundred of them in a chat. And the top of the air-defense stack is running dry: Ukraine says it got twenty-four Patriot interceptors from the United States in ninety days.
+
+It's a quiet Sunday, so a few of these are follow-ups, and I'll say what changed.
+
+Counter-drone.
+
+Start with Starshield, the military version of Starlink that controls Ukraine's interceptor drones. Since October fourteenth it had been cutting out above about a hundred and sixty kilometers an hour, too slow for interceptors chasing jet-powered Shaheds. Yesterday morning, Ukraine's defense minister, Yevhen Khmara, said their monitoring now records speeds above four hundred kilometers an hour, and the connection is stable. Zelensky confirmed it. Nobody has publicly taken credit for imposing the cap or lifting it. The Wall Street Journal reported that Trump told Musk on the twenty-first to lift it, and Senator Richard Blumenthal has opened an inquiry into who ordered it.
+
+The part worth noticing is what happened in the two days before. One Telegram channel said the cap was gone. An Economist correspondent posted on X that frontline drone commanders thought it was probably lifted but were still testing. Ukraine's top electronic warfare adviser, Serhii Beskrestnov, known as Flash, wrote that no change had been recorded. One official called the reports all false. The people whose weapons depended on that link had to work out its state from field tests and social media.
+
+One more number. On the night into October twenty-fourth, before the fix, Russia launched a hundred twenty-six drones, sixty-one of them jets. Ukraine says it downed fifty of the jets, about eighty-two percent, up from about seventy-four percent the night before. That's one night and Ukraine's own claim, but it suggests the other layers, guns and fighters, were carrying more of the load while the interceptors were hobbled.
+
+Why it matters: a weapon class was grounded for ten days by someone else's switch, and switched back on with no notice. There's room for two products here. One is link-health monitoring that tells a unit in real time what its links can actually do. The other is control that doesn't depend on one provider.
+
+Interceptors at the top.
+
+Now the Patriots. Last Sunday Ukraine was talking about twelve a month. Zelensky now tells ABC News it's twenty-four in ninety days, so about eight a month. He also says European countries can hand over their own Patriot missiles only with American approval. Ukraine has about a thousand on contract that won't arrive for years, and wants partners to give stock now in exchange for those future deliveries. A US official says the claim that Defense Secretary Hegseth is sitting on the contracts is not true.
+
+The bigger context came from David Petraeus, the retired general, who cited a Congressional Budget Office estimate that the Iran war used between half and two-thirds of the American inventory of certain missile-defense interceptors. He also said unmanned systems now cause more than ninety percent of Russian casualties.
+
+There's one hopeful note at the expensive end. The Missile Defense Agency gave a startup called Long Wall, formerly ABL Space Systems, seventy-five million dollars to finish testing a cheap, container-launched midcourse interceptor built mostly from commercial parts. Long Wall is putting in seventy-five million of its own. Vendors paying their own way is becoming the price of entry.
+
+Why it matters: the scarcest thing in the war is the ballistic-missile interceptor. Anything that stretches a Patriot battery, like better cueing, telling decoys from real targets, or smarter fire control, has a buyer.
+
+The threat picture.
+
+The investigative outlet The Insider traced a modem pulled from a Russian Gerbera drone to a company in Shenzhen called Xingkai. It's a mesh modem: drones relay data for each other, so if some get shot down, the network reroutes. The Insider says one can hold a link at a hundred to three hundred kilometers, and that Xingkai makes about half of Russia's high-power mesh modems. Reporters posed as a supplier at Alabuga, Russia's main drone plant, and ordered five hundred. The owner sent an invoice for about two point nine million dollars, offered a Hong Kong account or a personal one, and didn't object when they said the end user was a military factory. They also said the chip inside is from AMD. AMD says it has never sold Xingkai anything.
+
+Separately, a Russian Geran four jet drone crashed in Moldova, less than a hundred meters from homes and near an energy facility. Moldova expelled a Russian diplomat. One analysis of a Geran four wreck found more than three-quarters of its electronics were made by American companies.
+
+Why it matters: the relays that beat jamming come from an ordinary commercial supply chain, and export controls are leaking. But a mesh network has to transmit to work, so it can be detected. Component intelligence and emission hunting are cheaper counters than another interceptor.
+
+Hardening.
+
+Three stories here. First, Ukraine's cabinet has opened construction of underground arms factories to private developers. A developer can build protected, buried production space with their own money and then sell or lease it to defense firms under contract, with simplified permits. The government says it costs the state budget nothing. A second decision lets parts for partner-funded weapons come in free of duty and VAT. That appears to be the first time a government has created a commercial market for hardened industrial space. Design, ventilation, power and fast-build standards are the openings.
+
+Second, the Gulf. Two senior Iranian security officials told Reuters that Iran has a detailed plan to cut undersea internet cables in the Persian Gulf, and to hinder repairs, if America and Israel strike again. Iran is also reportedly weighing strikes on American data centers in the region. In March, Iranian strikes damaged two Amazon Web Services sites in the United Arab Emirates. US forces there run on commercial cloud and cables nobody hardened for war. That's unconfirmed, from anonymous officials, but it's the same lesson as Ukraine's data centers and the Starlink ground stations.
+
+Third, a practitioner essay in War on the Rocks by Édouard Maurin, a French veteran who served near Pokrovsk. His argument is that on a battlefield where everything is watched, the first thing to read your signature is often an algorithm, not a person, so deception has to fool the machine. Examples include a fake radio call that drew Russian troops out where drone thermal cameras could see them, and Russian decoy drones costing under ten thousand dollars that look like Shaheds on radar. Maurin wants every team's heat, radio and sound footprint managed like any other variable, a signature library at battalion level, and cheap decoys that emit. He is careful to say the effect on classifiers is a proposal, not proven. The product gap is cheap emitting decoys plus software that varies them faster than the enemy's classifiers can learn.
+
+Movement and logistics.
+
+Ukraine's infrastructure minister says Russian strikes have damaged or destroyed almost six hundred of the state railway's locomotives since twenty twenty-two, more than three hundred of them diesels. Finland is donating ten retired diesel locomotives, which keep running when strikes knock out the power that electric trains need. That's a small fix for a big problem: rail is how Ukraine moves troops, casualties and supplies, and it's being worn down one engine at a time. The source page is marked as advertorial, so weigh the framing.
+
+Casualty care.
+
+A research item. A Ukrainian medical society has registered a study called DRONE-WOUND: five hundred patients with open limb wounds from drones, across hospitals including Vinnytsia, tracking how the amount of dead tissue relates to severe infection, drug-resistant bacteria, repeat surgery, amputation and sepsis. It's listed as starting October twenty-third, not yet recruiting. When evacuation takes hours or days, infection becomes the next killer, and this looks like among the first systematic data on drone-wound infection. Worth watching for results.
+
+Money.
+
+Germany is negotiating to buy Bars, Ukraine's jet drone, for itself. Bars flies about a thousand kilometers at up to seven hundred kilometers an hour, and Ukraine uses it both for deep strikes and as one of its best interceptors against Russian jets. But Breaking Defense, talking to Ukrainian firms at the Army's big trade show this month, found there is still no working export route for pure defense tech, six months after Kyiv promised one. More than a fifth of Ukraine's international partnerships are stuck at the memorandum stage, and some makers are cutting output. The workarounds are dual-use registration, production abroad, like Finland's two new drone agreements, and the Danish model, where a partner funds production and buys it back. The bottleneck is paperwork, not technology, and structuring those deals is where a Western partner adds value.
+
+AI.
+
+The Navy gave Applied Intuition, a driverless-car software firm, twenty-five million dollars to fuse camera and infrared feeds on five destroyers into one picture, record the data, retrain the models ashore and push updates at sea. It's sold for collision avoidance, but it's the plumbing counter-drone needs: passive sensing, fused on the platform, updated faster than the threat changes.
+
+This week's synthesis, with the updated opportunity list, is in the archive as weekly dot md.
+
+The one thing to think about.
+
+This week, the links Ukraine depends on were switched off and back on by people outside its control, and its own soldiers had to crowdsource whether their network worked. Meanwhile Russia's drones run on parts anyone can order in a chat. The common thread is visibility: knowing the true state of your own links and stocks, and seeing the enemy's supply chain and emissions. Ask yourself which of those you could sell as a service, not a box.
