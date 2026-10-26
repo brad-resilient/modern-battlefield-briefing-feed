@@ -1,0 +1,59 @@
+Good morning Brad, this is your Modern Battlefield brief for Monday, October twenty-sixth.
+
+Here's the top line. Russia's jet drones give the air-defense crews around Kyiv somewhere between five and twenty seconds to shoot, often before they can even hear the target, and a wave of cheap jet-powered interceptors is coming to meet them. The Black Sea is now more dangerous for merchant ships than the Persian Gulf, with more than five hundred seventy ships attacked this year and still nobody escorting them. And the money for the Pentagon's new Autonomous Warfare Command depends on a bill that has to pass by Christmas.
+
+It's Monday, so this covers the weekend, and where something is a follow-up, I'll say what changed.
+
+Early warning.
+
+Start with a piece of field reporting from the Kyiv Independent, published this morning. Two reporters spent two days with the 112th Territorial Defense Brigade, which guards the skies around Kyiv. Since late summer, Russia has been sending jet-powered Geran drones at the capital, in waves that now come day and night between the big raids.
+
+Radar spots a target and a command post hands it to a machine gun team, a shoulder-fired missile crew, an interceptor-drone team, or electronic warfare. The numbers the soldiers give are the story. One gunner says they have about five seconds to engage. A missile operator says some jets cross their sector in twenty seconds. The jets can fly at five to six kilometers up, out of machine-gun range and sometimes out of sight entirely, at around six hundred kilometers an hour. The old propeller Shaheds buzzed loudly enough to warn you. The jets often arrive before you hear them. Clouds blind the thermal sights. The gunners say firing isn't the hard part; calculating where to aim ahead of the target is. And because Russia keeps changing its drone signals, the brigade built its own spectrum analyzer. Crews have worked twenty-hour shifts on about four hours of sleep.
+
+Why it matters: against jets, the bottleneck has moved from the gun to the warning. Crews need a precise track, with aiming help, seconds earlier, at altitudes where their own eyes and ears are useless. And the people are wearing out before the equipment does.
+
+There's a research paper that fits with this. Four engineers posted a study last week on locating drones passively, by timing their radio signals at several ground sensors, when buildings and terrain block some of those sensors' view. They tested it on real drone flights in North Carolina. The finding is simple: how many sensors can actually see the drone matters more than anything else. Moving one blocked sensor into the open cut the expected error about a hundredfold. Adding bandwidth didn't remove the error, and fancy tracking filters helped much less than simply throwing out bad readings. That's a preprint, not yet peer-reviewed, but it joins two studies from the last ten days saying the same thing: drone detectors perform as well as they're placed and tested, not as well as the spec sheet says. A planning tool for where to put sensors around a base or a trench line is a small, real product.
+
+Counter-drone.
+
+On the shooting side, two more cheap jet interceptors got names this weekend. Last week the benchmark was Ukraine's Bars, hitting about thirty percent of jet drones. Now a Ukrainian company called F-Drones is building the F-Jet 80, with a small jet engine and a target price of five to seven thousand dollars, and plans to add artificial intelligence to help it find and chase targets. The developers say it has already destroyed several. And a group of Ukrainian, Lithuanian and Latvian firms is offering the X-12, which they claim reaches seven hundred kilometers an hour, with engines assembled in Lithuania and, in their words, no Chinese-made parts. They say it's been tested in combat in Ukraine. Ukraine says seven interceptor types have now downed jet drones, and it has ordered more than a thousand new ones.
+
+At the top end, Denmark just shipped more than fifty thousand rounds of twenty-millimeter cannon ammunition so Ukraine's F-16s can shoot jet drones with their guns when they run short of missiles. In late September, Zelensky put Ukraine's jet-drone kill rate at about fifty-five percent, against more than ninety percent for the propeller kind.
+
+Why it matters: the interceptor market is settling around five to ten thousand dollars a shot, so the edge is moving to the parts underneath, small jet engines, seekers, and supply chains you can sell to a government that won't touch Chinese components. All of these are developer claims, so treat the numbers with care.
+
+The satellite link.
+
+A follow-up on Starshield, the military version of Starlink that Ukraine's drones run on. On Saturday we heard it was back to full speed. What's new is the explanation, or lack of one. Hours after the restoration, Elon Musk posted on X that Ukraine had broken Starlink's terms of service by using it for offensive drone strikes, and that the loophole was closed last week. Musk gave no examples. Two weeks ago, Musk had said the president ultimately decides. Ukrainian practitioners pushed back fast. Serhii Beskrestnov, the adviser known as Flash, says ordinary Starlink terminals over Ukraine have been capped at seventy to ninety kilometers an hour since last winter, and don't work over Russia at all. Serhii Sternenko, who raises money for drone units, says moving terminals have had to be registered and tied to Starshield since February. And Europe is paying a big share of the bill: Germany funds the service through April 2027, and Poland pays about fifty million dollars a year.
+
+Why it matters: ten days of throttling, and three different explanations of who controls the switch, but still no written rule for what Ukraine may do over the link. That gives the Europeans paying for it a direct reason to fund alternatives, and it keeps our top opportunity, control systems that don't depend on one provider, right where it was.
+
+One quick note: the Army has made air defense on Guam permanent with a new battalion, and a leaked slide shows it drafting an ace badge for air-defense soldiers with five confirmed kills. Those are signs a career field is forming, and budgets tend to follow.
+
+The Black Sea.
+
+New numbers from the Financial Times and the maritime security firm Ambrey. More than five hundred seventy ships have been attacked in the Black Sea since January, and at least forty sailors killed. Three hundred eighty-seven of those attacks came in just the last quarter, more than five times the quarter before, and more than six times the rate in the Persian Gulf. Traffic through the ports around Odesa fell from about four hundred ships in July to fewer than ten last month. War-risk insurance can now cost up to fifteen percent of a ship's value, so some owners are sending ships up to fifty years old, because they're cheaper to insure. France has a maritime patrol plane flying from Romania, and an American P-8 patrols off Bulgaria. But nobody has announced escorts.
+
+Why it matters: this is the clearest example yet of a protection problem with no owner. The shipowner can't arm the ship, the insurer just prices the risk, and NATO watches and pulls people out of the water. Cheap early warning and point defense for merchant ships, or risk data that could bring premiums down, might sell to insurers and flag states, not just navies.
+
+Movement and mines.
+
+Russia showed off a tracked ground robot called Titan this weekend, built to roll a two-meter lane through antipersonnel minefields with heavy rollers, front and back, so engineers don't have to walk in. It's electric, low-slung, armored against fragments, and can carry its own electronic warfare against drones, per the developer and Russian state media. Remember that in Ukraine's Operation Vivaldi, mines caused eighty percent of casualties. Western ground-robot programs are focused on resupply and evacuation; robotic breaching under drone cover is a gap on both sides.
+
+Hardening.
+
+Here's a different kind of signature problem. According to a single Japanese report, so unconfirmed, the US military will turn Chinese-made BYD cars away from Kadena Air Base in Okinawa, private cars, contractors, taxis and deliveries alike, because modern electric cars carry cameras, sensors and connected software that could map the base. It may spread to other bases in Japan and Korea. If they can see you, they can hit you, and now that includes the car in the gate line.
+
+Casualty care.
+
+MIT Technology Review laid out the whole picture on the race to make shelf-stable blood. DARPA's program, called RAPIID, has seventy-three million dollars, a year of animal studies, human trials after that, and a target of fielding in 2029. Critics argue DARPA should favor products already tested in people, like a freeze-dried platelet that didn't even apply. The number to remember is from a study of Afghanistan casualties: about a thirty-six-minute window to get blood into a badly bleeding casualty. In drone zones where evacuation takes hours, the only way to meet that window is to carry blood forward or make it keep without a fridge. A Navy medicine writer made the same point this weekend: in a big war, the front-line aid station becomes a place where medics hold critical patients for hours or days.
+
+Money.
+
+Finally, money. Defense One reports that Hegseth's Autonomous Warfare Command rests on about fifty-four billion dollars requested in a separate reconciliation bill. Analysts say that bill has to pass by Christmas, before the new Congress is seated, or the command will exist without real buying power. No leader has been named. At the same time, a Stimson Center analyst argues that the Pentagon's favorite fast-contracting tool, Other Transaction Authority, has grown tenfold since 2016 to over eighteen billion dollars a year, and wants Congress to rein it in.
+
+Why it matters: the two biggest new doors for drone and counter-drone startups, the autonomy money and the fast contracts, are both politically exposed over the next ten weeks. Any company betting on them should have a plan that also works through ordinary service budgets.
+
+The one thing to think about.
+
+Here's the thing worth thinking about today. Interceptors are getting cheap and plentiful. What's still scarce is the few seconds of warning, the right sensor in the right spot, and the tired crew who has to act on it. Whoever makes those seconds longer, for a gun team outside Kyiv, a merchant ship off Romania, or a base gate in Okinawa, is solving the problem that's actually left.
