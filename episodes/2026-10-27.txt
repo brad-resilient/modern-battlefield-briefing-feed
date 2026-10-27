@@ -1,0 +1,73 @@
+Good morning Brad, this is your Modern Battlefield brief for Tuesday, October twenty-seventh.
+
+Here's the top line. The German company Helsing has put a price on the jet-drone problem: radar-guided interceptors for under a hundred thousand euros a shot, built a thousand a month, but none delivered before the middle of next year. The United States is pulling people off its Middle East bases while a last-ditch meeting in Tehran tries to head off another round of fighting. And tomorrow the Pentagon opens a counter-drone small business solicitation that, for the first time, writes this month's field lessons straight into the requirements.
+
+Middle East.
+
+Start with Iran, because the picture moved over the weekend. On Monday, Saudi Arabia's defense minister, Pakistan's army chief and Turkey's intelligence chief sat down with Iranian leaders in Tehran. All they agreed on was to keep talking.
+
+Meanwhile, according to reporting gathered by The War Zone, the Wall Street Journal says Iranian preparations to attack Americans in the region have reached "advanced stages," and the US has ordered departures from embassies, including in Saudi Arabia, and evacuated people from regional military bases. CNN reports American forces could launch new operations within ninety-six hours of an order, and the carrier Theodore Roosevelt is reportedly heading that way.
+
+The Houthis, for their part, say they hit pumping stations on Saudi Arabia's East-West Pipeline. That's the twelve-hundred-kilometer line that lets oil leave the Gulf without passing through the Strait of Hormuz. Brent crude is above a hundred and fifteen dollars.
+
+Here's why it matters. Moving people out is the oldest form of force protection there is, and it tells you commanders don't fully trust base air defense against a mixed salvo of missiles and drones. And going after the Hormuz bypass means energy infrastructure is now part of what has to be defended, not just the bases. The Houthi claims aren't verified, and the evacuation and timeline reports come from US media citing officials.
+
+Counter-drone.
+
+Now the big product story. In Berlin yesterday, Helsing, best known for strike drones in Ukraine, moved into air defense. The system is called Contra. Its software merges radar, cameras, infrared and acoustic sensors into one air picture, decides which interceptor goes after which target, and keeps a human overseeing it.
+
+It comes with two interceptors. The first, called Inferno, is jet-powered, flies at about seven hundred kilometers an hour, reaches about twenty kilometers, and can climb above nine kilometers. The second, called Ambush, is a solid rocket that goes better than twice the speed of sound, meant for the drones that leak through. Both use radar seekers made from commercial parts, which Helsing says cost under a tenth of comparable seekers and, unlike camera seekers, work at night and in cloud.
+
+The co-founder, Gundbert Scherf, says each shot costs under a hundred thousand euros, against half a million to four million for existing interceptors, and that "mass-producible" means a thousand a month. But neither interceptor has finished flight testing. The first Inferno flights are due in the coming weeks, and the company says the system is ready for market in the second half of twenty twenty-seven. One contract is signed, and it covers the software only.
+
+On the American side, L3Harris won up to sixty million dollars for flight tests of the Army's ramjet counter-drone missile.
+
+And for context, Russia's raid into Monday morning was a hundred and forty drones, and half of them, seventy, were jets. Ukraine says it downed or jammed a hundred and twelve, including fifty-six of the jets.
+
+Why it matters to you: yesterday we heard Kyiv's gun crews say their two big problems are seeing targets in cloud and doing the lead calculation fast enough. Helsing is pitching exactly those two things. It also fits in the gap between five-to-ten-thousand-dollar Ukrainian jet interceptors and half-million-dollar missiles. But note what buyers actually paid for: the software, not the missiles. Every performance and cost figure here is the company's own claim.
+
+Related, and a reminder of why Europe wants its own interceptors: Zelensky says Ukraine has been waiting nearly a month for Secretary Hegseth's signature on Patriot missiles, and now NASAMS missiles too, that Ukraine has already paid for. An official calls it a significant volume. Zelensky called progress "very slow." The bottleneck is no longer the factory. It's a pen.
+
+Early warning.
+
+A smaller detection story from the Netherlands. A company called Elitac Wearables, working with the acoustic sensor maker Microflown and the Dutch defense ministry, has described a soldier-worn drone warning system. Acoustic sensors on the helmet listen for rotors and motors, a small processor works out the direction, and a belt around the waist vibrates on the side the drone is coming from, updating as the soldier turns.
+
+It emits nothing, and because it listens rather than scanning for radio links, it can in principle catch fiber-optic and autonomous drones that radio detectors miss. What's missing is every number that matters: range, weight, battery life, false alarms. And remember the Kyiv crews said jets give very little audible warning, so this is a squad answer to small drones, not a base answer to jets.
+
+Movement.
+
+From the Kupiansk front, a unit called Orion in Ukraine's Pomsta brigade says it has built what it calls a safety corridor for its ground robots. The unit claims eighty-eight percent of attacking Russians are killed before they reach its positions, Russian armor can't get within twenty-five kilometers, and its robots have run dozens of fully autonomous missions. In September, it says, they hauled more than thirty thousand kilograms and made four casualty evacuations, all successful. Captured Russian soldiers are quoted saying, "You can go anywhere, just not into the Orion zone."
+
+These are the unit's own claims, not verified. But the idea is worth holding onto: the unit treats the route itself as the thing to defend, covering it with fires and surveillance so robots can get through. Any Western robot resupply program will need the protected lane, not just the robot.
+
+Hardening.
+
+Back home, the Pentagon's FORTRESS America program now has a number. Fox News, citing unpublished documents, reports that major US installations would have to keep power, water, fuel and communications running for at least ninety days with no outside help. The tools named are portable nuclear reactors, large batteries, and microgrids that can cut loose from the civilian grid, plus stockpiles that include medical supplies. The War Zone notes there's still no funding line or timeline, and drone hardening is mentioned but not spelled out.
+
+A RAND paper from September adds the research angle: it argues the old Army and Air Force arrangements for defending air bases don't cover small drones, and that the Air Force should build its own short-range defense.
+
+Why it matters: a ninety-day rule turns every power plant, fuel farm and water plant on a base into something that has to survive a drone. Until money shows up it's a requirement without a budget, but it tells vendors what the spec will be.
+
+Casualty care.
+
+Two casualty stories, one hopeful and one sobering.
+
+The hopeful one: a Ukrainian regiment called CODE nine point two says it flew two wounded soldiers off the battlefield in one week using SkyFall's StarGate drone. Both had severe limb wounds, stuck in the gray zone where vehicles couldn't reach. On one flight, the drone went nearly thirty kilometers out and the same distance back with the casualty aboard, while Russia tried to jam GPS completely. The drone navigated on its own, while heavy strike drones hit enemy positions to cover it. StarGate carries up to a hundred and fifty kilograms on a certified stretcher. The regiment now plans a dedicated medical aviation unit.
+
+Here's the catch. A scoping review out of Beth Israel Deaconess and Harvard screened more than eleven hundred papers and found seven relevant studies. None of them evaluated drones or robots for evacuation, resupply or care, and none measured survival. So drone evacuation has gone from a first to a planned unit in about a week, with no evidence yet on what happens to a patient in flight. That outcome data, time to surgery, deterioration on the way, monitoring in the air, is the missing piece, and it's one place where medical device know-how, Resilient's included, genuinely applies.
+
+The sobering one: the Army just rehearsed mass temporary burial in North Carolina, in an exercise called Dragon Covenant. In Iraq and Afghanistan, air superiority meant remains went home fast. In a big war, that may not be possible. Bulldozers dug a trench for twenty in about seventy-five minutes, which works out to as many as twenty-four hundred remains a day for one engineer company working nonstop. One senior fatality management sergeant put it bluntly: "If we went to war tomorrow, we would be making this up as we went along." It's the same condition that keeps the wounded waiting, applied to the dead.
+
+Money.
+
+Finally, the solicitation. Tomorrow, the Pentagon's fiscal twenty twenty-seven small business innovation release opens, and two of its twenty-five topics are counter-drone, from the Office of the Secretary of War. Phase one is up to three hundred thousand dollars over six months. A direct-to-phase-two version is up to two million over twelve months, if you can show a documented test. The focus is small drones and forces on the move, not fixed sites.
+
+The preferences are the story. The system shouldn't need the drone to emit radio signals. It shouldn't emit anything itself. It has to work with no cloud connection. And it shouldn't need a dedicated operator. The write-up is two pages, and proposals are due November twenty-fifth. Confirm details on the official portal; this comes from a consultancy's summary.
+
+On private money, CNBC reports private equity growth investment in defense tech hit four billion dollars in the first nine months of this year, up from half a billion in twenty twenty-four. An Advent International partner warned that valuations rest on "the promise of their technologies" rather than revenue or orders.
+
+The one thing.
+
+So here's the one thing worth thinking about today. In a single day, the field lessons of this month turned into a requirement: passive, silent, offline, and no extra soldier to run it. Helsing's only buyer so far paid for the brain, not the missile, and the Army is drilling for a war where neither the wounded nor the dead get out quickly. If you had two pages and a month, which piece of that, the sensor, the fire-control brain, or the evidence on what happens to a casualty in a drone, could you credibly own?
+
+That's your brief. Drive safe.
