@@ -1,0 +1,59 @@
+Good morning Brad, this is your Modern Battlefield brief for Wednesday, October twenty-eighth.
+
+Here's the top line. Ukraine says it now stops nearly sixty percent of Russia's jet-powered Geran drones, but jets still made up a big share of the last two raids, and they're now reaching cities in the far west that used to feel safe. Protection is going private and civilian: a Ukrainian postal company runs its own air defense unit, Kyiv is paying for backup river crossings after a missile holed a major bridge, and ambulance crews were wounded again. And the Pentagon's drone money is tangled in visas, paperwork and a stalled budget bill, just as today's counter-drone small business solicitation opens.
+
+The threat picture.
+
+On Monday night, Russia fired sixteen ballistic missiles and two hundred eighty drones at Ukraine, mostly at Kyiv. Sixty-nine of those drones were jets. Ukraine shot down two missiles and two hundred fifty-five drones. Last night was smaller: one ballistic missile and eighty-eight drones, thirty-eight of them jets, and seventy-one were downed. So jets are now somewhere between a quarter and almost half of a raid.
+
+One of last night's launch sites was Hvardiiske, an airfield in Crimea. Ukraine has hit it repeatedly since June. New satellite images from a Ukrainian open-source channel show Russia building more than twenty small shelters there, each protected by earth berms, plus about forty smaller garages for storing and preparing drones. In other words, Russia is hardening its launch base, because what launches the drones has to survive too.
+
+The Kyiv Independent also reports jet drones swarming Volyn and Rivne in the northwest and circling high over Lviv. A drone strike in Lutsk killed six people earlier this month, and people who fled west for safety now spend their nights in shelters.
+
+At the front, Ukraine's General Staff counted almost ten thousand Russian kamikaze drones used in a single day. And Ukraine's Defense Ministry says its own drones killed or wounded three hundred and two thousand Russian soldiers since January, about thirty thousand a month, with every hit logged on video. Soldiers earn points for those hits and trade them for more drones on a government marketplace. That's Ukraine's claim, but the scale tells you drones are now the main killer at the front.
+
+Iran.
+
+A quick follow-up on Iran, with what changed since yesterday. The Saudi, Pakistani and Turkish envoys made no clear headway in Tehran, according to sources quoted by The National. Iran asked them to sell Washington on a two-week regional pause, in exchange for resumed talks and a gradual reopening of the Strait of Hormuz, and said it can't control the Houthis. Hours later, the Houthis fired more missiles and drones at Saudi Arabia, and Egypt's parliament authorized military support for the Saudis. The New York Times reports Israel's prime minister pushed for a new strike, and Israel's army chief pushed back. Meanwhile, the Roosevelt carrier group and an amphibious group could join the region in November, which would mean three carriers there at once. One small detail worth noticing: the US embassy warns that in Saudi Arabia, filming air defenses or impact sites can get you detained. Pictures of a defended site are now targeting data.
+
+Counter-drone.
+
+Now the better news. Ukraine's General Staff says it intercepted nearly sixty percent of Geran-4 jet drones over the past three months, and as many as eighty percent on some nights. Last week the best single jet interceptor was hitting about thirty percent. The gain comes from layers, not one new weapon: fighter jets, German Gepard guns and other gun systems, mobile fire teams with machine guns and shoulder-fired missiles, and cheaper interceptor drones, some of which have downed dozens of jets. There's no figure yet for the faster Geran-5.
+
+Small upgrades matter too. The Ukrainian maker Wild Hornets says a new four-watt video transmitter passed state testing and could stretch its Sting interceptor's reach from about twenty kilometers to thirty. That's a company estimate.
+
+Missiles are still the choke point against ballistic attacks. Yesterday we heard Ukraine has waited nearly a month for Secretary Hegseth's signature on Patriot and NASAMS missiles it already paid for. What's new: Ukraine's defense minister asked Europe's five biggest militaries to hand over ten percent of their interceptor stocks, including Patriot and IRIS-T, in exchange for Ukraine's own later deliveries. Zelensky blamed the delays directly for Monday's strike on Kyiv.
+
+Here's the story I found most interesting today. Nova Post, Ukraine's giant private delivery company, has its own air defense unit, and it has shot down Shahed drones. Since last November, Ukraine has let companies form air defense units that fight under Air Force command. Nearly a hundred companies have joined, about fifty crews have formed, six companies are flying combat missions, and together they've downed more than sixty targets, using interceptor drones and remote-controlled heavy machine guns. A big drugmaker that was hit three times in September looked at the program and said no. The threat changes too fast, so it chose warning systems, staff shelters and drills instead. That's a brand-new kind of customer: the owner of the site, paying to defend it, inside a military command system.
+
+Protected movement.
+
+On Monday morning a ballistic missile punched a large hole in Kyiv's Southern Bridge and closed it to cars and trains. Commuters walked half an hour across. The city approved temporary river crossings, likely pontoons, at sites the military will choose, with about twenty-two million dollars, and it now restricts movement on bridges during air-raid alerts. In Kharkiv, army engineers strung the city's first anti-drone net corridor inside city limits, six and a half kilometers of farm mesh seven meters up over a main highway. Their commander says a Lancet loitering munition hit the net and didn't get through, but that no net can promise full protection. And on Operation Veles, the pipeline operation near Kupiansk we covered last week, Zelensky now says the troops who moved fifteen kilometers through gas pipes killed more than a hundred Russian soldiers and captured more than thirty. Again, Ukrainian claims.
+
+At the far end of resupply, the Air Force Research Laboratory flew its first Rocket Cargo pod to space on a SpaceX capsule, testing how a supply load holds up. The long-term goal is to drop cargo the size of a C-17 load to places with no runway or road.
+
+Hardening.
+
+Passive protection keeps getting retrofitted at the unit level. Belarus showed a mesh kit that crews can bolt onto their rocket launchers themselves, in four modules covering the cab, the rocket racks and the ammunition, to stop grenades dropped from drones. The catch is that the rockets are still exposed from directly above. And satellite images show a Ukrainian drone strike damaged two workshops at a plant south of Moscow that overhauls Russian air defense systems. Repair depots far from the front are targets now too.
+
+Casualty care.
+
+In Monday's Kyiv strike, a paramedic and a medical technician were wounded by a blast next to their ambulance. They took cover under the vehicle when a second missile hit, and the paramedic, with a chest injury, kept treating other people. The same night blew out the windows of an intensive care unit and damaged a burns center. In Kherson, a drone hit a medical facility and wounded a nurse.
+
+A report from Kharkiv in May, new to our archive, shows why protecting ambulances is hard. FPV drones attacked ambulances at least five times in about a month, and two medics were killed. By late March only about fifteen ambulances had jammers. Donated ambulances couldn't be modified, officials worried jammers might interfere with intensive care equipment, and some medics bought their own body armor. That's a real, specific engineering gap: drone detection and jamming for an ambulance that's proven safe next to monitors and ventilators. It's also one of the few places this week where medical-device experience, including Resilient's, genuinely applies.
+
+Money.
+
+The Pentagon's Drone Dominance program pushed its bomber-drone round, up to twelve hundred drones for thirty million dollars, to November. The stated reason is visas. The US embassy in Kyiv doesn't process ordinary business visas, Ukrainian export approvals still take weeks, shipping adds two to three more, and bidders need a US legal entity. One Ukrainian maker has dropped out until December. Breaking Defense found vendors split on whether the Pentagon's demand is real. The head of Performance Drone Works says healthy demand is a thousand drones a month for a year, and that private equity won't come without it. AeroVironment wants steady orders, not endless contests. And most of the roughly fifty-five billion dollars for autonomous warfare sits in a stalled budget bill.
+
+On private money, North Vector Dynamics of Calgary raised a twenty million dollar Series A at a ninety million dollar valuation for a guided counter-drone missile. It has no military users yet, and deliveries are planned for 2027, the same year as Helsing's. Investors are funding the gap between cheap drones and expensive missiles, but the products are a year away.
+
+And the Pentagon's counter-drone small business topics open today. That's up to three hundred thousand dollars for a first phase, or two million going straight to a second phase, due November twenty-fifth. New since October first, each company gets only one proposal per topic, so a firm has to pick its sharpest idea.
+
+AI.
+
+At Fort Knox, DARPA tested four self-driving off-road vehicles that scout ahead of troops using satellite imagery. When one spotted a target, a human looked at it and decided whether to launch an explosive drone. In War on the Rocks, two officers cite an exercise where AI built battle plans in under a minute, rated ninety-seven percent workable, against nineteen minutes and forty-eight percent for human planners. They argue smaller AI-assisted headquarters would give off a smaller electronic signature and be easier to hide, but warn against trusting polished output and losing the ability to plan when the network goes down. And a research paper describes an interceptor drone that spots and tracks intruders entirely onboard, with no ground station, which is exactly what today's solicitation asks for.
+
+The one thing to think about.
+
+Today the people paying for protection included a postal company, a city council and an ambulance service, not just an army. When the site owner becomes the buyer, the product changes: it has to come as a package, with warning, shelter, a crew and certification, and it has to be simple enough for people who aren't soldiers. Ask yourself which of those buyers nobody is selling to yet.
