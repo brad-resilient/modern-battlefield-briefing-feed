@@ -1,0 +1,57 @@
+Good morning Brad, this is your Modern Battlefield brief for Thursday, October twenty-ninth.
+
+Here's the top line. Russia may be putting a camera-based navigation module on its newest jet drones, and Ukraine's top drone-tech adviser says that could mean turning off the road and highway lights at night. The supply chain behind this war picked up two new chokepoints: China will license the engines inside Russia's jet drones, and Zelensky says the satellite slowdown earlier this month grounded two thousand interceptors a European country had already paid for. And the United States has told Gulf allies to get ready for renewed strikes on Iran after next Tuesday's midterms, with the war's bill now past forty-seven billion dollars.
+
+The threat.
+
+Start with the lights. Serhii Beskrestnov, who goes by Flash and advises Ukraine's president on defense technology, posted that Russia may fit a module called Susanin to its Geran-5 jet drones and to other drones and missiles. It's an optical navigation unit. Nobody has said exactly how it works, but the idea is simple: the drone navigates by what it sees rather than by satellite signals you can jam. Flash's point is that if Russia uses it widely at night, Ukraine may have to bring back light masking, and road and highway lighting would go dark first. The jet Gerans already use machine vision to pick and track a target on their own in the last few seconds, which jamming struggles to stop. Vehicles on lit roads, including rescue crews heading into a strike, are the most exposed.
+
+Why it matters: when the drone navigates by sight, every lit landmark becomes a waypoint. The defense shifts from jamming to signature control. Think blackout discipline, decoy lighting, and smart street lighting that drops out when a warning comes in. That's an adviser's warning; Russia's actual use of Susanin isn't confirmed.
+
+Now the engines. China announced that from November eighteenth, exporting certain drone parts will need a license. That covers specially designed autopilots, certain engines, heavy brushless motors, and anti-jam navigation technology. Ukraine's sanctions commissioner says it covers the engines on Geran drones and the small turbojets on the jet versions. It doesn't cover the small motors in first-person-view attack drones, or batteries, cameras or optical fiber. Here's the catch: it's a license, not a ban. Exporters Beijing trusts can get permits good for three years, so Russia can still be approved, while Ukraine could face delays. Ukraine's military intelligence says Russia's jet Gerans rely entirely on Chinese turbojets, so this is a real lever, but only if someone tracks the licenses.
+
+There's a research angle too. A report from C4ADS, a Washington nonprofit, counts eighty-six papers on drones and unmanned systems co-written by Chinese and Russian researchers between twenty twenty-two and this year. That compares with thirty-six in the thirteen years before. Some of it is formation-control work the authors call a likely building block for drone swarms. Some of the report's links rest on how similar the weapons look rather than on direct proof, so hold it loosely.
+
+On Iran, here's what changed since yesterday. The Associated Press reports American officials told Middle East allies to take precautions for renewed military action after the November third elections. It could last several days, and allies were told to protect energy sites and other critical infrastructure from retaliation. The buildup could bring more than twenty thousand sailors and Marines and hundreds of aircraft. Reuters got the cost estimate: over forty-seven billion dollars, up from thirty-seven and a half billion in July. More than twenty-nine billion of that is replacing munitions, and more than six billion is lost equipment, including aircraft and drones. Repairing the bases Iran hit doesn't seem to be in that number at all. So munitions are about sixty percent of the bill. The cost of each shot has stopped being a talking point and become a budget line Congress will see.
+
+Hardening.
+
+That leads into a piece from The Intercept on what the Pentagon fears about attacks on its bases. Officials say intelligence pointed to an Iranian Revolutionary Guard plot to fly small drones from outside the fence at B-1 bombers parked in the open at Royal Air Force Fairford in England. That's why the bombers were flown out. We covered the departure on October seventeenth, but not the reason. An inspector general report in January counted ten Defense Department installations and activities with drone incursions. In August a Russian drone hit a cargo plane carrying aid for Ukraine at Leipzig airport in Germany, and didn't explode. One official put base repairs at upwards of fifty million dollars, probably far more. And the installations office has put out a call for base-protection ideas: self-healing and advanced materials, new kinds of concrete instead of what they call pour-concrete-and-hope, masking heat and radio signatures, decoy buildings, fast tunneling and shock-isolated underground sites.
+
+Why it matters: that's the shopping list for the FORTRESS America base program, in plain words, and it's much wider than counter-drone. Materials, concealment, decoys and digging are open doors most defense-tech investors aren't watching.
+
+Detection.
+
+Staying with signatures. At an industry meeting in Texas, officials from US Transportation Command, the command that moves troops and weapons, warned that commercial license-plate readers, cloud cameras and AI tracking tools across American towns can be used to track service members and spot deployments, training schedules and mobilization. One official called the camera network a picket line of observers along the routes. Their worry isn't the plate read itself. It's what that plate tells you about intent and timing. Their answers so far: protect the context around movement data, spread moves across more ports and airfields, and work with local owners.
+
+Why it matters: put that next to the Susanin story. Lights and license plates are both signatures now. Auditing what a route, a port or a convoy reveals to commercial sensors is a service with an obvious buyer and almost nobody selling it.
+
+Counter-drone.
+
+On Starshield, the military version of Starlink, here's what's new since service came back on the twenty-fourth. Zelensky told reporters that the speed cap stopped Bars interceptor drones from working. One European country had paid for two thousand of them. In his words, a Bars drone destroyed a Shahed, and then Starshield stopped working. He still doesn't know who ordered the cap. He also said Ukraine now downs about ninety percent of Shaheds overall. Those are his numbers, unverified.
+
+The same week, Auterion, a German company, showed an interceptor called Talon. It's fired from a handheld launcher shaped like a rifle, has a fire-and-forget mode, doesn't need satellite navigation, and kills by direct impact. The German Army has tested it. No price or specs were released.
+
+Why it matters: this is the clearest proof yet that a link you don't own can switch off an interceptor fleet someone else paid for. Working with no satellite link is now a requirement, and it matches the offline rule in the Pentagon's counter-drone small business solicitation that opened yesterday.
+
+Movement.
+
+A Ukrainian supply robot just drove most of a twenty-kilometer route on its own. The Lava drone regiment in the Kharkiv sector ran its first autonomous logistics mission with software from a company called Apex AI. The robot drove ninety-three percent of the route itself, and the operator took over for about a kilometer and a half. A lidar vehicle maps the route ahead of time, then cameras read the road, the edges and obstacles live. The battalion commander says the operator goes from driver to dispatcher, with the goal of one person running several robots and less need for a constant link, Starlink included. Evacuation missions are next.
+
+Why it matters: autonomy answers the link problem and the manpower problem at the same time, and mapping routes ahead of time could be a business of its own.
+
+Casualty care.
+
+Germany is rebuilding how it trains combat medics around a hard lesson from Ukraine: the casualty waits. After its surgeon general visited Kyiv and Dnipro, the Bundeswehr launched three new courses, from a basic combat lifesaver to a combat physician, to keep the badly wounded alive longer, with the goal of training the whole force. Medics will have to fly drones, and a medical regiment is trialing the first medical drone unit. Germany is also reviewing protective gear for the new wound pattern. Blasts come from above and in front, so it's faces, necks, arms, hands and eyes, and Ukrainian soldiers rarely wear eye protection. Engineers will help them practice digging hidden field hospitals underground. The Ukrainian figures behind this: drones cause about ninety percent of combat injuries, and evacuation can take up to twelve hours.
+
+And there's a follow-up on the StarGate drone rescue. The Associated Press interviewed the first patient, a twenty-four-year-old. They had waited two days and couldn't walk the twenty kilometers out. The flight took under fifteen minutes, and the drone landed in grass tangled with fiber-optic cable from attack drones, which worried the crew.
+
+Why it matters: a NATO army has now written the casualty waits into its training, its gear review and its hospital design. Eye and face protection troops will actually wear, drones run by medics, and aid stations you can bury fast are all near-term purchases.
+
+Money.
+
+Finally, three doors for money at home. The Federal Emergency Management Agency's counter-drone grants are two hundred fifty million dollars, one award to every state and territory, with a floor of about three point three million each. Only state agencies can apply, and the deadline is November sixteenth. The scoring rewards support for big events like the twenty twenty-eight Olympic torch relay and mobile defeat systems. Detection counts for less, fixed installations aren't allowed, and systems that shoot drones down score zero for now. Second, the Army added two Indiana sites, Camp Atterbury and Muscatatuck, to its ranges open to commercial drone and counter-drone testing. That's after a former Army secretary said companies could wait twelve to eighteen months just to test. Third, Firehawk Defense in Dallas raised a hundred fifty million dollars at a reported valuation above one point four billion to build rocket motors, aiming for more than a hundred thousand next year. Motors are a chokepoint for every cheap interceptor, which is why they draw that kind of money.
+
+The one thing to think about.
+
+Here's the thing worth chewing on today. Lights, license plates, satellite links, Chinese engines: this week every one of them turned out to be a switch, and someone else's hand is on it. The protection business is quietly becoming a business of finding those switches before the enemy does, and moving them back into your own hands.
