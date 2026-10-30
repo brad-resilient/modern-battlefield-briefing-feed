@@ -1,0 +1,61 @@
+Good morning Brad, this is your Modern Battlefield brief for Friday, October thirtieth.
+
+Here's the top line. A Russian jet drone killed fourteen people on a railway platform in Dnipro in broad daylight, even though passengers were told to clear the area more than ten minutes before it hit. Russia is also fitting its Shahed-type drones with electronic compasses and a new onboard jammer, which takes them another step away from needing satellite navigation at all. And hardening is finally getting price tags: a think tank costed out hardened shelters for American tankers, Estonia is building about a hundred and fifty border bunkers, and the Pentagon is investigating a suspected hack that cooked the food in base freezers.
+
+The threat picture.
+
+Start with Dnipro, because it's the clearest lesson of the week. Around eleven in the morning on Thursday, Russia sent four jet-powered attack drones toward the Dnipro region. Air defense shot down three. The fourth hit a platform next to a commuter train bound for Zaporizhzhia. The regional governor reported fourteen dead and fourteen wounded, six of them seriously, including an eleven-year-old and an adult who lost both legs.
+
+Here's the part that matters for force protection. Ukrainian Railways has its own monitoring team. They saw the danger, halted traffic, and announced an evacuation of that train more than ten minutes before the strike. Announcements told people to move at least two hundred meters away. The air raid alert was on. And still, in the railway's words, many people were right next to the train when the drone hit.
+
+So the sensors worked and the warning worked. What failed was the last step: people acting on it, and having somewhere close and obvious to go. Ten minutes is a lot of warning by the standards of this war. Remember Kyiv's gun crews get five to twenty seconds against jet drones. If ten minutes isn't enough to save a crowd on a platform, the problem isn't detection. It's shelter where people wait, and alerts specific enough to move a particular crowd to a particular place. Military railheads and convoy assembly areas have the same problem.
+
+The same day, Zaporizhzhia had a record number of short-range attack drone strikes, the small first-person-view kind. Three of them hit public transport: a city bus, a minibus and a trolleybus. The regional head said Russia had changed its tactics and modified its drones. Cities near the front now live under the same drone canopy as the trenches.
+
+On the other side of the ledger, Ukraine's General Staff says it struck a Russian drone base near Navlya in the Bryansk region overnight, hitting Shahed storage and fuel. That's the second strike there since August, and the damage claims are Ukraine's own.
+
+Now the drone itself. Ukraine's sanctions commissioner, Vladyslav Vlasiuk, posted that Russia has started fitting magnetometers into the tails and fins of its Geran drones. A magnetometer is basically an electronic compass. It gives the drone a heading that doesn't depend on satellites. Specialists are also studying a new jamming system found on the drones, apparently there to fight Ukrainian electronic warfare. And, in Vlasiuk's words, Western electronics are at the core everywhere. Ukraine's military intelligence had already found an American-made magnetometer paired with an inertial unit in the upgraded Geran-4 earlier this month.
+
+Put that together with yesterday's story on Susanin, the camera navigation module, and you get a drone that can fly its route with GPS completely jammed. Jamming becomes a speed bump, not a kill. That pushes money toward detecting and physically intercepting, and toward denying the visual cues cameras use, like lit roads.
+
+Detection and early warning.
+
+Here at home, the Federal Communications Commission has scheduled a November nineteenth vote on rules that would let ground-based radar detect and track drones in a band around twenty-four and a half gigahertz. Right now, the rules allow some radar use from aircraft but make similar ground-based surveillance hard to license. One important limit: this covers detecting and tracking only. It gives nobody new authority to jam or take down a drone.
+
+Why it matters: radar is the sensor most American sites struggle to get licensed. A clear band opens the homeland detection market, airports, prisons, stadiums, bases and those federally funded event deployments we covered yesterday, to radar makers and to the integrators who fuse radar with radio and acoustic sensors. Defeat authority is still the missing piece.
+
+Counter-drone and the link problem.
+
+Two follow-ups on the satellite link that Ukraine's interceptors depend on. First, Lithuanian prosecutors have named two young men living in Germany as suspects in terrorism charges over the October eighteenth attempt to burn a Vilnius site with nine Starlink antennas used by Ukraine. Both are already in German custody on Bulgarian warrants over the burning of eleven antennas near Sofia, and police tie the same network to a ground-station fire in Poland in September. Russia's role is being examined but isn't confirmed.
+
+Second, the Pentagon's inspector general turned down a request from nine senators of both parties to investigate who ordered the Starshield speed cap that grounded those two thousand interceptors we heard about yesterday. The watchdog said the Air Force was better placed to look into it.
+
+So the link is under attack physically, at the ground stations, and politically, with no one accountable for switching it down. Two things follow: ground stations need to be guarded, hardened and redundant, and interceptors need to work with no satellite link at all.
+
+Protected movement and logistics.
+
+In the Black Sea, three unidentified sea drones struck another merchant ship, the Liberian-flagged Contship Jet, about twenty nautical miles off the Bulgarian coast on its way to Romania. All eighteen crew got off safely. The same day, the defense ministers of Bulgaria, Romania and Turkey met in Sofia and agreed to share more intelligence and strengthen early warning. No escorts, no task force, no countermeasures. More than five hundred and seventy ships have been hit in the Black Sea this year, with at least forty sailors killed. Governments are choosing to watch, not defend, which leaves shipboard detection and point defense against small sea drones as something shipowners and insurers may have to buy for themselves.
+
+Hardening and survivability.
+
+The Hudson Institute released a study arguing that American aerial refueling depends on vulnerable forward bases, with tankers that can be destroyed sitting on the ramp. It estimates China could put about four hundred munitions a day on targets as far out as the Middle East. Its fix is concrete: at least sixty large hardened tanker shelters across several bases, at thirty to a hundred and fifty million dollars each, about three point one billion dollars over ten years. Plus decoy tankers and smaller hardened fuel stores. In March, Iranian strikes damaged five tankers and destroyed an airborne radar plane at a base in Saudi Arabia. The Air Force chief of staff, General Kenneth Wilsbach, still argues it makes more sense to shoot down what's incoming than to build strike-proof shelters.
+
+That's the first real price tag on an argument we've followed since mid-October, and it's small next to the forty-seven billion dollar Iran bill. Decoys, dispersed fuel and modular shelters are things a smaller firm can bid on even if big concrete waits.
+
+Allies aren't waiting. Estonia's defense minister says about a hundred and fifty bunkers will go up along the Russian border, about a third of them on private or municipal land. And in Ukraine's Sumy region, thirteen underground schools are already running, with nine more under construction and fourteen being designed, each built as a shelter with backup power. Governments are buying buried space at scale, and much of it goes to local builders using repeatable designs.
+
+One stranger story. Reuters reports the Pentagon is treating freezer failures at at least six base commissaries in August as a suspected cyberattack. In at least one case, the cooling was turned up overnight so the food melted by morning. Investigators are working with French police after a similar attack hit more than three hundred and fifty French supermarkets this month. No culprit has been named. The point for us: base self-sufficiency plans assume the refrigerators work, and the same kind of networked controllers run medical cold storage, including blood. That last part is my inference, not something reported.
+
+Casualty care.
+
+A Ukrainian company called Robotic Complexes is building an armored evacuation capsule for its Murakha ground robot. Think of it as a small steel pod, lined with plastic armor, with heating, ventilation, lighting and a first-aid kit, doors on the sides and back, and a day-night camera and two-way audio so a medic can watch and talk to the casualty during the ride. It can be controlled by radio, cellular, Starlink or fiber, and keeps two independent links if the pod detaches. The robot itself carries net launchers and jammers, runs on electric motors and has a range of up to eighty kilometers. The steel has been ballistic tested; vital-sign monitoring and an anti-drone cage are still in development. Back on October sixteenth, a Ukrainian maker complained that ground robots carry the wounded exposed. This is the answer, and the market is the whole protected pod, not any one sensor inside it.
+
+Money.
+
+Europe put about twenty-one billion euros more on the table through its low-interest defense loan program, after Italy and Hungary borrowed less than planned. The European Commission is explicitly encouraging countries to spend it with Ukraine on air defense, drones and counter-drone systems. Finland's Patria is forming a joint venture with Ukrainian maker General Cherry on attack drones and interceptors, which is the shape that money likes.
+
+And the day after China put turbojet engines under export license, a Dutch-based company called Destinus says it builds nearly three hundred cruise missiles a month, more than Europe made in a year before the war, from a supply chain with no Chinese parts. It also makes small turbojets in series and plans to sell them to other makers, including Ukraine's, starting next year. Those are the engines both jet drones and jet interceptors need. The figures are the company's own.
+
+The one thing to think about.
+
+Dnipro had more than ten minutes of warning and still lost fourteen people standing beside a train. Ask yourself where the next ten minutes go to waste: at a bus stop, a railhead, a motor pool, a field hospital. The sensor business is crowded. The business of getting people under cover, quickly, in the exact place the alert is about, is almost empty. That's the gap worth thinking about today.
