@@ -1,0 +1,51 @@
+Good morning Brad, this is your Modern Battlefield brief for Sunday, November first.
+
+Here's the top line. An Associated Press analysis of satellite imagery shows that when Iran struck US bases in February, it went after American radars first, then hangars, then the buildings where troops lived, and Gulf officials now say Washington told them to expect new US strikes on Iran as early as Wednesday, the day after the midterms. In Ukraine, jet-powered drones were more than half of another Russian raid, and Kyiv's drone technology adviser says the newest jet Shahed has hit a thousand kilometers an hour while maneuvering. And the interceptor money is moving, but slowly: five hundred Patriot missiles were approved for Ukraine, paid for by allies, with delivery that could take years.
+
+The threat picture.
+
+Start with Friday night. Ukraine's Air Force says Russia launched one hundred thirty-four drones, and seventy-two of them were the jet-powered kind. Defenders stopped one hundred five. Three drones hit a water facility in Kyiv and cut water to four districts overnight, a jet drone hit a neighborhood in Kharkiv and injured five people, and about two hundred eighty thousand homes in two regions lost power. That's the third night in a row that jets were half or more of the raid.
+
+The new piece is speed. Serhii Beskrestnov, who goes by Flash and now advises Ukraine's president on defense technology, said the Geran-5, Russia's newest jet drone, has reached a thousand kilometers an hour while maneuvering. Ukrainian intelligence puts its cruise speed at four hundred fifty to six hundred. He also said Chinese engineers take on tasks at Russia's main drone plant, Alabuga, including work on the control module. And he was blunt about Ukraine's own answer: the jet-powered interceptors makers keep showing off still have problems with control, guidance, locking onto a target automatically, and building them in numbers.
+
+That's one official's claim, not verified. But if it's even close, the interceptors being fielded today, most of which top out around four hundred kilometers an hour, are outrun at the end of the chase. The problem isn't the airframe any more. It's the seeker and the guidance.
+
+Now Iran. Last week the reporting said the week after the midterms. Now, according to three senior Gulf officials quoted by the news channel MSNOW, Washington has told Gulf allies to prepare for strikes as early as November fourth, brief but intense. Gulf states are pushing back, and one official said some might refuse use of the American bases on their soil. Iran's supreme leader ordered his forces to answer any attack without geographic limits. The White House won't comment, so treat the date as unconfirmed.
+
+Hardening.
+
+Here's why that matters for force protection, and it's the most important story today. The Associated Press went through satellite imagery from several providers. Some of the big American imagery companies blocked or delayed pictures at US officials' request, so a European service filled the gaps. What they found is a pattern. Iran's first strikes, in the first two days of the war, destroyed the shelters protecting US radars at Camp Arifjan in Kuwait and the Navy's base in Bahrain, and hit radars in Saudi Arabia and Jordan. One radar destroyed in Jordan was, according to Raytheon, one of only thirteen the Army had anywhere, at about half a billion dollars each. Only after the sensors were hit did the strikes move to hangars, warehouses and troop housing. One base in Kuwait, Ali Al Salem, was hit at least thirty times. A drone strike at a Kuwaiti port on March first killed six US soldiers. In all, more than one hundred fifteen strikes damaged or destroyed structures on twenty-six sites through August. A RAND analyst says relying on fixed infrastructure is over. The Pentagon says the bases are well protected.
+
+Think about what that means. The most valuable thing on the base, and the hardest to replace, was sitting in a light shelter, and it was the first thing the enemy went for. Hardened or decoyed radar sites, cheap backup sensors, and control over what commercial satellites show are all gaps, and they may be tested again within days.
+
+At home, the Pentagon is thinking big about the same problem. A memo from Defense Secretary Pete Hegseth calls for a new, highly hardened base inside the United States, sized like a city: one hundred thousand to two hundred fifty thousand acres, fifteen to twenty-five thousand troops, and units like autonomous strike wings and counter-drone brigades. It has to run thirty days at full combat power cut off from the civilian grid, using small nuclear reactors, hardened microgrids and closed-loop water, with underground command shelters. States nominate sites by December first, a pick comes by June twenty twenty-seven, and private capital would build part of it. There's no price tag yet. It's the same logic as the FORTRESS America base plan from last week: power, water and shelter are force protection, and private money is expected to help pay.
+
+Detection.
+
+A strange one from Moscow. On Friday, flights at three Moscow airports were restricted after what a Russian Telegram channel called an attack by balloons carrying drones, and a fire broke out in forest near Sheremetyevo airport, close to a fuel depot. A similar attack the week before closed all four Moscow airports and delayed or cancelled more than three hundred forty flights. The payloads aren't confirmed. The point for you is that a slow, cheap balloon is exactly the kind of target radars tuned for fast drones may ignore, and it still shut down a capital's airports. Any base detection plan has to see slow and low, too.
+
+Counter-drone.
+
+A follow-up on Ukraine's private air defense, which we covered Wednesday. Ukraine's Defense Ministry now says its automated gun turrets have moved beyond the experimental stage and are an integral part of air defense, with more than sixty targets credited to the private program, including jet drones and cruise missiles. About fifty private crews have formed, and nearly one hundred companies have joined. And Taras Bublyk, who runs the Ukrainian electronic warfare company UNWAVE, warned Europe that it's buying expensive interceptors to shoot cheap drones, and that many European countries legally limit which radio bands can be jammed, with no clear rules for an emergency. His line was that the cost of countering must be proportionate to the cost of the threat. Guns, private crews under military command, and clear legal authority are what's working this winter.
+
+Protected movement.
+
+In Kherson, the regional governor told the Council of Europe that Russia sends up to six thousand five hundred drones a week at the region, deliberately hunting civilians, medics and rescuers. Locals call it a drone safari. What keeps about one hundred forty thousand residents alive, the governor says, is coordination, underground schools and hospitals, fast demining, and layered anti-drone defenses. That is the drone kill zone in its mature form: anyone moving on a road, ambulances included, is a target, and essential services go underground.
+
+Casualty care.
+
+Two items. A study in the Journal of Clinical Medicine followed forty-one Armenian soldiers with drone blast injuries to the face from the twenty twenty Nagorno-Karabakh war for at least five years. Eighty-eight percent had injuries elsewhere too, eighty-three percent had burns, and every single patient had damage to the hearing nerve. Burn patients needed far more follow-up surgery. Early reconstruction, about a day after injury, held up well. The lesson: drone wounds are burns and blast hearing loss as much as fragments.
+
+And from an exercise in Canada this summer, British paratroopers built a walking blood bank. Every soldier's blood type was tested and their position tracked. When someone was hurt, medics drew blood from the nearest matching donor and flew it to the casualty by drone, and video-called surgeons back in the UK over a mesh radio. That's a cheap, fieldable answer to the casualty who waits, and the matching and tracking software is the product.
+
+Money.
+
+Back to Patriots. The State Department approved a possible sale of five hundred of the newest Patriot interceptors to Ukraine, worth two point one billion dollars, paid by Canada, Germany and Norway, with no US money. Congress has thirty days to review. Zelensky says delivery could take a few years, and that Ukraine averaged just twelve US Patriot interceptors a month this year. NATO's top commander says everything already paid for has been delivered.
+
+Ukraine's own answer, a ballistic missile shield called Freyja, is finished on Ukraine's side, but its interceptor waits on a European seeker. The maker wants two thousand a year at under a million euros each, roughly a quarter of a Patriot's price. And the US Army signed a one point oh eight billion dollar deal to develop a hypersonic version of the Patriot missile, with Lockheed Martin putting up four hundred twenty-three million of its own money. Allies are paying, vendors are co-funding, and Washington is approving. Again, the seeker is the bottleneck.
+
+This week's synthesis, with the strongest opportunity ideas re-ranked, is in the archive.
+
+The one thing to think about.
+
+Iran didn't start with the troops or the planes. It started with the radars, because once the sensors were gone, everything else was easier to hit. Most of the money in this field is going into shooters. Ask yourself who protects the sensors: the shelter, the decoy, the cheap spare that keeps a base seeing after the first strike. That's the thing worth thinking about today.
