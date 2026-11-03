@@ -1,0 +1,53 @@
+Good morning Brad, this is your Modern Battlefield brief for Tuesday, November third.
+
+Here's the top line. Russia sent one hundred three jet drones at Ukraine in a single daytime wave yesterday, and it has turned a cheap decoy drone into a strike drone with a range of twelve hundred kilometers. Ukrainian experts say Russia's bigger navigation antennas mean it now takes about twice as many jammers to stop each upgraded drone. And in the Gulf, the United States hit an Iranian island in what officials call a limited, defensive strike, while both sides say a deal to reopen the Strait of Hormuz could come within days.
+
+The threat.
+
+Start with Russia's drone mix, because it keeps widening. From six thirty in the morning until seven at night yesterday, Russia launched one hundred seventy-one attack drones at Ukraine, and one hundred three of them were jets. It also fired ten Banderol missiles. Ukraine shot down or jammed one hundred thirty-nine of the drones, including seventy-eight of the jets, and about twenty were still in the air when the report came out. That was a daytime wave, separate from the overnight raid in yesterday's brief. The Air Force says Russia launched more than four thousand jet drones in October, against about forty-seven hundred propeller drones, so jets are now close to half.
+
+Ukrainian intelligence also published details of the Gerbera two. The Gerbera started as a cheap decoy meant to soak up air defense. The new version has a three meter wingspan, a bigger fuel tank, a twenty-five kilogram warhead and a range of twelve hundred kilometers. It also has a rear-facing camera to watch for Ukrainian interceptor drones coming up behind it. Investigators found parts made in the United States, China, Taiwan, Switzerland, Ireland and the Netherlands, and one of these drones, warhead and all, washed up on Poland's Baltic coast in September.
+
+At the front line, three Ukrainian units have filmed kills of jet versions of Russia's BM thirty-five and BM seventy strike drones. One regiment says the jet BM thirty-five flies faster than three hundred fifty kilometers an hour with a ten kilogram warhead, and that Russia uses it against vehicles and supply routes.
+
+Why this matters: jets aren't just a night-time threat to cities anymore. They come in daylight, they're about half of what Russia launches, and they're moving down to the tactical level, where they hunt trucks. And a decoy you used to be able to ignore can now hit NATO territory.
+
+Now Iran. What changed since yesterday: on Monday, US forces struck Qeshm Island in the Strait of Hormuz. One US official said it answered an Iranian attack on an American aircraft. The Wall Street Journal reported that the target was a surface-to-air missile launcher belonging to Iran's Revolutionary Guard. Officials said the strike does not signal a return to major combat, and that it was one of several limited strikes in recent weeks, some never made public. Iran claimed it shot down two American stealth reconnaissance drones, and a US official called that false. Yet on the same day, Iran's foreign minister called the talks through Qatar and Pakistan extremely intensive, the President said Iran wants a settlement as soon as possible, and the Vice President spoke of some progress. As of early this morning the strait was still closed, with about one hundred fifty ships waiting. So there are two tracks now, talks and limited strikes, and either one could change the picture for the strikes that Gulf officials said could come as early as tomorrow. For force protection, the posture doesn't change: dispersed and on alert.
+
+Detection and jamming.
+
+Next, a pair of Defense News stories on the radio fight. Russia's Kometa navigation modules use arrays of small antennas that cancel out jamming. Ukrainian intelligence says sixteen-element arrays are now standard, twenty-element arrays are going into production, and Russian factories have ordered more than one hundred thousand of these modules this year, for drones, glide bombs and missiles. Serhii Beskrestnov, the electronic warfare expert who goes by Flash and advises President Zelensky, posted on Telegram that he has seen thirty-two-element antennas on drones over Kyiv. Ukrainian officials say each upgraded drone now takes about twice as many jammers to stop. Flash's point is that it's cheaper for Russia to add antenna elements than for Ukraine to add jamming sites. Practitioners say the counters are to jam several satellite bands at once, or to spoof the drones with false coordinates that steer them toward empty fields. Yesterday Flash also described how Kyiv built a citywide electronic warfare shield against mesh-radio-controlled jet drones. It took equipment at several hundred sites across the city, put up in a few weeks.
+
+Ukraine's other answer is to listen instead of jam. A Kyiv company called CODE380 makes a receiver that weighs about ten ounces. It sweeps a wide band of frequencies and shows the live video feed from a Russian attack drone up to about ten kilometers away, and because it transmits nothing, it doesn't give away the unit using it. The catch is that it only works while Russian drones send analog video. Digital video and fiber-optic drones get past it.
+
+Why it matters: defense that depends on jamming gets more expensive with every Russian antenna upgrade. That pushes the money toward physical kills and toward sensors that only listen, and listening matters as much for a squad as for a city.
+
+A short follow-up on the hacked Air Alert app. It was partly back up by two in the morning on Monday. The map and push alerts work, but the display of targets is still switched off. Some of the fake messages were in Russian and linked to a Telegram channel. And here's a number that shows what warning costs: Ukrainian shopping centers say alerts closed them for almost a third of their opening hours in October, nearly triple last year, even with the new yellow and red alert levels. Warning that's spoofed loses people's trust, and warning that's too broad shuts everything down. Precise, trusted, tiered alerts are worth real money.
+
+Counter-drone.
+
+The Army's laser program is moving into production. Leonardo DRS announced that it's joining AeroVironment on the Enduring High Energy Laser program, handling power, cooling and vehicle integration. The Army awarded AeroVironment nearly five hundred million dollars in September. DefenseScoop calls it the first production contract for directed energy weapons in American history, and AeroVironment expects to deliver dozens of systems. Separately, the joint counter-drone task force plans a shoot-off later this year among lasers and microwave weapons from AeroVironment, Epirus, Kord and Boeing. The opportunity to notice is that power and thermal management are the hard parts, and a subsystem slice like that is a way in for companies that won't build the whole weapon.
+
+Movement.
+
+Oshkosh Defense, the military truck maker, is teaming with a California startup called Grid Aero to mass-produce a cargo drone named the Lifter. It has a piston engine and is built from common materials. One report puts its payload at up to about thirty-six hundred kilograms and its range at up to thirty-two hundred kilometers. The startup expects six to twelve more months of testing, a pilot production line in about a year, and hundreds, maybe thousands, of aircraft by the early twenty thirties. Meanwhile, the head of a consortium that connects the Army with ground robot makers says companies can't tell what the Army will actually buy. In about eighteen months the Army reshaped its robotic vehicle program twice. The advice: watch the xTech contests and the formal programs of record, because those are where the money goes.
+
+Hardening.
+
+Here's a quick one. The Wall Street Journal reports that at least sixty tankers in Russia's shadow fleet have passed through the Bosphorus since August with nets over their engines and rubber tires hanging near the rudder to stop Ukrainian sea drones. It's the maritime version of the cage armor you've seen on tanks: improvised and cheap, and it protects the parts that keep the vessel moving.
+
+Casualty care.
+
+Two stories that are hard to hear. Ukraine's StarGate evacuation drone, made by SkyFall, has made its third known rescue. It flew about fifteen kilometers to a position roughly two kilometers from the Russian border and brought out a fifty-four-year-old soldier named Andriy, call sign Donbas, who had lost a foot and had waited fifty-seven days for evacuation. Andriy is now in hospital. Fifty-seven days. Prolonged field care doctrine plans for hours or a few days, not two months.
+
+And in Zaporizhzhia, Russian guided bombs hit a school in Komyshuvakha, then struck the same spot again after rescuers and police arrived. The death toll is twenty-four, including two rescuers and four police officers. Double-tap strikes make first responders a target.
+
+One research note to go with that. A Joint Trauma System editorial in Military Medicine on early lessons from the Iran war flags preventable eye injuries and gaps in force protection. Put it next to yesterday's Navy study, where four out of five drone injuries were to the head and neck, and eye protection that troops will actually wear against blast from above becomes a concrete, fundable problem.
+
+Money.
+
+Last, two money stories that point in opposite directions. In Paris, a startup called Gallium Defense, founded only in April, raised seven point one million euros for a cheap radar built from 5G telecom parts. It's meant to spot small drones at ten kilometers, with orders opening early next year. The chief executive's line was, we accept attrition. Meanwhile, an analyst citing the State Department says the five hundred Patriot missiles approved for Ukraine last week would be delivered between late twenty thirty and late twenty thirty-three, unless allies give up their places in line. One Ukrainian estimate says five hundred would last about three months. The gap between today's threat and those delivery dates is where cheap sensors and cheap interceptors sell.
+
+The one thing to think about.
+
+Jamming used to be the cheap answer to drones, and it's getting more expensive with every Russian antenna upgrade. Meanwhile, the people this is all meant to protect wait longer: fifty-seven days for one wounded soldier, and rescuers are hit while they work. If you had to pick one problem from today, it's protection that doesn't depend on winning the radio fight: sensors that only listen, cheap physical kills, and getting the wounded out without a road.
