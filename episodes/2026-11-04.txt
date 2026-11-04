@@ -1,0 +1,67 @@
+Good morning Brad, this is your Modern Battlefield brief for Wednesday, November fourth.
+
+Here's the top line. The window for new American strikes on Iran opens as early as tonight, talks have stalled, and Israel is warning that Iran could use chemical weapons, a claim Gulf states are brushing off. Democrats are reported to have won both chambers of Congress, which leaves the Pentagon's extra money with only a few weeks to pass. And the answers to the drone threat today come from underground, from cell towers and from the air: a tunnel almost six kilometers long in Donetsk, drone tracking over five G networks, and a Marine cargo drone built to land under fire.
+
+Iran.
+
+What changed since yesterday. President Trump confirmed the strike on Iran's Qeshm Island, saying it hit an anti-aircraft site Iran had spent about two months building. He called it a minor attack that "wasn't war." Iran's top security official answered that the American reply to Iran's seven conditions, which include lifting sanctions and ending the naval blockade, was not convincing. The Strait of Hormuz is still closed, and Qatar is still passing proposals between the two sides.
+
+The bigger news is the plan. Citing the New York Times, several outlets report that Central Command has finished plans for a three-day campaign against Iran's missile and drone stocks, Revolutionary Guard command centers and energy sites. It could start as early as Wednesday evening, while three carrier groups are in the region. The President has not approved it.
+
+There's a new element too. For about two weeks, Israeli officials have been telling American and Gulf officials that Iran could deliver chemical agents by missile, by drone, or covertly. The Gulf states reportedly call those briefings unserious, and some American officials think the warning is meant to pull Washington back into the war. All of this comes from anonymous sources, so treat it as contested. Also yesterday, two projectiles hit a tanker's engine room off Oman, and the Houthis claimed drone and missile attacks on a Saudi airport and air base, which haven't been confirmed.
+
+Why it matters to you: if chemical warning becomes a real planning factor for Gulf bases, detection, masks and decontamination at dispersed sites become a near-term buy on top of drone defense. And if Iran answers a strike, expect it to go after radars and bases first, the way it did last time.
+
+The drone threat.
+
+Overnight, Russia launched three hundred and ten drones at Ukraine, a mix of Shahed-type attack drones and Gerbera and Parodiya decoys. Eighty-one were jets. Ukraine stopped two hundred and seventy-two, and there were hits at nineteen locations. The jet count is about the same as in the last few raids, in the seventies to low hundreds, but the total nearly doubled. So jets fell to about a quarter of the raid, after making up more than half of some recent ones.
+
+That's not a sign Russia is backing off jets. Mixing in cheap decoys forces defenders to sort targets in seconds and save their fast, expensive interceptors for the jets. Telling a decoy from a piston drone from a jet is becoming as valuable as shooting any of them down.
+
+From the other side of the line: a freelance war reporter named Óskar Hallgrímsson compiled the October numbers from Ukraine's Unmanned Systems Forces. The force reports nearly sixty-five thousand targets hit in one month, about one every forty-one seconds, and its highest monthly count of Russian losses so far. Look at the best single day, October twenty-fourth. Besides the troops and vehicles, the list includes four hundred and eighty-eight drones, one hundred and twenty-five drone-crew antennas and sixty-one launch points. These are the force's own numbers, checked only in its own system. The point still holds: the drone war is now a hunt for the other side's drone teams. Anything that radiates near the front gets found and hit, and that's the strongest case yet for gear that stays quiet and listens rather than transmits.
+
+Detection.
+
+Ericsson, the Swedish telecom company, says its five G networks can now detect and track drones. Several cell sites work together: one sends a signal, it bounces off the drone, and the others pick up the echo and plot a track. AT and T tested it in Arlington, Texas, and so did Finland's state network for emergency services. Both followed several drones. Pilots with selected customers begin in twenty twenty-seven, with wider rollout from twenty twenty-eight. Ericsson hasn't published range or accuracy figures, and it describes the system as an addition to radar, not a replacement.
+
+Why it matters: cities, bases near cities and power plants could get wide, low-altitude coverage from towers that already exist. The business opportunity is in fusing the carrier's tracks with a base's own sensors, and in settling who is allowed to see the data. It won't work where towers are jammed or destroyed, so this is a home-front answer, not a frontline one.
+
+Counter-drone.
+
+Naval Station Guantanamo Bay says it just held a counter-drone exercise called No Fly Zone. Friendly drones of several types played the attacker. Joint Interagency Task Force four-oh-one, the Pentagon's counter-small-drone office, took part with Southern Command's naval forces and the Army's development command. The base didn't name the defensive systems. The backdrop is a report from Axios in May that Cuba acquired more than three hundred military drones from Russia and Iran, which Cuba and Russia deny.
+
+The task force is going base by base. Mar-a-Lago got Avenger air-defense systems earlier this week, and now Guantanamo gets a red-team drill. Every base that tests itself and finds gaps becomes a customer. Vendors who can set up quickly and also run the red team fit how the task force is working.
+
+Protected movement.
+
+Ukraine's Air Assault Forces say their engineers have dug a tunnel almost six kilometers long between two settlements in Donetsk. Troops ride motorcycles and quad bikes through it, bringing food and ammunition forward and bringing wounded soldiers back, out of sight of Russian drones. While they were building it, Russia sent two first-person-view drones at the work crew. A squad leader shot both down. Unlike the gas-pipeline raids two weeks ago, this is a permanent supply line, not a way to sneak in an assault.
+
+When you can't protect the road, stop using it. Tunneling, shoring, ventilation and small vehicles that fit underground are now frontline logistics gear, and the same tunnel is a casualty evacuation route. As far as I can tell, nobody is selling quick-build tunnel kits to the US Army.
+
+The Marine Corps has also put dates on drone resupply. Its Tactical Resupply Unmanned Aircraft System program will hold a demonstration in Huntsville, Alabama, from late January to early February. The aircraft has to carry one hundred pounds out to forty nautical miles and back without refueling, and one hundred and fifty pounds or more out to ten nautical miles. It has to fly at fifty knots or faster, launch without a catapult or a net, check its own landing zone day and night, and come down fast, because the Marines expect it may land under fire. No funding or vendors are named yet.
+
+This is the clearest American statement so far of what last-mile drone resupply has to do. The hard parts are landing by itself on rough ground and spending as little time as possible low and visible. Whoever solves that has a buyer, and the same aircraft could bring blood forward or casualties back.
+
+Casualty care.
+
+Navy medicine's research command has approval to test and produce single blood bags for walking blood banks. Those are the field setups where fresh whole blood goes straight from a donor in the unit to a casualty when stored blood can't get there. The program manager says the bags will go to combat medics, ending equipment shortages and speeding up collection. No dollar figure or schedule was given.
+
+It's the same assumption behind DARPA's shelf-stable blood and Ukraine's drone-delivered donor blood: plan for a blood supply chain that can't reach the front. A walking blood bank needs bags, screening, donor matching and training, and each of those is a small business. Donor-matching software and fast field screening are the obvious gaps.
+
+Money.
+
+On the election, I'll stick to what touches defense money and to what's reported. As of this morning, news outlets report that Democrats have won control of both the House and the Senate, though some races may still be counting. The current Congress comes back November ninth, government funding runs out December eleventh, and the new Congress is sworn in January third.
+
+Before the vote, the Center for Strategic and International Studies laid out the options: extend the stopgap into next year, which a Democratic majority might prefer; pass full-year spending bills in the lame duck; or pass a reconciliation package for defense, more likely at sixty billion dollars than the three hundred and fifty billion the Pentagon asked for. Politico also reported last week that the Pentagon was already quietly drafting a budget about four hundred billion dollars below its one point five trillion dollar request.
+
+What it means for you: money that depends on reconciliation, including about fifty-four billion dollars for the planned Autonomous Warfare Command, is now at real risk. Work already in the base budget, like counter-drone, base defense and munitions, is safer. If a long stopgap comes, few new programs can start, so other transaction agreements, small business research grants and existing marketplaces will be the doors that stay open.
+
+AI.
+
+One quick people move. Dan Driscoll, who left as Army secretary in August, has joined OpenAI as a senior counselor for national security, with a focus on allies. OpenAI already has a two hundred million dollar Pentagon prototype deal, and its models are on the department's own generative AI platform. The frontier labs are building ties to defense buyers, and smaller companies building on their models stand to benefit.
+
+The one thing to think about today.
+
+Almost every story today has the same lesson: don't be seen where the drones are looking. Ukraine moved its supply line underground. The Marines want a cargo drone that spends as little time as possible low and visible. Ukraine's drone teams hit a hundred and twenty-five Russian antennas in a single day. And Russia buries its jets among decoys so defenders can't tell which target matters. So the question for today is which part of force protection is about not being found, and who is selling that. Underground routes, quiet radios, fast low flight and decoys you can deploy yourself are all still early markets.
+
+That's your brief. Drive safe.
