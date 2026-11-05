@@ -1,0 +1,61 @@
+Good morning Brad, this is your Modern Battlefield brief for Thursday, November fifth.
+
+Here's the top line. The window for new strikes on Iran opened after the election, and so far no campaign has come, but a third carrier is heading in and air defense equipment is still flowing. The Pentagon says it sent more than twenty-four thousand counter-drone systems to Central Command this year, in a push that cost under eight hundred million dollars, which tells you the buying is cheap and in bulk. And drones are now carrying more than explosives, from phishing leaflets to fiber-optic reels a hundred kilometers long.
+
+Iran.
+
+First, the thread we've followed all week. Yesterday's brief said Central Command had a three-day strike plan that could start Wednesday evening. As of this morning, it hasn't happened. President Trump told the Financial Times there are no immediate plans to strike, and that, quote, "we seem to be getting everything we want." On Fox, Trump said "maybe I will, maybe I won't."
+
+The talks haven't broken through. Qatari mediators spent about three hours in Tehran and describe a "glimmer of hope," but Iran still wants sanctions lifted and the blockade ended before it reopens the Strait of Hormuz. Meanwhile, the Revolutionary Guard claims four tankers hit mines, which nobody has confirmed, and the British military reports a tanker hit by two projectiles near Oman.
+
+On the defense side, the carrier Theodore Roosevelt and its strike group are heading for the region, which would make three carriers. Flight trackers show Army cargo planes flying from Fort Bliss, home of Army air defense, to two Israeli air bases, and open-source analysts think they carry THAAD equipment. That's the Terminal High Altitude Area Defense system; it's unconfirmed. Keep in mind that earlier assessments said the US had already used about forty-five percent of its Patriot missiles and over half its THAAD missiles. So the strike threat is paused, not gone, and every battery sent forward comes out of a thin stock.
+
+The drone threat.
+
+Now Ukraine's October numbers, which update the jet drone story we've been tracking. Ukraine's General Staff says Russia launched about sixty-four hundred Shahed-type drones last month. Ukraine stopped about eighty-nine percent of the propeller-driven ones, but only about sixty-six percent of the jets. The jet figure is improving. It was around fifty-five percent earlier this autumn. But it still means about one jet in three gets through, roughly three times the rate for propeller drones. And the jet count itself jumped. Ukraine intercepted about twenty-seven hundred jets in October, against about nineteen hundred in September.
+
+Ukraine's military intelligence adds that Russia is building more than two hundred missiles a month, up to a hundred and ten of them ballistic. Ukraine's defense ministry now calls ballistic missiles "a separate challenge." Drones are the problem Ukraine is getting on top of. Ballistic missiles are the one it can't solve without Patriot-class interceptors, and those are rationed.
+
+Second, a new kind of payload. Ukraine's drone forces commander, Robert Brovdi, who goes by the call sign Madyar, says a Shahed shot down Tuesday evening carried a bundle of propaganda leaflets in Ukrainian with QR codes. The commander's warning is that scanning those codes infects your phone. The Kyiv Independent couldn't verify it. In a mirror-image story, Russia's security service, the FSB, claims it found explosives hidden inside the video goggles drone pilots wear, sent to Russian drone teams through charities, and blames Ukrainian intelligence. That comes from Russian state security, it's unverified, and no injuries are reported. But taken together, the message is that the drone team's phones and headsets are now targets too. Screening donated and commercial gear, and teaching troops phone hygiene, are becoming force protection tasks.
+
+Detection and jamming.
+
+Here's a cluster of stories about radio signals. An open-source map built from flight tracking data shows GPS jamming across almost all of NATO's eastern flank on Monday, from the Baltic to the Black Sea, worst around Kaliningrad, Lithuania and eastern Poland.
+
+At the same time, both sides are finding ways around jamming. A Chinese company called Jiangxi Guangbo is selling Russia fiber-optic reels of seventy, eighty and a hundred kilometers, for about forty-five hundred dollars for the longest one. Fiber-guided drones send no radio signal, so you can't jam them or find them by listening for their radio. And on the Ukrainian side, a company called Militech Group has a high-power cellular modem, called Grim, that lets drones and ground robots be flown over ordinary cell networks out to about forty-five kilometers when Starlink is restricted.
+
+Why it matters: defenses that depend on radio, whether jamming or radio-frequency detection, cover a little less every month. The opening is in sensors that don't depend on radio at all, like acoustic, radar and optical sensors, and in ways to spot fiber lines. And anything you'd sell on NATO's eastern flank has to work without GPS.
+
+Counter-drone.
+
+Now the money story from the Pentagon. The office running Project Agincourt, led by Owen West, says it delivered more than twenty-five thousand unmanned and counter-drone systems to Central Command this year. More than twenty-four thousand of them were counter-drone systems, run through Joint Interagency Task Force 401, plus about thirteen hundred one-way attack drones and over a hundred sea drones. The total cost was about seven hundred eighty-two million dollars. No unit prices or combat results were given.
+
+Here's some context. The Congressional Budget Office looked at defending one typical five-by-five-mile base. Its options run from about a million dollars for sixteen handheld jammers up to seventy-four million, plus five million a year to run it, for a full layered defense with radars, radio sensors, interceptors and a command system. If you divide the Pentagon's total by twenty-five thousand systems, you get roughly thirty thousand dollars each. That's my arithmetic, not theirs. It suggests most of what went out is small handheld or radio kits, not full base defenses. That leaves a big gap between what's fielded and what a fully protected base needs. The people who can tie lots of cheap kits into one networked defense will be in demand, especially since the Pentagon says further money follows combat performance.
+
+Protected movement.
+
+A short one on vehicles. The Israeli company ParaZero got its fourth order from an unnamed major European defense company for net-firing drone interceptor pods mounted on an armored vehicle. In a demo they caught several drones in a row, without explosives. It's a sign that vehicle makers are starting to build drone protection into the vehicle itself, the way active protection systems were added against anti-tank missiles. Cheap, safe-to-use drone defense that fits on a vehicle is still an open slot.
+
+Hardening.
+
+This one is unusual. Since late August, freezers at about six commissaries on US bases have been malfunctioning. At one base in Arizona, likely Fort Huachuca, the freezers switched to defrost mode by themselves and a lot of food spoiled. The Pentagon opened a cyberattack investigation last week, with Cyber Command helping, and investigators are comparing notes with French police after hackers got into refrigeration controllers at more than three hundred fifty French stores. Officials suspect Iran-linked hackers, but say that could change.
+
+Why it matters: hardening a base now includes the controllers that run food, fuel, water and power, not just roofs and nets. Last week we covered FORTRESS America's push for ninety-day stockpiles. A stockpile is only as safe as the controller keeping it cold.
+
+Casualty care.
+
+Europe is planning for casualties on a large scale. Germany has Siemens Mobility and Lufthansa Technik Defense building a medical train that carries more than a hundred fifty patients and up to ninety staff, with beds from basic stretchers to full intensive care. Its locomotive can switch to diesel if the overhead power lines are cut, and it can run across borders on high-speed lines. Meanwhile, Finland has about fifty thousand shelters for four point eight million people that must be ready within seventy-two hours, about forty-five thousand Finnish reservists train each year in drone operations and first aid, and Poland is putting first aid and survival skills into schools.
+
+The takeaway: Europe expects more wounded than aircraft can carry, so it's planning to move them by rail. That opens markets for intensive care that runs on a train, monitoring that works for a hundred and fifty patients at once, and first aid training at national scale.
+
+Money.
+
+On the election fallout, experts are now naming which priorities survive a Democratic Congress. Mark Cancian at the Center for Strategic and International Studies estimates the one point five trillion dollar request falls to about one point one trillion without the reconciliation bill, which Cancian calls still substantial. Cancian says drones have support from both parties, and some kind of drone organization is likely, though maybe not a full combatant command. Todd Harrison at the American Enterprise Institute calls the planned battleship a "dead idea," and expects the new autonomous warfare command to go ahead without much money. The direction is clear. Big new programs are at risk, while drones, counter-drone and munitions in existing budget lines look safe, which fits the cheap, bulk buying we just heard about.
+
+AI.
+
+Last, a good example of AI in logistics. At Transportation Command, which moves troops, cargo and medical patients for the whole military, an embedded data team built thirty-three apps in the first two weeks of the Iran war, and about half are still in use. They run on Palantir's Maven Smart System. One bot summarizes diplomatic cables about basing and overflight limits. Another reviews a full day of cargo and aircraft movements in about fifteen seconds, a job that used to take four or five people several hours. A third forecasts munitions demand so supplies are in place before anyone asks. Contested logistics is getting AI fast, through teams sitting next to operators on a platform the military already owns. For a small company, that probably means plugging into Maven rather than selling a separate tool.
+
+The one thing to think about.
+
+Here's the one thing worth thinking about today. Nearly every story this morning shows protection that depends on radio or networks getting bypassed: fiber drones you can't jam, drones flown over cell networks, phishing aimed at a soldier's phone, and freezers hacked on US bases. At the same time, the Pentagon is buying counter-drone gear by the tens of thousands, cheaply. Ask where the defenses that don't depend on radio signals will come from, and who will tie all those cheap kits into one defense that still works when the radio picture is jammed or faked. That's where the next round of money is likely to go.
