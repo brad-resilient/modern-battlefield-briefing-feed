@@ -1,0 +1,51 @@
+Good morning Brad, this is your Modern Battlefield brief for Friday, November sixth.
+
+Here's the top line. Shield AI is buying the counter-drone radar maker Echodyne for five point three billion dollars, the biggest counter-drone deal yet, and it says the sensor that finds the drone is now worth owning outright. At close range, the market is filling up with cheap mechanical kills, nets, guns and a smart rifle trigger, while Ukraine says it stopped about ninety-one percent of nearly eight thousand front-line attack drones in one week but only about seven percent of Russia's ballistic missiles in October. And the rear is being hit on purpose: medicine warehouses, satellite ground stations, and a shelter under a school.
+
+The big deal.
+
+Shield AI, the San Diego company behind the V-BAT drone and the Hivemind autonomy software, announced Thursday that it will buy Echodyne. It pays four point eight billion dollars at closing, plus up to five hundred million more if Echodyne hits performance targets. To pay for it, Shield is raising two and a half billion dollars: a one billion dollar funding round, another billion in structured equity from Blackstone funds, and five hundred million in debt led by JPMorgan. That puts Shield's value at twenty-eight point eight billion dollars, by the company's own figure.
+
+Echodyne makes small, solid-state radars, the kind that sit on a pole or a vehicle and tell a laser, a gun, a jammer or an interceptor where to point. In September the Pentagon's counter-drone task force, Joint Interagency Task Force four-oh-one, gave it a contract worth up to two hundred fifty million dollars. It sells in more than forty countries, and its plant near Seattle is built to make about thirty thousand radars a year. The deal should close early next year. Neither company gave revenue figures, though both say they expect revenue to more than double this year.
+
+Why this matters: an autonomy company worth nearly thirty billion dollars decided it had to own the detection layer rather than partner for it. That's the clearest sign yet that the counter-drone market is consolidating around the sensor and the decision, not the shooter. We heard last week that counter-drone hardware is getting crowded. If you're thinking about where to play, fusing sensors and cueing many vendors' weapons is where value is collecting, and standalone sensor startups now look like acquisition targets.
+
+The threat at the front.
+
+A Substack writer covering Ukraine's drone war, Óskar Hallgrímsson, pulled together the General Staff's numbers for the week of October twenty-ninth to November fourth. Russia launched seven thousand nine hundred forty-seven Molniya and Lancet drones at front-line positions and towns. That's more than eleven hundred a day, with a peak of sixteen hundred Molniyas on October thirtieth alone. The Molniya is a cheap fixed-wing kamikaze drone made from commercial parts; the Lancet is a more expensive loitering munition that goes radio-silent in its final dive. Ukraine says it destroyed or suppressed seven thousand two hundred twenty-five of them, about ninety-one percent. Keep in mind that "suppressed" includes drones that were only jammed, and these are official Ukrainian claims. Jamming still does most of the work against Molniyas, but Russian operators are frequency hopping, which erodes it. Even at ninety-one percent, about a hundred a day get through.
+
+Meanwhile, on the armor side, David Axe reports that Russian assault vehicles now carry so much cage armor, plates and spikes that some survive dozens of hits from five-hundred-dollar first-person-view drones. So one Ukrainian battalion near Huliaipole has started hitting single vehicles with Fire Point's fixed-wing deep-strike drones, which cost about fifty thousand dollars and carry up to a hundred fifty-eight kilograms of explosive. Axe calls it a possible adaptation, not a trend yet. And the US Army showed a kit called MALET that clips onto standard sixty and eighty-one millimeter mortar rounds so drones can drop them. The takeaway: cheap cage armor works well enough that attackers are moving up to bigger warheads, and the US Army itself is embracing drone-dropped bombs, so its own troops should expect them.
+
+Iran.
+
+A quick update. Iran says more tankers hit mines south of the Strait of Hormuz on Wednesday and Thursday, and a tanker north of Qatar was hit by two unidentified projectiles. Iranian state media claims the Revolutionary Guard's electronic warfare unit took control of two American LUCAS drones, the US copy of the Shahed. That's unverified. No new US strikes were reported. And Defense One reports half of the destroyers based in Japan are now in the Middle East, with some crews told they won't be home until twenty twenty-seven. If the drone claim holds up even partly, it's a reminder that cheap American attack drones face the same jamming and takeover risk Ukraine and Russia fight every day.
+
+The last sixty meters.
+
+Three close-in drone defenses surfaced in a day. Ukraine's Phantom Defense says its Mangal system is being readied for mass production. Each module watches about a quarter circle with day and thermal cameras, decides on its own, and fires a six-by-six-meter net in as little as two tenths of a second. It spots a drone at about forty meters against trees and sixty against the sky, and each shot costs about fifty dollars. Ten units are in combat testing and the maker says they've stopped two attacks so far. Israel Weapon Industries is selling a computerized trigger called Arbel that fits any AR-15 and sets the ideal rate of fire for hitting a small drone at one hundred fifty to two hundred meters; Thailand is fielding it. And a Slovenian company finished live-fire tests of a Gatling gun turret on a Joint Light Tactical Vehicle.
+
+These are aimed at fiber-optic drones that jamming can't stop. Notice Mangal's own numbers: forty to sixty meters, and two tenths of a second. The weapon is the easy part. Seeing the drone and deciding in that window is the hard part, and that ties straight back to Echodyne.
+
+Ballistic missiles.
+
+Yesterday we flagged Ukraine's ballistic-missile gap. Now there's a number. Ukraine shot down eleven of roughly a hundred fifty Russian ballistic missiles in October, about seven percent. Analysts at Missile Matters expect one hundred thirty to one hundred ninety ballistic projectiles a month through winter. Ukraine has about eight Patriot batteries and often no missiles for them, and the five hundred Patriot interceptors approved last week may take years to arrive. Where you can't shoot it down, you have to harden, disperse and dig in.
+
+Moving through the kill zone.
+
+Defense One reports the Pentagon has committed more than a hundred fifteen million dollars to ground robots this year. Most of it, about ninety-two million, is for the Marines' robotic missile launchers. Nearly twenty-five million buys a dozen-plus Overland AI robots for Marine and Ranger logistics, and Overland got another thirty-four million for robots that clear paths through minefields. Compare that with Ukraine, which ordered more than twenty-two thousand ground robots in the first seven months of this year. A Ukrainian company called NUMO also showed a robot that carries half a ton, evacuates wounded, and has a tow hitch to drag broken robots back for repair. That's a quiet problem worth noticing: as robots multiply, recovering and fixing them under drones becomes its own job, and almost nobody sells for it.
+
+Hardening.
+
+The Air Force opened a small business research topic, closing in January, for mobile concrete 3D printers that lightly trained airmen can run in rough conditions, printing shelters shaped to deflect blast and fragments rather than flat walls. Officials say today's tents, trailers and flat buildings were never designed for what's now coming overhead. A Pentagon inspector general report counted hundreds of damaged buildings at bases in eight countries. This is a real door for small firms.
+
+The hard lesson came from Komyshuvakha in southern Ukraine. Russian guided bombs hit a school where people had gathered for aid, then nine more bombs, including a three-ton bomb, fell on the underground shelter where they took cover. Forty-three are confirmed dead, including rescuers and police. A basement isn't a shelter against a bomb that size, and repeat strikes go after the people who take cover or come to help.
+
+And in Germany, police arrested a man suspected of organizing September's arson attack on a Starlink ground station in Poland, the first arrest of an alleged organizer in a string of attacks on ground stations from Bulgaria to Lithuania. Polish officials blame Russian intelligence, which isn't proven. Ukraine's drone units depend on sites in NATO countries guarded like ordinary commercial property.
+
+Casualty care.
+
+Ukraine's Health Ministry says Russia is hitting its medicine supply chain on purpose: at least seven strikes on pharmaceutical warehouses and logistics centers in September, plus three drug plants, one of them destroyed, with some drugs that no other Ukrainian company makes. Pharmacies have about a month of stock, and shortages so far are regional. The article doesn't cover military supply, but it runs through many of the same distributors. On the research side, a new review of forty-two studies in Military Medicine found that mass-casualty training does improve knowledge, skills and triage accuracy, but only four studies checked whether those skills last. Given Europe's push for national first-aid training, measuring and refreshing those skills is an open gap.
+
+The one thing to think about.
+
+Here's the one thing worth thinking about today. A company worth nearly thirty billion dollars just paid more than five billion to own the radar that finds drones, while the weapons that kill them keep getting cheaper: fifty-dollar nets, a rifle trigger, a mortar round on a clip. And where interception fails entirely, against ballistic missiles and heavy bombs, the only answer is building and siting things so they survive. Ask which side of that split you want to be on: the sensing and decision layer that ties the cheap weapons together, or the passive protection for everything that can't be shot down. Both are getting paid for now.
