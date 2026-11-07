@@ -1,0 +1,59 @@
+Good morning Brad, this is your Modern Battlefield brief for Saturday, November seventh.
+
+Here's the top line. Ukrainian intelligence says Russia is now steering strike drones over Ukraine with its own satellite network, while Ukraine's link to its drones rests on a SpaceX contract that runs out in mid twenty twenty-seven, and Elon Musk just reposted a post calling free Starlink for Ukraine a mistake. Detection still has cheap blind spots: a one-pound drone that flaps its wings like a crow registered as a bird on other companies' sensors at an Air Force exercise. And the volume work is going to guns and robots, with one Ukrainian F-16 pilot downing nine drones on a single flight with only his cannon, and Ukraine's ground robots running a record thirty-one thousand missions in October.
+
+The satellite link.
+
+Ukraine's military intelligence agency, known as H-U-R, told Reuters that Russia is already using its Rassvet satellite constellation for military communications over Ukraine. Rassvet is Russia's answer to Starlink. Russia launched thirty-two satellites this year and plans more than nine hundred by twenty thirty-five. Coverage is patchy for now, available only when satellites pass overhead, but a Kyiv security analyst says Russia already gets at least two windows a day of more than an hour each. Intelligence officials say that lets operators re-task attack drones in flight and makes them harder to jam. Reuters didn't verify this independently, and Moscow didn't comment, so treat it as a Ukrainian claim.
+
+Now the other side of the ledger. Ukraine's top diplomat in Washington, Denys Sienik, said the Starshield contract, the military version of Starlink, expires in mid twenty twenty-seven, that talks with the Pentagon are only now starting, and that Kyiv still has no explanation for October's sudden speed cap. Then this week Musk reposted, without comment, a post saying it was a mistake for SpaceX to send Ukraine thousands of free dishes, because they became, quote, the backbone for autonomous killing drones. That's social media, not policy, but it comes from the man who controls the service.
+
+Why this matters: for two years jamming has been the cheapest drone defense there is. A satellite link to the drone weakens it, and Russia is building one it controls, on top of the compasses and camera navigation it added to its long-range drones last week. Meanwhile the friendly side's link is a single contract with an owner who says in public he regrets it. That opens two markets: detecting and disrupting satellite-linked drones, and drone control that keeps working without Starlink.
+
+The threat picture.
+
+Overnight, Russia hit Kyiv with ballistic missiles in at least four waves, plus a hundred and seventy-two Shahed-type drones. A hundred and thirty-seven of them were jets, about four out of five. That's up from about a quarter in the big raid earlier this week. The Air Force says it stopped a hundred and seventeen of the jets, about eighty-five percent, close to the eighty-nine percent it managed against propeller Shaheds in October. It also stopped four ballistic missiles, but didn't say how many were fired. Kyiv's Northern Bridge, a main crossing of the Dnipro River, is closed both ways with its road, trolleybus line and power line damaged. Hours before, President Zelensky had warned that intelligence showed Russia preparing to hit bridges and energy sites. So the warning was specific and came in time, and the bridge was hit anyway. Bridges and crossings are now a planned target set, which makes them a protected movement problem: point defense at the crossings, decoys, fast repair, and alternate routes.
+
+A grim update on Komyshuvakha, the underground aid shelter hit by a three-ton glide bomb on Monday. The toll is now fifty-three dead, with fifty-three still missing. Rescuers can only dig fifteen to twenty minutes at a time because of drones and repeat strikes.
+
+In the Gulf, President Trump confirmed what he called a minor strike Friday on a newly built Iranian air defense site on Qeshm Island, the first since the midterms, while Qatar pushes a two-day deal to lift the port blockade and reopen the Strait of Hormuz. The carrier Theodore Roosevelt reached Singapore, its last stop before the Middle East.
+
+Detection.
+
+Here's a story worth sitting with. At the Air Force's Game of Drones exercise at Edwards Air Force Base in September, reported this week by Task and Purpose, a Y Combinator startup called Ornadyne flew its O1. It's an ornithopter, a drone that flaps its wings instead of using propellers. It weighs one pound, flies more than an hour, and can be painted and shaped to look like a local bird. That day it was a crow. The founders say the detection systems other companies brought couldn't identify it, and it registered as a bird. Those systems weren't named, and this is the company's own account.
+
+Pair that with a new research preprint, not yet peer reviewed, on detecting drones by sound. Its drone clips all come from just seven recordings, and when test clips were kept apart from the recordings used in training, accuracy fell two to three points. Lab numbers on small datasets flatter field performance.
+
+The takeaway: most counter-drone systems decide what a target is from how it moves and sounds, and filtering out birds is the oldest false-alarm trick there is. A cheap airframe built to pass that filter turns the feature into a weakness. As money pours into sensors, like Thursday's five point three billion dollar Echodyne deal, honest, adversarial testing is a real and underbuilt service.
+
+Counter-drone.
+
+Guns are doing the volume work. A Ukrainian F-16 pilot downed nine Russian drones in a single sortie using only the jet's twenty millimeter cannon, beating his own record of eight from a few days earlier. Ukraine's F-16s have now downed about forty-seven hundred drones in the war, about eleven hundred of them in October, mostly with the gun. The catch: Ukraine doesn't make that ammunition. Denmark has sent more than fifty thousand rounds, and Spain, Belgium and Poland are sending more.
+
+Russia is doing the same thing. The state arms company Rostec unveiled a truck-mounted version of its thirty millimeter Citadel gun. It fires programmable airburst rounds out to about a kilometer. Rostec also says its smaller Kalitka machine-gun turret now takes target data from outside radars and works seventy to a hundred percent of the time. Those are vendor and state-media claims, and a Russian business paper reported that a demonstration on November second largely failed in fog.
+
+The pattern on both sides: cheap rounds aimed by good cueing. The money is in the cueing and fire control, and in ammunition production, not the gun itself.
+
+Movement.
+
+Ukraine's Defense Ministry says ground robots ran a record thirty-one thousand, three hundred and ninety-eight missions in October. They've gone up every month this year, from about seventy-five hundred in January. Most are supply runs, but evacuations are included, with no breakdown. The robots exist because trucks can't survive the drone kill zone anymore.
+
+Assault by robot alone is another matter. Around October thirtieth, Ukraine's Third Assault Brigade reportedly sent at least twenty-eight robots across the gray zone near Druzheliubivka in Kharkiv region. Eight were suicide robots and twenty were armed with grenade launchers, which would make it the largest robot assault confirmed so far. Russian channels posted drone videos and say they beat it back. Those details come from posts on X and aren't verified. And the Ukrainian maker DevDroid says its controller, already on more than a thousand robots, now drives a robot back to its starting point if it loses Starlink. That's another sign the link is the weak point.
+
+Casualty care.
+
+That robot record has a medical shadow. Back in August, a story new to our archive, the medical chief of a Ukrainian National Guard corps said units were eighty percent short of armored ambulances for the second leg of evacuation. Medics said a robot can drag a casualty out, but it can't carry the ventilator, monitor and defibrillator that let care start on the move. The fix they proposed is a handoff: the robot does the first leg, then an armored ambulance takes over. That August number is context, not a current count, but it shows the chain is being funded only halfway.
+
+Hardening.
+
+US European Command launched a campaign it calls See Something, Do Something. It asks troops and families to report suspicious activity, turn off location tagging on fitness apps and devices, and vary their commute. The backdrop includes an explosive-drone attempt at Leipzig airport and a drone with an explosives canister found near a German air base in October. That base defense now means asking people to watch their own phones and routines suggests there aren't many tools yet. Signature audits for bases and their people are a service with a clear buyer.
+
+In the Pacific, the Air Force started an environmental review to train at four airfields on Saipan, Tinian and Rota, including Tinian's World War Two North Field. The concept is called Agile Combat Employment: spread aircraft across many fields so one strike can't stop the flying. It's hardening by dispersal, but slowly, with a final review in mid twenty twenty-eight and no new money announced.
+
+Money.
+
+Canada's draft budget sets aside about one point eight billion Canadian dollars over five years for drones and counter-drone, including low-cost interceptors, bought through a marketplace of about four hundred suppliers modeled on Ukraine's Brave One. About a third of Canadian-made drones will go to Ukraine. Zipline, the drone delivery company that started by flying blood in Rwanda, raised one and a half billion dollars at a twenty-one and a half billion dollar valuation to build out US manufacturing. And a Ukrainian analysis of inspector general reports found the US delivered nothing under its Ukraine Security Assistance Initiative last quarter. The model to watch is allies copying Ukraine's marketplace and buying directly.
+
+The one thing to think about.
+
+Here's the one thing worth thinking about today. Almost every story this morning comes down to a link. Russia is building satellites it controls to keep its drones connected. Ukraine's drones and robots ride on a contract with an owner who's having second thoughts. The robots go home when the link drops. And the sensors that are supposed to find drones can be fooled by one dressed as a crow. Ask yourself where you'd rather build: in the link itself, so it survives jamming, politics and outages, or in breaking the other side's link. Both are open, and neither has many serious players yet.
