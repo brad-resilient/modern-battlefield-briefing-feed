@@ -1,0 +1,51 @@
+Good morning Brad, this is your Modern Battlefield brief for Sunday, November eighth.
+
+Here's the top line. A federal safety report links the military's own GPS jamming tests to a crash that killed four people on an air ambulance in New Mexico, which is a sharp reminder that jamming doesn't pick its targets. Jets are now most of every Russian raid, but ballistic missiles are what get through, and the factories can't make interceptors fast enough to change that soon. And movement keeps going underground, unmanned, or into the air: Russia is tunneling along the Kherson riverbank, Ukraine has a ground robot that carries three wounded at once, and Kyiv is restarting medical evacuation flights by year's end.
+
+Jamming at home.
+
+Start with the story that hits closest to home. The military is expanding jamming and spoofing tests inside the United States, including testbeds that pair lasers and high-power microwaves with electronic attack on drones. On Friday, Lisa Dyer, who runs the GPS Innovation Alliance, told a defense transportation conference that some of those tests went ahead without the usual notices to pilots. In other cases the notices went out and pilots still had to ask air traffic control to get the jamming turned off.
+
+Then the hard case. Just after midnight on May fourteenth, a medical evacuation plane flew into a ridge almost ten thousand feet high in New Mexico's Capitan Mountains. All four people aboard died. The National Transportation Safety Board's preliminary report says the flight suddenly lost GPS, and it ties that to active electronic warfare testing at White Sands Missile Range. There's no final probable cause yet, and the Army says it's still under investigation. The alliance wants testing moved to a bigger range. Separately, the Federal Communications Commission is weighing a rule that would allow jamming around prisons to stop contraband drones, and there are more than six thousand prisons in the country.
+
+Why this matters: jamming is still the first layer of most base and homeland drone defense, and it blinds everything nearby, including ambulances, emergency services and our own drones. So two things are worth money. Drone defeat that doesn't spill over, meaning directional jamming or physical kills, and navigation for friendly aircraft that keeps working when GPS is jammed.
+
+The threat picture.
+
+Overnight into this morning, Russia launched a hundred and sixty-four attack drones at Ukraine, and a hundred and twelve were jets, about two out of three. Ukraine stopped a hundred and thirty-seven drones, and twenty-three sites were hit. Zelensky also filled in Friday night's raid on Kyiv, which we covered yesterday. He says it included thirty-six ballistic missiles, all aimed at Kyiv and the region around it, and only four were intercepted. A substation linking two nuclear power plants to the capital was hit, and Kyiv now has problems with power, water and heat.
+
+Put those numbers together. Jets have settled at roughly seventy to eighty percent of the raid, and defenders are stopping most of them. Ballistic missiles are a different story: about one in nine stopped that night, close to October's seven percent. One NASAMS battery guarding Kyiv, that's the Norwegian and American medium-range system, has now shot down more than three hundred missiles and drones, and its commander says it handles everything except ballistic missiles. A Ukrainian aviation expert points out that American factories can make at most about seven hundred and fifty Patriot interceptors this year, while Russia fires something like a hundred to a hundred and twenty ballistic missiles a month. And the five hundred Patriots Ukraine just bought don't arrive until after twenty thirty. That gap is set by factory output, and money won't close it. What's left is passive protection: hardened and buried substations, spare transformers stocked ahead of time, shelters, dispersal and decoys.
+
+One more new threat. Russian video shows a Mi-twenty-eight attack helicopter firing a small cruise missile called the Banderol, with a reported range of up to about three hundred miles. That's unverified, but it means a cheap middle tier of weapon, between drones and big cruise missiles, can now launch from helicopters sitting well back inside Russia. Banderols hit Kharkiv on Friday, setting about ten cars and a factory building on fire.
+
+Detection.
+
+In Denmark, the state company that runs the Great Belt Bridge, which crosses the strait between the Baltic and the North Sea, is putting up drone-detection radar on and around it, due to be working by year's end. That's the bridge owner buying its own detection, following airports and ports. At the same time, Europe has logged about twenty bomb threats against airliners since November second, with fighters escorting flights and planes diverted to military bases. No bomb has been found and no one has been named. It isn't a drone story, but it works the same way as drones near airports: almost free to do, and it ties up fighters and closes airfields. A product that combines detection with a fast way to tell whether an alert is real has buyers among bridge, port and airport operators.
+
+Counter-drone.
+
+The War Zone asked Ukrainian soldiers what actually works, and it's a useful reality check. Several said plain rifle ammunition works well against drones. One unit dropped fragmentation rounds because they only reach forty to sixty meters, while standard rounds reach a hundred to a hundred and fifty. Shotguns mostly go to armored vehicle crews. What soldiers want most is light weight and reliability. The takeaway is that aiming is the weak point more than ammunition: optics, trigger aids and cueing that points the shooter at the drone.
+
+On the research side, a Center for Strategic and International Studies commentary counts about four hundred and eighty weaponized drone attacks in Latin America from January twenty twenty-five to August of this year, mostly in Mexico and Colombia. They include fiber-optic drones that jamming can't touch, and fighters recruited because they flew drones in Ukraine. Colombia is spending one point six eight billion dollars on a drone shield. The author proposes a counter-drone lend-lease: the United States lends kits and training for free, collects the combat data, and the partner can then buy at a discount. For a small company short on combat data, which the Pentagon now ties its money to, that's a way to earn it.
+
+Movement.
+
+Ukraine's National Guard has a new heavy ground robot, diesel and all-wheel drive, that carries up to one and a half tons, about three times what this autumn's heavy robots carried, and can pull out three wounded soldiers at once with nobody aboard. The report is labeled sponsored content, and no maker or price was given. On the road to Kramatorsk, a brigade fitted a dozer blade to a drone-proofed armored vehicle. It comes out from under anti-drone netting to push burned-out vehicles off the highway. Drones can't move a wreck that weighs several tons, so crews still have to clear the road faster than drones add new wrecks. Protected or remotely driven route clearance and recovery is a gap neither the robot makers nor the armored ambulance programs cover.
+
+Hardening.
+
+A Ukrainian marine officer says Russian troops on the occupied bank of the Dnipro in Kherson now move through tunnels up to a hundred and fifty meters long, across twenty to thirty percent of that bank, because Ukraine controls the sky there. That's one commander's claim. But it mirrors Ukraine's own six-kilometer supply tunnel from earlier this week. Whichever side loses the sky goes underground, and that opens a market both for fast tunneling kits and for finding tunnels from the air. Finland, meanwhile, is weighing Ukrainian-style anti-tank barriers along its thirteen-hundred-kilometer Russian border. Its army chief's open question is how quickly the ditches would fill with water, a reminder that fortification is engineering and upkeep, not only concrete.
+
+Casualty care.
+
+Ukraine says medical evacuation flights, grounded since the invasion closed its airspace, will restart by the end of this year. Emergency service planes and helicopters will carry wounded patients between hospitals and abroad. Kharkiv to Rzeszów in Poland would go from fifteen or sixteen hours by road to two or three by air. Ukraine also adopted one national standard for identifying the dead, including DNA sampling and a single coding system. More than twenty-six thousand bodies and remains have come back from Russia, and many are still unidentified. Both are reminders that the long leg of evacuation, and planning for mass casualties, are problems most NATO militaries haven't priced yet.
+
+Iran and money.
+
+In the Gulf, Qatar's forty-eight-hour plan for reopening the Strait of Hormuz is still unanswered. Iran's army spokesman warned that Iran won't allow enemy bases in the region to be rebuilt, which means any reconstruction of the bases hit in February needs protection from the first day of construction. Spain pledged four hundred and thirty-seven million euros to Ukraine with no published list of what it buys. And Germany is spending about fifty million euros on artificial intelligence software that scans the open internet, explicitly to keep its troops safe.
+
+The one thing to think about.
+
+Here's the one thing worth thinking about today. All week the attacker has been moving off the radio link we know how to jam, onto satellites, bigger antennas and fiber. Now we learn that the jamming we use at home may have helped bring down an air ambulance. Jamming is getting less effective against the enemy and more costly to us. So ask: what does drone defense look like when jamming isn't the first layer? Whoever answers that, with sensing and kills that don't blind your own side, owns the next round of base defense.
+
+That's your brief. The weekly synthesis for November second through eighth is in today's archive.
