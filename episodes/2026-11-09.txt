@@ -1,0 +1,55 @@
+Good morning Brad, this is your Modern Battlefield brief for Monday, November ninth.
+
+Here's the top line. NATO has opened a counter-drone catalog that allies can buy from without running their own tenders, which makes it the clearest door into European counter-drone money so far. The ballistic missile gap has become a supply problem in Europe too: Germany says it has no more Patriot missiles it can give Ukraine, and Romania is reviving a cheaper interceptor. And the people who own airports, ports and power plants are starting to arm themselves against drones, from Czechia to Siberia.
+
+NATO's counter-drone catalog.
+
+Start with the buying door. Last Thursday, NATO's Communications and Information Agency opened what it calls a counter-drone marketplace, under an initiative named Drone Edge. It has sixteen systems from five companies: the French firm Alta Ares, Axon, Northrop Grumman, OSL in the United Kingdom, and Germany's Quantum Systems. All are already in use by allies or in Ukraine. The mix covers fixed sites, systems you can truck in and set up, and systems that work on the move. Allies can now buy straight off the list, without any further tender, on framework contracts that run eighteen months. NATO set aside about three million euros so nations can test the systems further. Behind it sits a much bigger number: allies have pledged more than forty billion dollars for counter-drone over the next five years. Alta Ares says it won six of the sixteen lots, including everything in area defense. NATO promises regular new rounds but hasn't said when.
+
+Why this matters: getting onto the list is now the hard part, more than winning a single contract. The list favors firms that already have combat use and test data. For a newcomer, the realistic target is the next round, which means getting fielded somewhere first, and Ukraine counts. And because the lots are split by function, a niche product such as a sensor, an effector or a command-and-control layer can win one lot on its own.
+
+The American version is moving in the same direction. Last Wednesday, Joint Interagency Task Force four-oh-one, the Pentagon's counter-small-drone office, awarded CHAOS Industries more than six point nine million dollars for long-range drone radars at bases across Central Command, the bases that were hit in the Iran war. And the University of North Dakota signed an agreement to become the task force's first university clearinghouse, helping judge which technologies go onto its own marketplace. No money is attached yet. Remember the crow-shaped drone that fooled sensors at an Air Force exercise last week. Independent testing is the gap, and a university now holds that seat. Test data and red-team work will still need to come from outside it.
+
+Out of interceptors.
+
+Now the harder news. Zelensky's weekly count: a hundred and fifteen missiles, nearly nineteen hundred guided bombs, and more than three thousand attack drones fired at Ukraine in seven days. He says that if the world doesn't have enough anti-ballistic missiles, the missiles have to be stopped on the production lines.
+
+Then Germany's defense minister, Boris Pistorius, told a Berlin paper that Germany has no more Patriot missiles it can give. Anything handed over now, he said, cannot be replaced in the near future, and would leave gaps in Germany's own defense that it can't afford. That matches what we saw last week: American Patriot missile output tops out at about seven hundred and fifty a year, against roughly a hundred or more Russian ballistic launches a month.
+
+Romania is trying to make a cheaper second option. Its defense ministry has reopened talks with the Israeli firm Rafael to build SkyCeptor, a Patriot-compatible version of the Stunner missile from Israel's David's Sling, at a plant in Ploiești, for Romania and for export. Two earlier deals with Raytheon went nowhere. The reported cost is about a million dollars a missile, against four to five million for a Patriot round. Those are reported figures, and the factory is years away.
+
+Why this matters: the interceptor gap won't close soon. What covers it in the meantime is hitting launchers at the source, which Ukraine did to two Iskander launchers in Bryansk late last week, plus passive protection: hardening, dispersal, buried power and spare transformers.
+
+Site owners arm up.
+
+Here's a pattern that has been building for two weeks. Today, the Czech government reviews a proposal that would let trained staff at critical sites shoot down drones over their own facilities. That means international airports, energy hubs and nuclear plants, inside protected zones the operators apply for. Right now only police and soldiers can.
+
+In Russia, a Siberian news outlet found companies tendering for machine-gun turrets. Surgut Airport wants a twin machine-gun turret with a thermal sight and a remote monitor, for about eleven thousand dollars. The Baltic port of Ust-Luga, which Ukrainian drones keep hitting, is buying three for about a hundred and eight thousand. A hydroelectric company in Kolyma bought one for its patrol teams, and a Rosatom chemical plant has announced a tender. On the high end, the European missile maker MBDA and Denmark's Terma are building an air defense system in a shipping container, with Mistral missiles, that needs only a power hookup. It's aimed at ports, naval bases and offshore platforms.
+
+Add Nova Post's private air defense unit, about a hundred Ukrainian companies doing the same, and the radar going onto Denmark's Great Belt Bridge, and the picture is clear. The site owner is becoming a counter-drone customer. These buyers lack what the military gets for free: legal authority, trained operators and insurance. A package that bundles training, the zone paperwork and a simple fixed turret or net launcher is a service business as much as a hardware one. Blackouts are part of the same problem. The Danish city of Aarhus is testing a citizen-built mesh radio network for long power outages, though Denmark's emergency agency says it isn't secure enough for government use yet. And near Kyiv on Sunday, three people, including a child, died running a generator in their basement.
+
+Threat picture.
+
+On the front, Ukraine is going after the drone operators, not just the drones. The General Staff says it hit four Russian drone command posts over the weekend, including one belonging to Rubicon, Russia's elite drone center, in occupied Berdiansk. And one Ukrainian special forces unit claims that in October alone it destroyed about forty-nine hundred Russian aerial and ground drones, more than twenty-three hundred antennas and relay nodes, and five hundred and eight drone crews. Those are Ukrainian claims. The lesson cuts both ways: a drone team's position and its antenna mast are now prime targets. That raises the value of offset antennas, decoy emitters and gear that lets a drone team move fast.
+
+Decoys for machines.
+
+Speaking of decoys, an open-source Telegram channel called Exilenova Plus posted footage of Russian roadside positions staffed by mannequins in military kit, made to look like the anti-drone fire teams Russia posts along its supply roads. The channel's analysts think they're bait for drones that pick their own targets. That's their inference, not confirmed. But if autonomous targeting spreads, cheap decoys that fool thermal cameras and machine vision, not only the human eye, become a real counter-drone tool. They spend the enemy's munitions and reveal its drones.
+
+Protected movement.
+
+Ukraine's Defense Ministry says it has now covered more than sixteen hundred and forty kilometers of supply roads with anti-drone netting this year, including about eighty-seven kilometers in October and a six-and-a-half kilometer corridor on the Kharkiv highway under seven-meter nets. Back in April the goal was four thousand kilometers by year's end. At October's pace, that won't happen. Netting is the cheapest protection for movement, and installation speed is the bottleneck, so prefabricated net-tunnel kits and faster pole-raising equipment are a real opening. Meanwhile, the Seventh Air Assault Corps says its units have run more than eight thousand ground robot missions this year, over six hundred of them evacuations. And in Kyiv, with both main bridges repeatedly hit, Zelensky has ordered free surface transport for when the metro and bridges close.
+
+Casualty care.
+
+A research item new to the archive. A poster from the research group CNA on Russian military medicine reports that under drone warfare, Russian casualties take an average of fourteen and a half hours to reach their first surgical team. Sources it cites put the ratio of killed to wounded as bad as one to one point three, blamed on evacuation delays. Kill zones have limited Russia's evacuation robots, and long tourniquet times caused a lot of irreversible limb damage. Forward surgical teams moved from quick stabilizing surgery to definitive surgery, averaging two operations per patient. These are preliminary findings drawn from open Russian sources. Put it next to the Ukrainian data, where more than sixty percent of tourniquet patients arrive after three hours, and the message is the same on both sides. This is prolonged field care, not the golden hour. The needs are bleeding control that's safe for many hours, converting tourniquets early, and surgical capability pushed forward. Robots are scaling the transport, but care during the ride is still missing.
+
+Money.
+
+Two money notes. Axon, the police body-camera company that also owns the counter-drone firm Dedrone, is putting another one point two billion dollars into Skydio, at a five point two billion dollar valuation before the new money. Its stake goes from about fifteen percent to thirty-seven, and it becomes Skydio's only public-safety distributor in the U.S. and Canada. Axon is also one of the five NATO catalog vendors. Watch it as a channel or an acquirer for drone detection sold to police, installations and site owners.
+
+In Washington, Congress is back today for the lame-duck session. The Financial Times, citing one unnamed aide, says Democrats are drafting about fifteen billion dollars for Ukraine, focused on energy before winter, though it would face a veto. Analysts expect next year's defense budget near one point one trillion. Munitions and interceptors are the safe money. New program starts are the most at risk if a long stopgap funding bill takes over after December eleventh.
+
+The one thing to think about.
+
+Across NATO, the Pentagon and Ukraine, the hard part has shifted from building a counter-drone system to getting onto a vetted list. And the newest buyers, the site owners, lack the authority, the training and the test data to know what to buy. Whoever supplies that trust layer, meaning independent testing, operator certification and the paperwork that lets a site defend itself, sits between thousands of vendors and thousands of new customers. Ask yourself whether that's a business you could start without building a single drone.
