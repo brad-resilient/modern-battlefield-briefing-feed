@@ -17,7 +17,7 @@ concurrency:
 
 jobs:
   publish:
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deploy.outputs.page_url }}
@@ -31,6 +31,8 @@ jobs:
           echo "missing=$n" >> "$GITHUB_OUTPUT"
       - name: Install audio tools
         timeout-minutes: 10
+        # Only the speech engine is essential; the feed can be built without ffprobe.
+        continue-on-error: ${{ steps.need.outputs.missing == '0' }}
         run: |
           sudo apt-get update -qq
           pkgs="ffmpeg"
