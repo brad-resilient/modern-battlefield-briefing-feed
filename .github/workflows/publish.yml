@@ -23,11 +23,21 @@ jobs:
       url: ${{ steps.deploy.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+      - name: Check for episodes needing audio
+        id: need
+        run: |
+          n=0
+          for t in episodes/*.txt; do [ -f "${t%.txt}.mp3" ] || n=$((n+1)); done
+          echo "missing=$n" >> "$GITHUB_OUTPUT"
       - name: Install audio tools
+        timeout-minutes: 10
         run: |
           sudo apt-get update -qq
-          sudo apt-get install -y -qq ffmpeg festival festvox-us-slt-hts >/dev/null
+          pkgs="ffmpeg"
+          [ "${{ steps.need.outputs.missing }}" = "0" ] || pkgs="$pkgs festival festvox-us-slt-hts"
+          sudo apt-get install -y -qq --no-install-recommends $pkgs >/dev/null
       - name: Make missing episode audio
+        if: steps.need.outputs.missing != '0'
         env:
           GOOGLE_TTS_API_KEY: ${{ secrets.GOOGLE_TTS_API_KEY }}
           GOOGLE_TTS_VOICE: ${{ vars.GOOGLE_TTS_VOICE }}
