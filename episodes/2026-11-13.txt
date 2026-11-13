@@ -1,0 +1,61 @@
+Good morning Brad, this is your Modern Battlefield brief for Friday, November thirteenth.
+
+Ukraine's satellite link for its fastest interceptor drones has been capped at a hundred miles an hour again, and Russian jet drones are getting through. In the US, the Pentagon's counter-drone task force is telling everyone, from generals to county sheriffs, to define their threat before they buy anything. That points straight at the first product for your drone defense service idea, and the money news today says the same thing: the companies winning are the ones that sell support along with the hardware.
+
+Starshield is capped again.
+
+Starshield is the military version of Starlink, and Ukraine uses it to fly its interceptor drones. President Zelensky said Thursday that for several days the service has been held to one hundred sixty-one kilometers an hour, about a hundred miles an hour, all along the front and over occupied territory. He called it systematic, not random errors. A corps commander in Donetsk confirmed the cap to the Kyiv Independent. The problem is simple. A jet-powered Shahed flies at four to six hundred kilometers an hour. An interceptor that loses its link above a hundred miles an hour can't catch it, and Zelensky says some Russian strikes have already gotten through because of it.
+
+This is the same cap we tracked from October fourteenth to the twenty-fourth. It was lifted, and now it's back, right in the middle of peace talks. SpaceX hasn't commented. Kyiv is asking Washington to explain.
+
+The numbers from the night of the eleventh into the twelfth fit the story, though nobody has proven the link. Russia sent a hundred twenty-three long-range drones, and seventy-two of them were jets. Ukraine downed fifty-one of those jets, about seventy-one percent. Earlier this month some nights ran seventy-seven to eighty-five percent. Kyiv also got only minutes of warning before ballistic missiles hit. And on the eleventh, a follow-up strike, what Ukrainians call a double tap, killed two rescuers in Yahotyn, outside Kyiv.
+
+The lesson for anyone building defenses is that the fastest interceptor depends on a link somebody else can switch off. That is why cheap onboard seekers, fiber, and Ukraine's own satellite plans keep gaining value.
+
+Europe still sends jets after drones.
+
+An independent open-source analyst, Graham Bunn, who writes a Substack called the Midgard OSINT Review, put out a useful weekly roundup. Treat it as one careful analyst's read, not official. He counts eighty-six to a hundred thirty-seven jet drones per wave across seven Ukrainian Air Force reports. He documents the Gerbera, which used to be a plywood decoy, now carrying a ten-kilogram warhead. And he notes that an object from Belarus set off shelter alerts in six Lithuanian towns and closed airspace at Vilnius and Kaunas, with nothing shot down.
+
+His sharpest line: Europe has interceptor drones, but not one has a published combat record.
+
+Look at what NATO's eastern flank actually used this week. Spain scrambled two NH90 helicopters against unidentified drones from its air base in Romania. The Czechs say twelve more L-39 trainer jets for drone hunting are preliminarily agreed for Ukraine. Russia, for its part, showed off a Sokol-3 interceptor it claims can catch jets, from a propaganda channel with no combat evidence. Fighters, helicopters and trainer jets are expensive answers to cheap drones. The first European interceptor to publish verified kills will have a real sales edge.
+
+The task force says start with the threat.
+
+Now the US side, and this one is for your business idea. At a drone security and grant forum on Monday, Brigadier General Matt Ross, who runs Joint Interagency Task Force four-oh-one, the Pentagon-led counter-drone task force, said they have tapped the entire intelligence community for authoritative threat assessments, at home and abroad. He warned that it's easy to confuse feeling vulnerable with actually being threatened. And he told agencies and grant applicants to define what they must protect against before ordering from the government's counter-drone marketplace. A spokesman added that an Army barracks and an airfield, or Alaska and Arizona, need different answers. The same week, the task force hired a firm called DroneSec for open-source intelligence on enemy drones and the networks that supply them.
+
+Here's why that matters to you. The government's own task force is saying the first step is a site-specific threat assessment. The FEMA counter-drone grant applications are due Monday, and the FAA's flight-restriction rule for critical sites will ask owners to justify their requests. A credible threat and vulnerability assessment is something a private company can sell today, no new law needed. It gets you in the door before you install a single sensor.
+
+Lasers sold with a repair shop.
+
+AeroVironment booked four hundred five million dollars for its LOCUST X3 laser, a thirty-kilowatt system against small and mid-size drones, from an unnamed Middle Eastern country. Two details stand out. It's a direct commercial sale, not a government-to-government foreign military sale. And AeroVironment will open a maintenance, training and support center in the buyer's country. Meanwhile Allen Control Systems, which makes the Bullfrog robotic gun turret, started a directed-energy division, with a dazzler and a small laser version of the turret in the works.
+
+The same pattern showed up in detection. In Ukraine, the importer of Poland's SKYctrl radar and acoustic detection systems now does local repair, in and out of warranty. And Echodyne's radar, now owned by Shield AI, went into BAE Systems' counter-drone system. Fixed systems earn money for years after the sale.
+
+Small drones are disposable.
+
+Compare that with the Army's plan for small attack drones, reported by Breaking Defense. Army Materiel Command says they will be replaced, not sustained. Build to order, fly them hard in training, crash them. The Army was taking ten thousand of the first thirty thousand Drone Dominance drones into training units, and one colonel has floated crashing up to a hundred thousand a year. Ukraine's DOT-Chain online marketplace has now delivered over one and a half million items from three hundred makers, in about eight days from stock.
+
+So there are two business models. Small drones are a volume and fast-redesign business. Sensors, lasers and site systems are an upkeep business. A service company belongs in the second.
+
+The money.
+
+The Ukrainian-founded company UFORCE, maker of the Magura sea drones, raised seven hundred million dollars at a six billion dollar valuation. Britain's state wealth fund put in a hundred fifty million, its biggest defense investment yet. Eight months ago the company was valued at just over one billion. The plan includes automated counter-drone turrets, laser interception and US production of its sea drones. Governments are now co-investing in battle-tested Ukrainian firms, not just buying from them. Turrets and lasers show up in nearly every big round now, which tells you that space is getting crowded.
+
+Moving and hardening.
+
+Two short ones. The European Union will help deliver four pontoon bridges from Norway, plus five hundred generators and two hundred buses, before winter. Bridges are where movement dies in this war, so spare crossings are now an aid category.
+
+And one older item that's new to us. Back in January, the counter-drone task force published three pages of guidance for protecting sites, written with the World Cup security team. It's called Harden, Obscure, Perimeter. Harden selectively with nets, tensioned cables, covered roofs and concrete, rather than enclosing everything. Obscure people and assets with camouflage, decoys and changed routines. And push the perimeter out so drones have to fly farther. General Ross said then, we can't field a system that will stop every drone. For your idea, this is the layer a private site owner can buy today without any authority to take a drone down. Detection plus a harden-obscure-perimeter survey plus nets and covers is a complete legal offer right now. Taking drones down waits on Senator Cotton's bill, which still has no cosponsors.
+
+Casualty care.
+
+A study in Military Medicine from June, new to our archive, puts a hard number on something we've tracked since October. Ukrainian surgeons compared tourniquet patients in early 2025 with 2016. In 2025, more than sixty percent reached surgery after the safe three-hour tourniquet window, compared with fifteen percent before drones. Tourniquets that failed rose from about seventeen percent to thirty-seven and a half. Drones caused nearly two-thirds of the injuries, and evacuation points had to move ten to fifteen kilometers farther back. On the hopeful side, SkyFall says its StarGate drone has now flown out its sixth wounded soldier, dragged to the drone by a comrade because no ground route was possible. Six flights is still anecdote. The real gap is the hours between the tourniquet and the surgeon: teaching non-medics to loosen and convert a tourniquet, better ways to stop bleeding, and some way to watch a limb that's losing blood flow.
+
+What to watch.
+
+FEMA's state counter-drone applications close Monday, the sixteenth. The FCC votes on the drone-detection radar band on Thursday, the nineteenth. And watch whether the Starshield cap lifts again or becomes the new normal.
+
+The one thing to think about.
+
+The task force is telling buyers to start with the threat, and Harden, Obscure, Perimeter is the part any site owner can act on today. So the question for your service is this: could the first thing you sell be a threat assessment and passive-defense plan that a site needs anyway, for a grant, an insurer or an FAA filing, so that detection and, someday, defeat follow from it?
