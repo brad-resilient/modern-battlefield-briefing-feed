@@ -3,6 +3,8 @@
 
 Usage: build_feed.py SITE_DIR BASE_URL
 SITE_DIR has episodes/YYYY-MM-DD.mp3 and optional episodes/YYYY-MM-DD.title (one line).
+Special one-off episodes use YYYY-MM-DD-slug.mp3/.title; they are listed as "Special" and dated
+later that day so they sort above that day's brief.
 Writes SITE_DIR/feed.xml. Keeps the newest 60 episodes in the feed.
 """
 import datetime, email.utils, os, subprocess, sys
@@ -46,9 +48,10 @@ for d in eps:
     mp3 = os.path.join(site, "episodes", d + ".mp3")
     tf = os.path.join(site, "episodes", d + ".title")
     title = open(tf).read().strip() if os.path.exists(tf) else "Modern Battlefield brief"
-    dt = datetime.datetime.strptime(d, "%Y-%m-%d").replace(hour=9, tzinfo=datetime.timezone.utc)
+    special = len(d) > 10
+    dt = datetime.datetime.strptime(d[:10], "%Y-%m-%d").replace(hour=15 if special else 9, tzinfo=datetime.timezone.utc)
     dur = probe_duration(mp3)
-    nice = dt.strftime("%A, %B ") + str(dt.day)
+    nice = "Special" if special else dt.strftime("%A, %B ") + str(dt.day)
     items.append(f"""<item><title>{escape(nice + ': ' + title)}</title><guid isPermaLink="false">modern-battlefield-{d}</guid>
 <pubDate>{email.utils.format_datetime(dt)}</pubDate><enclosure url="{base}/episodes/{d}.mp3" length="{os.path.getsize(mp3)}" type="audio/mpeg"/>
 <itunes:duration>{int(float(dur))}</itunes:duration><description>{escape(title)}</description></item>""")
