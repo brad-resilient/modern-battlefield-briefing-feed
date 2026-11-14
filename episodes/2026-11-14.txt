@@ -1,0 +1,59 @@
+Good morning Brad, this is your Modern Battlefield brief for Saturday, November 14. Suspected drones flew over a US fighter base in England last night, on the same day Iran sent attack drones toward Bahrain. Here at home, the White House says local police must carry the drone fight, but the FBI can train only about three hundred and twenty officers a year, and a new think-tank study says venue and infrastructure owners will have to pay more of the bill. And in Ukraine, fewer Russian jet drones are being stopped, while more than a hundred members of Congress demand answers on the satellite cap.
+
+Drones over Lakenheath.
+
+Start in England. Friday evening, the US Air Force confirmed what it called suspected unauthorized drone activity over Royal Air Force Lakenheath, its main fighter base in Britain. The Air Force says no people, aircraft or buildings were affected, and Britain's Ministry of Defence later said the situation was resolved. Neither one said who flew the drones or how they were dealt with. An open-source account on X posted video it says shows sirens going off at Mildenhall, Lakenheath and Feltwell, but that is unverified.
+
+The background matters. Tankers began leaving nearby Mildenhall on Monday over a reported Iranian threat, and the Wall Street Journal reported the bases went to Force Protection Condition Charlie, the second-highest level. That is still not officially confirmed. In Parliament, Defence Minister Luke Pollard said security has been stepped up at sites hosting American personnel, and the ministry will spend an extra four hundred and seventy million pounds on physical security, surveillance and counter-drone measures. A former British intelligence officer called it the third embarrassing breach at these bases in under two years.
+
+Why it matters to you: overseas, the host country's police and laws decide who can bring a drone down. That is the same split between detecting and defeating that American site owners face at home. And the four hundred and seventy million pounds is real near-term money for sensors, perimeter and counter-drone gear.
+
+Iran and Bahrain.
+
+Iran's Revolutionary Guard says it struck an American radar station in Bahrain, in response to a US strike on a telecom tower in southern Iran. US Central Command says it shot down two Iranian attack drones headed for Bahrain, with no casualties or damage. Treat the Iranian claim as state messaging. The pattern to watch is that Iran keeps aiming at sensors, the eyes of base defense, and it is now pressing US forces in the Gulf and in Europe at the same time.
+
+The homeland: police hold the authority, owners hold the money.
+
+This is the part most relevant to your drone defense idea, so I'll take it slowly.
+
+At last Monday's state and local drone security grant forum, Sebastian Gorka, the counterterrorism director on the National Security Council, called drone security a top national priority. His line was, quote, the feds aren't going to solve this problem. Local police will meet the threat first, at the World Cup, at America's two hundred and fiftieth birthday events, and at the twenty twenty-eight Olympics. He also asked industry to build more.
+
+The capacity numbers are sobering. The FBI's National Counter-Drone Training Center in Huntsville, Alabama graduated fewer than a hundred people last year. This year it plans ten classes of thirty-two, so about three hundred and twenty a year. And an agency has to finish accreditation before it can even send people. Since the new rules took effect on July first, state and local agencies have run about sixty counter-drone operations with federal help.
+
+Now the research item. The Center for Strategic and International Studies published an analysis on Monday of Operation High Eagle, a joint US and Mexico mission against cartel drones on the border. It finds police are being given authority without the resources to match. Only sixty-one officers in forty-six states were certified as of July. The FBI can cover about five hundredths of one percent of the two hundred and forty thousand special events eligible for counter-drone protection. And twenty-nine governors warned in October that police lack trained people. Then the line that matters most for you: the Jacksonville Jaguars became the first NFL team to buy counter-drone technology to use alongside local police, and two more teams reportedly followed. The author suggests venues, airports and infrastructure owners should carry more of the cost. She also says letting private operators bring drones down would take major legal change. She offers seven readiness measures, from force readiness to financial efficiency.
+
+Why it matters to you: put this beside Thursday's news that the government's counter-drone task force wants buyers to start with a threat assessment, and the model takes shape. The site owner pays for the assessment, the detection and a round-the-clock watch. A certified police partner holds the authority to take a drone down. Your service does the work in between, including grant applications, the Federal Aviation Administration's flight-restriction filings for critical sites, and the operating plans police need. The seven CSIS measures would make a good scorecard for a client report. And with about three hundred and twenty trainees a year against more than nine thousand eligible critical sites, the shortage of certified operators is the opening. Dates: FEMA's counter-drone grant applications are due Monday, November sixteenth, and the Federal Communications Commission votes on the drone-detection radar band on Thursday the nineteenth.
+
+Money: Ondas.
+
+One more data point on the same market. Ondas, a public drone and counter-drone company, reported third-quarter revenue of one hundred sixty-seven and a half million dollars, up from about ten million a year ago, mostly through acquisitions. Its backlog is eight hundred thirty-five million, and it targets more than a billion dollars next year. Its counter-drone unit, Sentrycs, supports most of this year's World Cup stadiums and has been picked by several NFL stadiums. But it lost one hundred eighty-nine million dollars on operations in the quarter, with margins around twenty-two percent. Why it matters: along with Axon's Dedrone, that is a second public company showing real stadium demand. The losses also show that buying growth is expensive, which leaves room for a lean service firm built on other companies' hardware.
+
+Ukraine: jets and the satellite link.
+
+On the night of the twelfth into the thirteenth, Russia launched one hundred seventeen drones, sixty-three of them jets. Ukraine stopped eighty overall but only thirty-nine of the jets, about sixty-two percent. That's down from seventy-one percent the night before and the high seventies and eighties earlier this month. A downed drone set a Kyiv medical facility on fire, injuring three and forcing thirty to evacuate. Nine people were killed across Ukraine that day.
+
+Meanwhile, more than a hundred members of Congress from both parties, including Republicans Michael McCaul and Don Bacon and Democratic Senator Richard Blumenthal, demanded that Starshield, the military version of Starlink, be fully restored, and that the caps be investigated, since they have now happened twice. SpaceX told Axios nothing has changed. Whether the cap is causing the falling jet numbers is still unconfirmed, but the two are moving together.
+
+Going the other way, Telegram channels posted photos of three Russian air-defense radars damaged near the Baltic port of Ust-Luga, possibly by Ukrainian drones. That's unconfirmed. But with Iran's claim in Bahrain, it shows the sensor itself is now the first target.
+
+Detection through phone networks.
+
+The European Commission has asked member states, together with telecom companies and infrastructure operators, to propose pilots that detect drones through cellular networks. That means spotting drones that connect to mobile networks, and using the cell signals themselves to sense drones that don't. A funded call may follow. Ericsson pitched the same idea earlier this month. Why it matters: cell towers are already everywhere. In the US, a detection service that partners with a tower owner or carrier could cover a site without buying radar. Separately, Bulgaria is joining Spain's purchase of up to twenty counter-drone systems after a Russian decoy drone washed up on its beach.
+
+Counter-drone hardware.
+
+Beretta and the Italian firm DUALEE unveiled a remote turret carrying eight Benelli twelve-gauge shotguns with programmable airburst shells. It tracks five targets at once using AI, takes cues from radar and radio sensors, and keeps a human in the firing decision. Effective range is short, about fifty to a hundred meters. The last line of defense keeps converging on many barrels, cued by sensors. Shotguns make sense near hangars, fuel and crowds, where stray rifle rounds aren't acceptable.
+
+Casualty evacuation.
+
+Ukraine held its first competition for evacuating the wounded with ground robots, with twenty units and companies in Lviv region. Teams planned the evacuation from a command post and coached a teammate at the pickup point by telemedicine, then drove obstacle courses. The ninety-third Mechanized Brigade won. Why it matters: robot evacuation is now a scored skill, and the judges scored the medical handoff, not just the driving. Remote medical guidance at the pickup point, and kits to secure a casualty on a robot, are the products here.
+
+Hardening the supply chain.
+
+Hackers broke into the German drone maker Quantum Systems and planted a poisoned update for the mission-planning software behind its Vector reconnaissance drones, which Ukraine and the German army both fly. The update never reached the drones, but it did reach customer servers, and the German army grounded its whole Quantum fleet as a precaution. Nobody has been named. Separately, Norway's security service says it expects Russian sabotage in the coming year, most likely against defense firms, their suppliers and military logistics. Why it matters: a poisoned update can ground a fleet without a shot fired. Signed updates and independent checks of the software supply chain are now part of protecting any drone or counter-drone fleet, including one a service company would run.
+
+The one thing worth thinking about today.
+
+In the past three days Washington has said, in effect, start with the threat, the feds won't solve it, police training grows slowly, and owners should pay more. If certified police officers are the scarcest piece, the question for your business is this: which local police department, and which site owner beside it, would you sign first, so that you hold the assessment, the watch and the paperwork, and they hold the authority to act?
+
+That's your brief. Have a good Saturday.
