@@ -1,0 +1,63 @@
+Good morning Brad, this is your Modern Battlefield brief for Sunday, November fifteenth.
+
+Here's the top line. FEMA's counter-drone grant, which closes tomorrow, lets agencies pay for drone detection as a subscription or as a data service, which settles the biggest open question in your business idea. Russia's jet drones have started cutting their engines and gliding in silently on the final approach, yet Ukraine still stopped seventy-eight percent of them last night. And allied money for Ukraine is tightening, with Poland pausing payments and Bulgaria closing its depots, at a time when the cheapest jet-drone killer, a fighter's cannon, needs eight hundred thousand rounds.
+
+This is also Sunday, so the weekly synthesis is written up separately. I'll mention its main points at the end.
+
+The threat.
+
+Overnight, Russia launched one hundred thirty-two drones at Ukraine. Seventy-eight were jet-powered Shaheds. Ukraine's Air Force says it shot down or jammed one hundred six, including sixty-one of the jets. That's seventy-eight percent, up from sixty-two percent on Thursday night. There were hits at twenty locations, and the numbers are preliminary.
+
+The more important story is how the jets are adapting. Serhii Beskrestnov, who goes by Flash and advises Ukraine's government on defense technology, posted that Russian operators now switch off the jet engine shortly before impact. The drone has enough speed to coast the last stretch in silence. Some also come in very low over flat ground, under the radar. He said a Shahed "can appear out of nowhere," and he dismissed rumors of a hidden electric motor. The Institute for the Study of War, I-S-W, says this mostly hurts mobile fire groups, the truck-mounted gun teams that often work by ear because they have no radar or thermal camera. A Russian military blogger claims it was used on Kharkiv on Monday night, which isn't confirmed.
+
+One piece of context. Ukrainian military intelligence now says none of Russia's twenty-eight remaining Rassvet satellites has reached its planned eight-hundred-kilometer orbit, and the third launch was postponed. Last Saturday we reported a Ukrainian claim that Rassvet was already steering drones. Treat both claims with caution.
+
+What this means for you: sound gives the last few seconds of warning, and the attacker is now designing to take it away. Anything that protects a site, a convoy or a squad with listening sensors alone needs a radar or a camera for the last kilometer.
+
+Detection.
+
+On that point, the US Army has its own acoustic system. A military intelligence battalion at Camp Humphreys in South Korea spent about eight months building something called Project MANOWAR, short for Mobile Acoustic Network for Operational Warning and Aerial Reconnaissance. It's a network of cheap, expendable listening sensors in 3D-printed cases that run on standard Army batteries. Each sensor relays for the others, so the network repairs itself when one is lost. Soldiers wrote the machine-learning classifier with Army Research Laboratory scientists. In trials with South Korea's Army Drone Academy in May and September, it reached better than ninety percent confidence against low-flying drones, including F-P-V drones, the first-person-view kind. The unit wants to scale production and make it a program of record. No cost was given.
+
+Put that next to the Russian glide and you get the lesson. A cheap acoustic mesh is something soldiers can build themselves and is a good fit for a squad or a small site. But it can't be the only sensor.
+
+One more detection note, from China. A People's Liberation Army brigade has made counter-drone training mandatory, with new manuals and training areas. The trigger was an exercise in which a thermal drone found soldiers hidden under jungle canopy and called artillery onto them. Leaves hide you from the eye, not from a heat camera.
+
+Counter-drone.
+
+Ukraine's cheapest jet-drone killer is still the F-16's six-barrel cannon. Zelensky says the F-16s need about eight hundred thousand rounds of twenty-millimeter ammunition to keep hunting drones for six months, and Denmark has agreed to supply them. Denmark sent more than fifty thousand rounds in October. He also wants two and a half times as many F-16s flying at once, since age and upgrades keep many on the ground.
+
+Ukraine's newest jet-drone killer, the interceptor drone, still has its satellite problem. SpaceX told Ukraine it imposed no limits on Starshield and blamed technical causes. Zelensky says daily tests show widespread problems, including a speed cap of about one hundred mph over occupied territory, which makes interceptors hard to use against Shaheds. Two Democratic senators have asked Elon Musk to preserve his records back to September first.
+
+So the cheap gun is limited by ammunition and airframes, and the clever drone by a link Ukraine doesn't control. Both are supply problems, not technology problems.
+
+A practitioner view that's worth your time. Colonel Dustin Thomas, who founded the Game of Drones exercise, and Air Force Major Aubry Eaton wrote in Breaking Defense that the US should breed drones like fruit flies. Their proposal is a twelve-month experiment that changes the threat every three months, paying for adaptation with training crashes instead of combat losses. They also want the Drone Dominance contests to reward the teams that field new versions fastest, not just the best single drone. If buyers start paying for update speed, that favors companies with update pipelines and test ranges, which is a service business.
+
+Movement and hardening.
+
+Polish prosecutors have indicted a Ukrainian man for helping Russian intelligence attack rail line number seven, the main line from Warsaw to the Ukrainian border. Last November, two accomplices set off military-grade explosive under a freight train from three hundred meters away. It damaged a wagon but didn't derail the train, and they fled to Belarus. That's what the supply-line threat looks like in Europe's rear: hired locals on long stretches of track nobody watches. Watching track is the same detect-and-alert job as site drone detection, sold to a rail operator.
+
+China, meanwhile, showed two robots on state TV, one that lays smoke to hide troop movements and one that fires a line charge to clear a lane through a minefield. Those are unmanned route clearance and obscuration, the gaps we flagged last week.
+
+New details on Friday's drone scare at R-A-F Lakenheath. American personnel got an urgent alert marked "real world," were told to go to the nearest protected area, and stayed in shelters. No one was hurt and nothing was damaged. No drone count and no counter-drone action has been reported. A former British intelligence officer told the BBC it's the third base lapse in under two years. When a base can't confirm what's overhead, it puts people under cover. The same applies to a stadium or substation in the US, where the owner can't shoot. What the owner controls is detection, warning and somewhere to shelter.
+
+Casualty care.
+
+SkyFall's StarGate heavy drone has flown out its sixth wounded soldier. An F-P-V drone had badly hurt his arm and leg, and a comrade dragged him to the drone because minefields and shelling made a ground evacuation impossible. SkyFall says it carries up to one hundred fifty kilograms at about sixty-five miles an hour and can navigate when G-P-S is jammed. Those are the company's claims. Six flights since October is about one a week. The weak points now are the last ten meters to the aircraft and care during the flight, because the casualty flies alone.
+
+Money.
+
+Now the grant. FEMA's two-hundred-fifty-million-dollar counter-drone grant closes at five p.m. Eastern tomorrow. Every state gets at least about three point three million dollars, and applications go through each state's homeland security grant office. According to the law firm Holland and Knight, funded agencies may subscribe to, operate or receive access to detection hardware, software, services or data-as-a-service, as long as the contract includes D-H-S data-sharing terms. That was the open question from our deep dive last Wednesday, and the answer is yes.
+
+There are limits. Equipment has to be mobile. Owning mitigation gear doesn't give you the right to use it; only certified police or corrections officers can. A grant consultant's reading of the scoring gives up to forty of one hundred points for covering major national events through twenty twenty-nine, thirty for mobile mitigation run by police, and only six for wide-area detection software or data services. Its budget guidance is roughly seventy percent equipment, ten percent contracted services and twenty percent training. Selections are expected around December second and awards around December tenth. FEMA specifically mentions the twenty twenty-eight Olympic torch relay.
+
+For your idea, the pitch writes itself: be the detection and data layer under a police mitigation team, sized for big events and the torch route, with the D-H-S data-sharing built in. Services get about a tenth of a typical budget, so the subscription has to be cheap, and the states will be shopping in December and January.
+
+In Europe, the money is getting tighter. Poland has paused its payments into the NATO program that buys American weapons for Ukraine, citing its deficit. Bulgaria will stop sending weapons from its depots. And Ukraine's license to build Patriot interceptors at home is stuck in Pentagon paperwork. Pledges are turning into targeted bilateral deals, like Denmark paying for cannon rounds.
+
+The week.
+
+This week's synthesis argues that the drone-defense buyer has moved from the military to whoever owns the site, at home and abroad. The bottleneck is no longer the hardware. It's the legal authority to act, the certified people to do it, and protection for the sensors themselves. It also re-ranks the opportunities and has a short section on what the week meant for drone defense as a service.
+
+One thing to think about.
+
+Today's two biggest stories point the same way. Russia is designing its drones to defeat a specific kind of sensor, and FEMA is willing to pay for detection as a service. So the valuable thing to sell isn't one sensor. It's an outcome: knowing what's overhead with more than one way of seeing it, logged well enough that a police officer can act on it. Ask yourself what you'd have to guarantee, in writing, for a state grant office to buy that as a subscription in December.
