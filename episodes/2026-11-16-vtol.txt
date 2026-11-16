@@ -1,0 +1,185 @@
+MAYA: Hi Brad, this is a special episode, and it's a little different from the usual brief. No drones over Ukraine today. Instead, we're walking through the research plan for your real estate idea: the bet that air taxis will make cheap, hard-to-reach land valuable. I'm Maya.
+
+THEO: And I'm Theo. Brad, we're going to take you through the whole plan in about fifteen minutes. What the thesis is, where the aircraft actually stand today, the six areas of research, and the ninety-day plan with the tests that would tell you to walk away.
+
+MAYA: So Theo, let's start with the thesis in one sentence.
+
+THEO: Here it is. Affordable vertical flight will make land that's cheap because it's hard to reach, by road time, by water, or by terrain, newly reachable. And that land will reprice before the market notices.
+
+MAYA: And the honest read going in?
+
+THEO: Plausible, but narrower and later than it sounds. That's the headline of the whole plan. The early version of this technology isn't a flying car that lands in your back field. It's a premium air taxi that flies set routes between fixed landing sites, called vertiports. So the first value shift lands near those vertiports, and on routes where people already pay a premium for access. Think islands, ski towns, lake and coastal second-home markets. Not random remote acreage.
+
+MAYA: Which reframes the question.
+
+THEO: Exactly. The real question is whether there's a five to fifteen year window where you can buy access-constrained land at today's prices, and either hold it cheaply or earn money on it while you wait.
+
+MAYA: Okay. Before the research areas, let's ground this. Where are the aircraft, as of November twenty twenty-six?
+
+THEO: The single most important fact for this whole thesis: no American electric air taxi has an FAA type certificate yet. That's the approval that lets an aircraft carry paying passengers. Both leaders, Joby and Archer, now target twenty twenty-seven for their first U.S. passenger service.
+
+MAYA: Give me the quick tour.
+
+THEO: Joby flies a piloted four-passenger aircraft. It's in the final stage of FAA certification, with flight testing ahead, and no certificate date announced. Pilot training and flight tests are planned for the first half of twenty twenty-seven, with first commercial flights under the federal pilot program that year. Joby is also building a network in Dubai, booked through Uber, aiming to launch at the end of twenty twenty-six. That matters, because Dubai could give us the first real fare data anywhere.
+
+MAYA: And Archer?
+
+THEO: Archer's aircraft, called Midnight, is doing piloted demo flights in Los Angeles, but so far only on runways, not hovering takeoffs. It's targeting the full vertical-to-wing-borne transition by the end of this year, passengers in twenty twenty-seven, and a big showcase at the Los Angeles Olympics in twenty twenty-eight. Archer is also in a certification program in Abu Dhabi, with passenger service there expected late twenty twenty-six or early twenty twenty-seven.
+
+MAYA: A couple of others worth knowing?
+
+THEO: Beta Technologies has a conventional-takeoff version in certification, which matters for cargo and rural routes. And in China, EHang was type certified back in twenty twenty-three and started sightseeing flights this year. So small autonomous aircraft can operate commercially. Wisk, Vertical and Eve are further back. Vertical slipped to twenty twenty-nine.
+
+MAYA: And the near-term map is the federal pilot program.
+
+THEO: Right. In March, the FAA picked eight projects across twenty-six states. New York and New Jersey, including the Manhattan heliport. Texas, covering Dallas, Austin, San Antonio and Houston. A Utah-led test across the Mountain West and Pacific Northwest. A thirteen-state collaborative led by Pennsylvania, with small-community routes. Louisiana's Gulf energy sites. Statewide Florida. North Carolina, for medical and regional flights. And Albuquerque, testing autonomy. These are the first places where routes, landing sites and local rules will actually exist.
+
+MAYA: What about price? That's the whole game for land values.
+
+THEO: Pricing is unproven. Operators have pointed at launch fares around premium rideshare per mile, falling as autonomy and volume arrive. Treat that as a company claim until Dubai and Abu Dhabi publish real fares. And private ownership of one of these aircraft isn't on any public roadmap before about twenty thirty.
+
+MAYA: So scale, meaning dozens of routes and falling fares, is closer to twenty thirty than twenty twenty-seven.
+
+THEO: That's the timeline to keep in your head.
+
+MAYA: Alright, the six research areas. Number one is logistics. Can you actually build and live out there?
+
+THEO: The line I like here is: flying in solves the commute, not the house. Every strategy depends on a lot being buildable and livable without a normal road and utility connection. So this area sets the screening rules for everything else.
+
+MAYA: What are the big questions?
+
+THEO: First, construction access. Can materials and equipment get there at all, by any road, a barge, or a seasonal track? Helicopter-only builds cost several times more. Second, utilities. What does a fully off-grid home cost today, with solar and batteries, a well, septic, and Starlink, and what does it add to annual running costs? Third, and this is a big one, zoning and legal access.
+
+MAYA: Because a lot of counties won't permit a house without road frontage.
+
+THEO: Exactly. Many counties won't issue a building permit without legal road frontage or a recorded easement, and fire codes require emergency vehicle access. So the question is whether "fly-in only" is a permit blocker. Fourth, landing rights. A private landing pad needs an FAA airspace notice, but the real hurdle is local zoning, and neighbor noise complaints are the usual killer.
+
+MAYA: And charging.
+
+THEO: Charging is the sneaky one. These aircraft need hundreds of kilowatts to fast charge. A remote pad without grid power can't recharge an aircraft. That pushes you toward sites near a vertiport, or limits you to places within round-trip range.
+
+MAYA: How do you research all that?
+
+THEO: Mostly by phone and paperwork. Call the building and zoning departments in three to five pilot counties: one island, one mountain area, one lake or coastal second-home market. Read the FAA's heliport and vertiport design guidance and the pilot-program states' vertiport plans. And study the fly-in communities that already exist. There are about six hundred residential airparks in the U.S., plus float-plane lake lots and helicopter-access lodges. Call a few builders who've done helicopter or barge-only builds.
+
+MAYA: And what kills it?
+
+THEO: If the pilot counties won't permit fly-in-only homes, and private pads near homes are effectively unpermittable, the opportunity shrinks to land near public vertiports. That's a very different, and much more competitive, trade.
+
+MAYA: Area two is my favorite. What does history say about value changes?
+
+THEO: The working hypothesis is that land value is largely about travel time to the things people want: jobs, cities, airports, recreation. Air taxis cut travel time sharply on specific routes that are slow by road today, like water crossings, mountain passes, and congested last miles. So value should move toward places with a big gap between road time and air time. But only near where aircraft can land, and only for buyers who can afford the fare.
+
+MAYA: And the analogues.
+
+THEO: There's a great list. Nineteenth-century railroads, the best-studied case of market access and land value. Interstate highways, which show how value concentrated around exits. Regional airports getting new nonstop service, which is probably the closest modern match. Think Jackson Hole, Sun Valley, Telluride, Bozeman. Seaplane and fast-ferry access, comparing islands with service against similar islands without it, in places like the San Juans, Maine, and the Gulf Islands of British Columbia. Helicopter commuting from New York to the Hamptons. The remote-work shift since twenty twenty. And fly-in airpark communities.
+
+MAYA: What should Brad look for in each one?
+
+THEO: Three things. How big the value change was. When it happened, relative to the announcement versus the opening. And how far from the access point it reached. Who captured the gain matters too. Railroads famously captured it by owning the land grants.
+
+MAYA: There's also the flip side. Some value could fall.
+
+THEO: Right. Properties whose premium today is their seclusion, or their closeness to a congested core, could lose some of it.
+
+MAYA: The deliverable here is a base rate.
+
+THEO: A sentence you can actually plug into a model. Something like: an access improvement of X minutes historically moved land values by Y percent, within Z miles, over N years. And the kill test is: if gains were tiny outside a mile or two of the access point, or only arrived after a decade of service, then the trade becomes "buy near future vertiports," which is crowded and expensive. Not "buy cheap remote land."
+
+MAYA: Area three is timing, and the plan calls this one the decider.
+
+THEO: The base case is two waves. A speculative wave when routes get announced near a market, possibly twenty twenty-seven to twenty twenty-nine in the pilot-program states. And a fundamental wave only when fares drop enough that a meaningful pool of buyers uses the service routinely. That's likely the twenty thirties. The edge is buying before wave one, in places where wave two is real.
+
+MAYA: What signals do you watch?
+
+THEO: The first FAA type certificate, Joby first, then Archer and Beta. The first published fares in Dubai and Abu Dhabi, compared against Uber Black and helicopter charter. Regular scheduled passenger routes in the pilot program, not demo flights. Vertiport approvals on city and county planning agendas, especially outside the big metros, near amenity markets. Aircraft production in the hundreds per year, not dozens. A U.S. path for passenger autonomy, since pilot cost is the biggest lever on fares. Any owner-flown or fractional offering, like today's jet cards.
+
+MAYA: And one I love: land listings.
+
+THEO: Yes. When land listings start mentioning "air taxi access," wave one has begun. The deliverable is a monthly tracker, a fare forecast with low, base and high cases, and a dated estimate of when each target market becomes routinely affordable for a household earning two hundred fifty thousand dollars or more.
+
+MAYA: And the kill test for timing?
+
+THEO: No U.S. type certificate by the end of twenty twenty-eight. Or launch fares stuck above helicopter charter with no credible autonomy path. Either one pushes the fundamental wave past any sensible land-hold horizon.
+
+MAYA: Area four. Finding the actual properties.
+
+THEO: The idea is a map-based screen that scores parcels on an "access gap." Basically, drive time to the nearest major metro or airport, divided by the likely flight time. The first-draft criteria: drive time at least three times the flight time, with the flight under about forty-five minutes, which keeps you inside early air taxi range of roughly fifty to a hundred miles with reserves.
+
+MAYA: Plus a demand anchor.
+
+THEO: Right. It has to be within range of a wealthy metro or a pilot-program corridor. New York, the Texas Triangle, Florida, the Bay Area, Los Angeles, Seattle, Denver and Salt Lake. Then add amenity, meaning water, mountains, views, places people already pay to visit. It has to be cheap today relative to land with road access to the same amenity. It has to pass the buildability checklist from area one. It needs room for a pad, or be a short trip from a planned vertiport. And it needs exit liquidity, a market where second homes and short-term rentals already trade.
+
+MAYA: And the plan suggests three pilot geographies to start.
+
+THEO: The Puget Sound islands, with Seattle demand and a water crossing. The Hudson Valley and Catskills, plus Long Island's North Fork, with New York demand and congested roads. And the Texas Hill Country lakes, inside a pilot-program corridor with cheap land. Brad, those are suggestions, not decisions. If you know other places well, they could make better candidates.
+
+MAYA: How does the screen work in practice?
+
+THEO: Parcel data from county assessors or Regrid, drive times from OpenStreetMap routing tools, flight time as straight-line distance at cruise speed plus about ten minutes for climb, descent and taxi. Layer in FAA heliport locations, flood maps, wildfire risk, soils, income data, and short-term rental demand. Rank the top fifty parcels per geography, then spot-check ten by phone with brokers and county planners.
+
+MAYA: Kill test?
+
+THEO: If the high-scoring land already trades at a premium, because it's near existing airports, ferries or highways, the market has priced access in, and there's no gap to capture.
+
+MAYA: Area five, strategy. This is where it gets practical.
+
+THEO: The starting recommendation is what the plan calls a cash-flowing option. Buy land that already earns something, or can be used today, so you get paid to wait out an uncertain timeline. Pure raw land is the cleanest bet on the thesis, but it's the worst if timing slips, because land costs money to hold and pays nothing.
+
+MAYA: Walk through the options.
+
+THEO: Buy and hold raw land: the purest bet and cheapest entry, but years of taxes and interest with no income. Small positions only. Buy, build and sell: you capture the development margin, but you'd want to wait for wave one. Build and operate a short-term rental: nightly income now, appreciation later. Remote, scenic stays already earn well today. The risks are local rental bans, management burden and seasonality. The plan rates that the best starting point.
+
+MAYA: And the others?
+
+THEO: Land with existing income, like timber, hunting leases, farming or a campground. Lower upside, but it pays the carry, so it's a good complement. Developing a private landing site, either collecting fees or selling lots around it, airpark style. That's the railroad land-grant play, capturing the access itself, but permitting and noise opposition are real. Worth exploring with the pilot-program states. Purchase options and joint ventures with landowners, for cheap exposure with limited downside. And public-market stocks in air taxi companies, but only as a hedge. That's not real estate.
+
+MAYA: So the deliverable is a one-pager.
+
+THEO: A one-page recommendation with a chosen pilot structure. For example: one parcel that can host a short-term rental in a pilot geography, plus a few cheap options on adjacent land.
+
+MAYA: Which brings us to area six, the financial model. Does the math work?
+
+THEO: The model answers one question first. How big an access premium, arriving how many years from now, do you need to beat a plain alternative? Plain meaning index funds, or a normal short-term rental in a market with road access. If the premium you need is bigger than anything in the historical analogues, stop.
+
+MAYA: How is it built?
+
+THEO: One spreadsheet, a tab per strategy, all fed by a shared assumptions tab. Three timing scenarios: air access routine by twenty thirty, by twenty thirty-five, and never. And that "never" case is important. The land has to still be an acceptable investment if this technology never arrives, or the whole bet is all or nothing. Cash flows run ten to fifteen years, and the outputs are internal rate of return, equity multiple, peak cash needed, and the break-even access premium.
+
+MAYA: Explain break-even in plain English.
+
+THEO: You take what you paid for the land. Grow it at your hurdle rate for the years you hold it. Add every year's carrying cost, the property tax, insurance, interest and upkeep, also grown at that rate. That's the price you need to sell at just to match your alternative. Divide that by what the land would be worth on road access alone, and you get the premium the air taxi thesis has to deliver.
+
+MAYA: And one practical note on financing.
+
+THEO: Land loans often need thirty to fifty percent down, so carry and capital needs are bigger than people expect. The kill test: if the break-even premium for a twenty thirty-two arrival is above the top of the historical range, or the strategy only works if the aircraft arrive on schedule and loses badly if they don't.
+
+MAYA: Okay, let's land the plane. Sorry.
+
+THEO: You had to.
+
+MAYA: The ninety-day plan.
+
+THEO: The principle is: run the cheap questions that could kill the thesis first, and only spend money on mapping and site visits if it survives. Weeks one through four: can it work at all? Run timing, the historical case studies, and the permitting calls in three pilot counties, all in parallel. Pick the three pilot geographies by week two. The gate to go on: at least one pilot county permits fly-in or limited-access homes, the case studies show a meaningful premium beyond the immediate access point, and the timing base case lands before about twenty thirty-three.
+
+MAYA: Weeks five through eight?
+
+THEO: Where and how much. Build the financial model with real inputs, and run the parcel screen on the surviving geographies. The gate: the break-even premium sits inside the historical range for at least one strategy, and the screen finds parcels that aren't already priced for access.
+
+MAYA: And weeks nine through twelve?
+
+THEO: Which first deal. Choose a strategy, visit the top three to five parcels, get builder and broker quotes, and write a go or no-go memo for one pilot purchase.
+
+MAYA: And the kill checklist, which Brad should check every month.
+
+THEO: Six items. One: no FAA type certificate for any U.S. passenger air taxi by the end of twenty twenty-eight. Two: first real fares above helicopter charter per mile, with no autonomy path in sight. Three: pilot counties won't permit homes without road frontage, and private pads near homes are effectively unpermittable. Four: historical premiums confined to within a mile or two of access points. Five: top-scoring parcels already trade at a premium. Six: the model needs a premium above the historical range, or loses badly in the "never" scenario.
+
+MAYA: And if some of those fire?
+
+THEO: Two or more firing should end the investigation, or narrow it to vertiport-adjacent land in the pilot-program corridors. That's a different and more competitive thesis.
+
+MAYA: Before we go, Brad, there are three open questions that only you can answer, and they shape everything. How much capital, and over what hold horizon. Whether you want to actively operate something like a short-term rental, or stay passive. And which geographies you already know well, because local knowledge makes for a much stronger pilot.
+
+THEO: My one-line takeaway: don't bet on remote land in general. Bet on the access gap, near real routes, with something that pays you while you wait.
+
+MAYA: And keep an eye on Dubai. The first real fares will tell you more than any forecast. That's the special. Thanks for listening, Brad.
