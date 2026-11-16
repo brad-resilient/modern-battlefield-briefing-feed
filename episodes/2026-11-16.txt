@@ -1,0 +1,61 @@
+Good morning Brad, this is your Modern Battlefield brief for Monday, November sixteenth.
+
+Here's the top line. We read FEMA's counter-drone grant notice in full on the day it closes, and it allows detection subscriptions but lists recurring operating costs as ineligible, which affects how you'd price a service. Iran sent drones at a US base in Bahrain for the second time in three days, and new reporting shows it chose its targets partly from Google Maps pins and soldiers' running apps. And the attacks on the protection industry continued: Russian intelligence hired saboteurs to bomb an Estonian drone maker, and drones set three ships on fire off Romania's coast.
+
+Since it's Monday, this covers everything since Friday morning.
+
+The FEMA notice, read in full.
+
+Applications for FEMA's two hundred fifty million dollar counter-drone grant close at five p.m. Eastern today. Yesterday we worked from a consultant's summary. This time I read the notice itself, and three things stand out.
+
+First, the scoring we reported is correct. Out of a hundred points, forty go to coverage of big national security events, thirty to police-run mitigation, eight to detection and tracking, and six to wide-area services. Awards are still expected around December tenth. But the six-point wide-area item is narrow. It rewards airspace-awareness and data-sharing services that share data with the federal counter-drone teams, come from a provider that has applied for or received FAA approval as a provider of unmanned traffic management data, and cover a metro area of at least a hundred square miles. That is a big-city, big-provider item.
+
+Second, the subscription language. Any agency that buys, leases, subscribes to, or gets access to detection hardware, software, services, or data as a service must give the Department of Homeland Security access to detection events, tracks, Remote ID data and sensor status, and must write that into its contracts. So subscriptions are clearly expected. But the same notice lists licensing fees and recurring operating costs, including maintenance contracts, as ineligible. And the ten percent figure for contracted services turns out to be a performance target, not a budget line. My reading, which is an inference, is that a prepaid detection capability for a fixed term with data-sharing built in looks fundable, while an open-ended monthly bill could be challenged. Check that with a state grant office before you set prices. Also, nothing in the notice pays for upkeep after the grant period ends in December twenty twenty-nine.
+
+Third, a correction to yesterday. The mobile-only rule applies to mitigation equipment, not to detection. Mitigation must be hand-held or vehicle-mounted, and only a certified police or corrections employee with an FAA remote pilot certificate may operate it. And states have to pass at least ninety-seven percent of the money down to local agencies. So your actual buyer is a county sheriff or city police department after the state hands out subgrants, probably early next year.
+
+For your business idea, that points to three things: sell fixed-term detection with data-sharing included, partner with an FAA-approved data provider rather than chase those six points alone, and plan to sell upkeep after twenty twenty-nine to the site owner or the city.
+
+The research case: playbook or rental.
+
+A Center for Strategic and International Studies paper from July, new to our archive, gives the clearest demand figure I've seen. Since twenty eighteen, US venues asked the FBI and Homeland Security for counter-drone help about a hundred twenty-one thousand times. They got it seventy-seven times. During the World Cup, Homeland Security logged a hundred forty-five drone incursions at eight venues in the opening days, and the decision window was about ninety seconds. Host cities were, in one official's words, bombarded with vendors, and systems from different vendors could interfere with each other and leave gaps. The author's question is whether America kept a capability or just rented one, since the grant money ran out with no upkeep plan.
+
+The opening is the work in between: keeping systems running after the grant, making several vendors' sensors work as one picture, and handing off to the right officer within ninety seconds. That's a services business, not a hardware one.
+
+Iran, Bahrain, and the open-data problem.
+
+Early Sunday, Bahrain sounded two nationwide alerts. Iran's Revolutionary Guard claimed six drones against a US air-defense radar at a helicopter base south of Manama. The US ambassador said every drone was intercepted, with no damage and no injuries, and called the claim false. That was the second attempt in under seventy-two hours.
+
+The bigger story is how Iran picked targets during this war. The Los Angeles Times reports that Iran mapped daily routines at the twenty-six US sites it attacked using social media, the Strava fitness app, advertising data and mapping services, combined with satellite imagery likely from Russia. Bellingcat found Google Maps labels for headquarters, gyms and dining halls at a camp in Kuwait, and lodging that Google blurs but Bing Maps shows. At a base in Jordan where three Americans were killed in July, a labeled thrift shop sits less than forty meters from destroyed buildings. Some units now lock personal phones away.
+
+For a site owner, signature management now includes data as well as heat and radio. An exposure audit, which means finding what the internet reveals about a plant, base or stadium and getting it taken down, is a cheap first service and a natural way into a customer relationship.
+
+Counter-drone.
+
+Two items. First, the Army's Global Tactical Edge Acquisition Directorate and its Europe-Africa task force want a fly-away counter-drone kit for austere airfields. The key line: it must be operable by site guard forces after initial training, with no dedicated counter-drone operators. It has to run on solar or generator power and work under GPS jamming. Phase one, a four-page paper and a short video, is due tomorrow at five p.m. Up to fifteen finalists get twenty-five thousand dollars and a slot in a soldier exercise in February, then a chance at other transaction agreements worth up to five million dollars in total. Allied foreign firms can enter. A system any guard can run is exactly what a US site owner needs, so the military and civilian requirements are converging.
+
+Second, Turkey's ASELSAN says its EJDERHA microwave weapon disabled fifty-one drones at once in a few seconds. That's the manufacturer's claim, with no range or independent data. Microwaves cost almost nothing per shot and can, in principle, kill wire-guided drones that jammers can't touch. In the US it counts as mitigation, so police-only, and grant money covers only hand-held or vehicle-mounted gear. Think of it as a military base and export story.
+
+The threat picture.
+
+Drones hit three merchant ships near the mouth of the Danube on Saturday night, inside Romanian waters. All three caught fire, the crews put them out, and no one was hurt. Romania scrambled fighters twice and sent debris alerts to residents. It is now asking allies for patrol aircraft and counter-drone help, and pushing to speed up delivery of Thales gap-filler radars. Ports and anchorages are site owners too.
+
+In Ukraine, Zelensky says Russia used more than twenty-three hundred attack drones, nearly sixteen hundred glide bombs and fifteen missiles in the past week. He says many Shahed strikes on substations get through because Starshield terminals still cap interceptor drones at about a hundred miles an hour.
+
+Hardening.
+
+Early Saturday, attackers tried to bomb and set fire to a Threod Systems plant near Tallinn. Threod makes reconnaissance drones used by Ukraine. Estonia's security service says Russian military intelligence organized it. Basic site security and a fast police response stopped it before it did any significant damage. Eight Latvians were detained, and Latvia seized explosives. It's the second Russian-linked attack on an Estonian robotics firm since August, and Estonia will close its road border with Russia on December first.
+
+Defense factories are now a target set, hit by hired locals rather than drones. Anyone selling drone defense to a defense plant will be asked about the fence, the cameras and the insiders too, which makes the integrated security firm a natural partner.
+
+Movement and logistics.
+
+A Chinese company flew a pilotless cargo plane called the W five thousand for the first time on Saturday. The company claims a five-ton payload, a range of about sixteen hundred miles and standard cargo pallets, and says it cuts cost per ton-mile by more than sixty percent. It's billed as civilian, but this is the contested-resupply idea at commercial scale, built in China first. Meanwhile, Ukraine hit the Akhtubinsk test airfield, where a Russian channel reported at least thirty secondary explosions at a missile-parts depot, a reminder that depots stay the soft spot.
+
+Casualty care.
+
+Ukraine's Fourteenth National Guard Brigade described a two-day rescue. A comrade stopped a soldier's bleeding, then a heavy drone dropped blood twice, more than a liter, while the brigade's intensive care chief guided the transfusion by video. A drone then dropped an electric monowheel so the group could ride two kilometers, and a ground robot carried him another fourteen to an armored ambulance. He survived. In the US, a drone firm signed a non-binding deal with Rattler Medical, founded by an Army medic, to build chilled blood boxes for drones, with a demonstration planned for next summer. And on Friday a drone blew out more than a hundred windows at Kyiv's main trauma hospital. Hospitals need hardening too.
+
+The one thing to think about.
+
+Today's notice and the research paper point the same way. The government will pay to detect and share data, police keep the trigger, and no one has budgeted for keeping any of it running. If you can price detection as a fixed-term capability, line up a partner for metro-scale data, and offer upkeep the day the grant runs out, you'd fill the gap behind those seventy-seven answers to a hundred twenty-one thousand calls for help. Worth a call to one state grant office this week to test that reading.
