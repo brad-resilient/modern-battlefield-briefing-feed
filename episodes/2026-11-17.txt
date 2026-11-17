@@ -1,0 +1,63 @@
+Good morning Brad, this is your Modern Battlefield brief for Tuesday, November seventeenth.
+
+Here's the top line. The federal rule that governs state and local counter-drone work says in plain words that contractors may run drone detection services, as long as the jamming, the takedowns and the threat decisions stay with certified officers. The Pentagon named seven laser teams for a December shoot-off where winners can get purchase orders on the spot, and Homeland Security tested nets and interceptors for use at home. And both sides in Ukraine went after bridges: Russia hit two in Kyiv, a span of the Kerch bridge to Crimea reportedly fell into the sea, and Russia claims it shot down more than fourteen hundred Ukrainian drones in a single night.
+
+The rule, in its own words.
+
+Two weeks of coverage on your drone defense idea have worked from the law, the FBI's numbers and the FEMA grant notice. This time I read the rule itself. It's six C F R part one twenty-four, a joint Justice and Homeland Security rule that has governed state and local counter-drone work since July first. I read it from a third-party copy of the federal regulations, so check the official text before relying on it.
+
+Four things matter for you.
+
+First, most detection sits outside the rule. Detection with radar, cameras, infrared or acoustic sensors, quote, "is not subject to this part." Radars that transmit still need the usual Federal Communications Commission authorization. But a system that intercepts a drone's control link does fall under the rule, and the FEMA equipment list puts radio direction-finding on the mitigation side. Remote I D receivers, the ones that read the broadcast every registered drone sends out, aren't named in the rule.
+
+Second, the contractor section. Contractors may provide technical support, system maintenance and training. And detection services that don't need the federal authority "may be provided by contractors." What contractors may not do is operate mitigation systems, make what the rule calls a credible threat determination, or carry out mitigation. Any arrangement that gives a contractor, in its words, "de facto operational control" of a mitigation system counts as an illegal delegation, and arrangements designed to get around the rule are banned too.
+
+Third, mutual aid. A police agency that's accredited can support one that isn't, and it then becomes the counter-drone operating agency, responsible for compliance. That matters when only about sixty certified officers exist nationwide.
+
+Fourth, the paperwork. Every agency needs a written policy that its lawyers review and that's renewed every year, an operations plan, a report every six months on detection, and a report within forty-eight hours of any takedown or seizure. Detections have to be counted once per actual drone, with duplicates removed. Officers who only detect and warn need a short online certification, about an hour by one account, and may never touch a drone in flight. Training from a private company does not count toward any of it.
+
+DroneXL used Houston as the example. The city council approved its FEMA application on November fourth for everything from detection to mitigation, before writing the policy the rule requires. The policy is due before the first operation, not before the grant. A compliance software firm called UAShield has already published a section-by-section guide, which tells you someone else is selling the paperwork layer.
+
+For your business idea, this is the clearest legal footing yet. A contractor-run detection service with radar, cameras and acoustics is expressly allowed, and so are maintenance and training. Design the hand-off so a certified officer clearly makes the call, avoid control-link interception unless the police customer runs it, and consider a regional model where one accredited agency covers several towns through mutual aid while your network gives it the shared picture and the reports. That last part is my inference, and worth checking with a lawyer.
+
+Counting drones honestly.
+
+On Fox News on Sunday, Homeland Security Secretary Markwayne Mullin called drones his number one issue and admitted there are holes in the department's ability to, quote, "be kinetic and bring down real threats," partly because shooting drones down raises airspace problems with the Federal Aviation Administration. He said federal teams encountered more than two thousand drones at the World Cup and seized seven hundred. DroneXL points out that a White House task force had logged one thousand one hundred thirty-nine by late June, and that a Customs and Border Protection adviser saw one drone appear as three detections on a command-center screen.
+
+Meanwhile, on November twelfth, Homeland Security's science directorate ran its fourth kinetic counter-drone test on Choctaw Nation land in Stringtown, Oklahoma. It covered requirements and standards, then live shots with interceptors and net systems, with state and local partners watching, and also Bahrain's ambassador, whose country has been hit by Iranian drones twice in a week. An earlier request for information said the test would measure falling debris and missed shots near bystanders.
+
+Here's the link to your idea. Any takedown at home needs a cue first, and the two-thousand-versus-eleven-hundred fight shows that clean, deduplicated drone counts are something buyers need. The rule now requires them, and that's software with no federal authority needed. Mullin also listed what he wants protected next: the Los Angeles Olympics, critical infrastructure, high school, college and NFL football, parades and, quote, "any mass gathering." That's a customer list.
+
+Counter-drone: lasers and learning sensors.
+
+The Pentagon named the seven teams for the counter-drone laser shoot-off that Joint Interagency Task Force four-oh-one runs at Dugway Proving Ground in Utah: Allen Control Systems, Aurelius Systems, AeroVironment's BlueHalo, Kord Technologies, Lockheed's partner I P G Photonics, Thor Dynamics, and Yrikka, which mounts a laser on a drone. They were chosen from thirteen white papers. Live fire starts by mid-December. The task force director, Brigadier General Matthew Ross, says systems that perform can, quote, "immediately result in a purchase order." In October the follow-on money was reported at up to two hundred million dollars. What's new is the field: small firms made the cut next to Lockheed. Lasers count as mitigation, so on US soil they stay with the military and, at most, certified police. For a homeland service, they're something your detection cues, not something you operate.
+
+On the sensing side, the Army Research Laboratory picked a company called Xtremis for a multi-year program called AUGUR SHIELD. It targets modified commercial drones that hop frequencies to dodge radio-frequency sensors, and the goal is to learn new radio signatures in real time instead of matching against a stored library. And at Fort Knox in early November, V Corps and the Defense Innovation Unit's Kentucky hub ran fifteen commercial vendors through a jamming and drone-tracking test. Both point the same way as last week's silent-glide jets: a signature library goes stale fast, and an independent test result is the cheapest credibility a small vendor can buy.
+
+One practitioner voice: a Substack writer looked at Japan's Terra Drone interceptor, which entered Ukrainian service in April with one reported Shahed kill. The company says that engagement cost a few thousand dollars against a target worth many times more. His point: defenses you can restock quickly beat an attacker who's trying to exhaust you. One kill isn't a track record, which is why shoot-offs matter.
+
+The battle of the bridges.
+
+Russia's Defense Ministry claims it downed thirteen hundred thirty-six Ukrainian drones on Sunday night and fourteen hundred forty-one last night, both records. Those are Russian claims. Moscow's mayor said about eight hundred were headed for the Moscow region, and four Moscow airports were put under restrictions. Reported hits include a substation in Kursk, an airfield in Novgorod region and an oil depot in Azov.
+
+Overnight, a road span of the Kerch bridge to Crimea reportedly collapsed into the sea. Open-source analysts attribute it to Ukraine's Flamingo cruise missile, possibly a version with a human in the loop, but that isn't confirmed. Russia halted road and rail traffic. And late Sunday, Russian ballistic missiles hit Kyiv's Northern and Southern bridges. The Southern bridge closed to cars and the metro, and parts of the city lost water and heat.
+
+The lesson for force protection is that both sides are going after the choke points of movement: bridges, rail, and the power that runs transit. Huge drone salvos saturate defenses so the missiles get through. Bridges and substations are also on Mullin's list.
+
+Hardening.
+
+Two items on the cheapest layer. Russian state media report that a firm called Barometer patented a wheeled steel wall for airfields, modules of metal plates on wheels that link into a continuous barrier to protect parked aircraft and ground crews. And in Britain's Parliament, a member asked why US jets at British bases sit in the open when, quote, "cheap physical security like hardened air shelters or revetments" exists. One analyst called British bases "massively vulnerable." Movable revetments are protection a site can deploy without any of the legal limits on mitigation.
+
+Casualty care.
+
+China's Air Force Medical University showed what it calls the military's first casualty-search drone, which finds a wounded soldier and fires a dart that injects emergency medication into the muscle. That's from Chinese state television, with no range or accuracy given, and the program says it's still experimental. Meanwhile Reuters reports that SkyFall, maker of the StarGate evacuation drone we covered Sunday, expects to build about a thousand a month by the end of this year, and the regiment that pioneered drone rescues is forming platoons that do nothing else. One flight covered sixty kilometers, half of it carrying a wounded soldier.
+
+Treatment is moving to the casualty before evacuation does. Each approach needs one thing nobody has solved: knowing the casualty's condition remotely before committing a scarce drone. That's a sensing problem.
+
+Money.
+
+MatrixSpace says its portable drone radar is now listed on the task force's counter-drone marketplace, a Pentagon catalog for fast buying. Named buyers are federal offices, military commands and approved allied ministries. Whether state and local police can buy from it is unclear, and that's the question to answer before you chase a listing. And the chief financial officer of Castelion, now valued at thirteen billion dollars, told Fortune, quote, "there is froth in the market."
+
+The one thing to think about.
+
+Today's rule text says you can run the sensors, keep them working and train the officers, but you can't be the one who decides or pulls the trigger, even informally. So the real product question is: how do you make a certified officer's decision fast, clear and well documented, from a picture your network provides, across several towns at once? If you can answer that in one diagram, you have the core of the business.
