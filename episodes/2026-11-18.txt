@@ -1,0 +1,63 @@
+Good morning Brad, this is your Modern Battlefield brief for Wednesday, November eighteenth.
+
+Here's the top line. The FBI says it has now trained about twice as many police officers to take down drones as the number we've been using, and more than twelve hundred people across three hundred forty agencies are certified to detect and warn. The Army is rushing to build concrete bunkers for troops at bases in Israel, Saudi Arabia and Lebanon, on a forty-five-day clock. And allies are paying for the cheap layer of Ukraine's air defense, meaning cameras, radars, cannon rounds and small missiles, as Ukraine keeps stopping about four in five of Russia's jet drones.
+
+The threat picture.
+
+Start with last night. Russia launched one hundred forty-one drones at Ukraine, seventy-three of them jet-powered Shaheds. By eight in the morning Ukraine said it had downed or jammed one hundred twenty-six, including fifty-nine of the jets. That's eighty-one percent. The two nights before were seventy-eight and seventy-one percent. So after the bad stretch last week, when the rate fell to around fifty to sixty percent, it has held in the seventies to low eighties for four nights. These early counts include jammed drones.
+
+The one in five that gets through is landing in new places. Yesterday Moldova closed its entire airspace after a Russian Geran drone crossed in from Ukraine's Odesa region twice. And a Shahed crashed about three hundred meters from the train station in Mukachevo, in far western Ukraine, where a Hungarian train crew had to be evacuated. Rail hubs and border crossings that carry allied crews are now part of the exposed supply chain.
+
+The Kerch Bridge, and how it fell.
+
+Yesterday we reported that a span of the Kerch Bridge to Crimea had reportedly collapsed. Now we know how. President Zelensky said the operation ran for weeks in seven stages, and the first stages hit Russia's air defenses, radars and electronic warfare equipment around the bridge. Only then came the final assault. Jet drones hit the road deck. Cruise missiles, including Ukraine's Flamingo and Neptune and a low-cost missile called Ruta from the Dutch firm Destinus, hit the rail section. Destinus says seven Ruta missiles struck on the second day and dropped a span.
+
+Here's why that matters to you. This was the most heavily defended crossing in the war, and it fell to a campaign that put out the defenders' eyes first, then massed cheap missiles. If you're protecting any fixed choke point, a bridge, a depot, a stadium, the sensors and jammers are the first target. They need their own protection, spares and backups.
+
+Detection and early warning.
+
+Two allied packages landed yesterday after the Ukraine Defense Contact Group met in Brussels. Canada announced about one hundred twenty million dollars. Roughly sixty-two million of it buys WESCAM electro-optical camera turrets for Ukraine's air defense, and Canada is also sending up to one point six million twenty-millimeter rounds from its own stocks, meant for use against Shaheds. You'll remember that on November fifteenth Ukraine said its F-16s needed eight hundred thousand cannon rounds for six months of drone hunting. Canada's offer would cover twice that, if the rounds fit the guns, which the report doesn't say. Britain, for its part, is sending more than a thousand short-range air-defense missiles and more than a dozen radars, worth two hundred forty million pounds, starting in mid-December. The pattern is that the money is going to eyes, bullets and small missiles, not more Patriots.
+
+On sensing, a Finnish company called Kelluu has put passive radar into the skin of its autonomous airships. Passive radar listens for TV, radio and cell signals bouncing off targets, so it transmits nothing an enemy can home in on. These are company claims: twelve-hour flights now, thirty-six planned, and flight hours up to one hundred eighty times cheaper than a crewed radar plane. A five-nation pilot starts early next year. After Kerch, sensing that gives off no signal looks a lot more valuable.
+
+And a research note. A new preprint, not yet peer reviewed, tested acoustic drone detection and found the standard way of splitting training and test data overstated accuracy by about two to three points. Clips cut from the same recording were ending up on both sides. Tested fairly, it still hit about ninety-five percent. The lesson for a buyer is simple: ask any detection vendor for results on recordings their model has never heard.
+
+Counter-drone at home.
+
+This is the item for your business idea. At a security briefing for this weekend's Las Vegas Grand Prix, police and federal officials laid out who does what. The F A A has flight restrictions over the Strip on the nineteenth through the twenty-first. Las Vegas Metro police watch the sky from their fusion center and go find the pilots. The Federal Air Marshal Service leads the actual drone takedowns, working with the F B I and the F A A, the same setup used at the Super Bowl and New Year's Eve.
+
+The new information is the FBI's training numbers. Its National Counter-Drone Training Center has now certified one hundred twenty-five officers from ninety-five agencies to take drones down. We've been using sixty-one, a figure from July, so that's roughly double. It plans up to three hundred twenty more in the coming year. And more than twelve hundred people from over three hundred forty agencies hold its detection-and-warning certification.
+
+For drone defense as a service, that twelve hundred is the number to remember. Those are trained people at real agencies who can take a contractor's detection feed and act on it. The Vegas model, where local police detect and find the pilot and a certified federal or regional team does the takedown, is exactly the hand-off a service would plug into.
+
+Counter-drone at the front.
+
+At the front, the close-in layer keeps getting cheaper. The Ukrainian company DevDroid has started mass-producing a small battery-powered ground robot called the Shumer. It has a thirty-kilometer range and a turret carrying two ordinary assault rifles and a thermal camera. Its software spots people out to three hundred meters, and it's meant for ambushes and for shooting down loitering drones. The whole thing costs about three hundred ninety thousand hryvnias, which the maker says is roughly the price of a good fiber-optic attack drone. And UFORCE, fresh off its seven-hundred-million-dollar raise last week, says its truck-mounted lasers have shot down drones in front-line trials. It gave no numbers, so treat that as a claim. Rifles on robots, shotguns on turrets, lasers on pickups: they all need a cue telling them where to look, and that fire-control layer is still the gap.
+
+Hardening.
+
+U.S. Army Central has put out an urgent call for sixteen concrete bunkers for troops at air bases in Israel, Saudi Arabia and Lebanon. The design is plain and fast: precast concrete culvert sections, steel doors, at least eighteen inches of sandbags overhead, four-foot sandbag walls on the sides, and six-ton blast barriers in front of the entrances. Builders got eight days to respond, quotes may get three, and the work must be done in forty-five days. The bunkers replace shipping containers that troops have been sheltering in. In Kuwait earlier this year, six U.S. troops were killed when an Iranian drone hit an operations center housed in a trailer.
+
+That's the hardening idea as an actual purchase: simple, prefab, personnel first, on a weeks-long clock. A firm with a pre-engineered shelter kit and local installers fits this demand, and the same kit fits stateside bases with "go to shelter" alerts like Lakenheath's last week.
+
+Casualty care.
+
+At a defense innovation forum in The Hague, the Ukrainian company Tencore showed an armored ground robot for evacuating wounded soldiers. It has ballistic protection, a shroud that hides its heat signature, and some autonomy. Because no medic rides along, it has a camera, microphone and speaker so the operator can see the casualty and talk to them the whole way. The co-founder admitted they can't build enough of them. Separately, Defense News ran video of a large Ukrainian drone flying a wounded soldier from the front to a field hospital. Two-way contact during an unmanned ride is the most basic form of care in transit. Monitoring and guided self-care on that ride are the open problems, along with plain production volume.
+
+Money.
+
+War on the Rocks ran a piece titled "R I P to the one point four five trillion dollar budget." The argument is that after the midterms, the three-hundred-fifty-billion-dollar reconciliation half of next year's defense request has no path. That half holds nearly all of the fifty-four point eight billion for the Pentagon's autonomous warfare group, most of Golden Dome, and twenty billion for strategic capital loans. Expect another stopgap funding bill past the December eleventh deadline, with few new starts and smaller Drone Dominance contracts. Meanwhile the Air Force gave Anduril a prototype deal for a container launcher that can fire different companies' missiles, with a target under five hundred thousand dollars a missile and a thousand or more a year. Drone Dominance also named eight finalists for its reusable drone bomber shoot-off.
+
+My read, and it's an inference: money that already exists, like base operations, force protection and state and local grants, is safer than new autonomy money right now. A business that sells into those budgets is less exposed to a stopgap year.
+
+AI.
+
+Google's threat intelligence team reports that attackers are now running AI agents that compare code before and after a security patch, find the hole, write the exploit and spread through a network with little human help. Google calls one Russian-speaking group's campaign the first fully automated attack. After last week's poisoned drone-software update in Germany, the point is that every networked camera, sensor and drone fleet is now a target for machine-speed attack. A detection service on a customer's network will be judged on patch speed and signed updates as much as on range.
+
+One thing to watch tomorrow: the Federal Communications Commission votes on spectrum for drone data links and for twenty-four gigahertz counter-drone radar, which sets where U.S. detection radars can legally operate.
+
+The one thing to think about.
+
+At Kerch, the defenders' sensors were the first thing destroyed. In Vegas, the defenders are trained people waiting for a sensor feed. Whatever you build, ask what happens on the day someone goes after your sensors first, and make sure the answer is not silence.
+
+That's your brief. Have a good drive.
