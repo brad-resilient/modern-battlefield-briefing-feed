@@ -1,0 +1,61 @@
+Good morning Brad, this is your Modern Battlefield brief for Saturday, November twenty-first.
+
+Here's the top line. Ukraine's Air Force has published its count for the huge salvo that hit early Friday: nearly all the cruise missiles and most of the drones were stopped, but only three ballistic missiles were. Three Russian objects came down in Poland the same morning, and Poland's top operational commander admitted his radar couldn't tell a cruise missile from a jet drone, so no one fired. And the threat on the ground keeps reaching deeper: cheap Ukrainian drones are now built to hunt supply trucks a hundred kilometers behind the line, which means Russia will learn from them too.
+
+The salvo, counted.
+
+Yesterday I said the numbers weren't out yet. Now they are, though they're still preliminary. Russia launched eighty-four cruise missiles and four hundred and four attack drones, a hundred and twenty-three of them jet-powered. The Air Force says it downed seventy-nine cruise missiles and three hundred and eighty drones, including a hundred and two of the jets. That's about eighty-three percent of the jets. It also says it downed three ballistic missiles. The final count doesn't say how many ballistic missiles were fired. The spokesman's early figure was up to twenty. If that holds, and this is my arithmetic, not theirs, only about three in twenty were stopped. Even so, there were hits at twenty-three sites, and three water-utility workers were killed in Kyiv.
+
+Last night Russia came back with a hundred and forty-eight drones, eighty-seven of them jets, plus three ballistic missiles. A hundred and seventeen drones were downed, and the jet rate fell to seventy-seven percent. There were still hits at nineteen locations.
+
+Here's the hard part. Kyiv's defenders now stop more than nine of every ten cruise missiles and drones on a five-hundred-target night, and that is still not enough. The gap is ballistic missiles. Only Patriot-class interceptors can do the job, and those are the ones the Center for Strategic and International Studies called heavily used with no substitutes. Jet drones are the other steady leak. Night after night the stop rate sits around eighty percent, so a hundred-and-twenty-jet night still lets about twenty through.
+
+The Gulf saw the same pattern. Houthi ballistic missiles went at a Saudi power plant and the port of Jizan. Saudi Arabia says it intercepted two, but debris still fell near the plant and Jizan lost power.
+
+Poland: seen, but not identified.
+
+Early Friday, eleven Russian objects headed toward Poland. Three came down inside it: a Kh-101 cruise missile at Nowy Lipowiec, a second object that Warsaw calls a missile, and what looks like a jet Shahed. All three landed in open fields. One roof was slightly damaged and nobody was hurt. Swedish and Polish fighters were in the air for hours. No one fired.
+
+The operational commander, General Ireneusz Nowak, explained why. He said not all the conditions for using weapons had been met. Polish radar sorts targets by what he called a speed index, and all three objects were going faster than eight hundred kilometers an hour. That means he could only assume each one was either a Kh-101 or a Geran-5 jet drone. The cruise missile was spotted about fifty kilometers out, roughly three minutes from the border. Some residents reportedly got alerts only after the explosions. It's the second Kh-101 to come down in Poland since July. After the first one, an analyst wrote a line that still holds: readiness to fire is not a firing solution.
+
+This is the same problem as the Lakenheath lights from yesterday, only at eight hundred kilometers an hour. Poland had fighters up and radars on, so detection worked. Identification is where it breaks down. A jet drone and a cruise missile now look alike on radar, the window is three to six minutes, and firing over your own villages rightly takes more certainty than that. Warning the people underneath is a separate problem, and it isn't solved either.
+
+More time over Kyiv.
+
+There's a research item that fits here. The Ukrainian data journalism outlet Texty rebuilt Russian drone flight paths from public monitoring channels. It counted only the distance flown inside Kyiv's city limits. From August first through October twentieth, more than six hundred and thirty drones flew over the city, twice last year's number. Together they covered more than nineteen thousand kilometers, compared with forty-three hundred last year. The average drone now flies about thirty kilometers over the city before it's stopped or it hits something, up from seventeen.
+
+So defenders aren't only losing on numbers; they're losing on time over the target, and every extra kilometer is more ground the mobile fire teams have to cover. One caveat: this is from civilian monitoring reports, not military radar.
+
+Rules and threat sharing.
+
+Quick follow-up on the Federal Communications Commission. The drone order passed three to nothing. The text still wasn't posted as of Friday morning, so the licensing details are still from the October draft. One new detail is that the eight-hundred-megahertz air-to-ground band can now serve drones. The rules still cover detection only, with no authority to disable or destroy anything.
+
+Two more items point at gaps. The Army is setting up a classified threat group with cleared companies, because requirement writers and builders don't share good threat models. And Canada is planning a downtown Ottawa counter-drone trial next July, asking for detection that is substantially different from today's, because small drones among buildings are where radar clutter and radio noise are worst.
+
+The interceptor gap.
+
+Ukraine's defenders are stuck between cheap propeller interceptors that can't catch jets and Patriot-class missiles that are far too scarce to spend on drones. Two projects this week aim at that middle ground. The Dutch defense ministry is moving toward launching WARDEN, a family of interceptor missiles with five-, ten- and twenty-kilometer versions. The longest-range one is a two-stage missile that flies at twice the speed of sound, priced at an estimated thirty to seventy-five thousand euros each. Ukrainian firms would build some of the parts. Testing starts in twenty twenty-seven. Separately, Sweden's Nordic Air Defense is handing Ukraine its K-two-hundred interceptor drone for testing. It's cued by ground radar, then homes on its own infrared camera. The company claims it can catch jet drones but has published no speed, range or results.
+
+So neither one will be combat-proven before next year. And the hard part hasn't changed: hitting something closing at six to eight hundred kilometers an hour takes a good radar cue and a seeker that works at night, in cloud and against decoys. Seekers have been the bottleneck since at least November twelfth.
+
+The kill zone keeps stretching.
+
+Ukrspecsystems unveiled a strike drone called Black Betty. It costs about half as much as their larger model and has a combat radius of a hundred to a hundred and twenty kilometers. The listed targets are transport, logistics, mobile fire teams and relay stations. It weaves automatically when it senses a threat, and the makers say none has been confirmed lost to an interceptor. More than a hundred are already in use. Another company, Stellarion, makes first-person-view drones that carry two batteries and drop the first one when it's empty. They claim fifty to eighty kilometers of range. And Ukraine says that in September alone, its units logged more than eleven thousand drone hits over twenty kilometers behind the front.
+
+Why does this matter? Fuel crews, supply drivers and casualty-evacuation vehicles used to be fairly safe twenty kilometers back. Ukraine is now showing that a cheap drone can hunt them at a hundred, and Russia copies what works. Nets, short-range guns and interceptor drones were designed for a band a few kilometers deep. Stretching that to a hundred kilometers of road needs more material and more crews than any army has.
+
+Casualty care: the rifleman as caregiver.
+
+The hundred-and-first Airborne's Second Mobile Brigade, working with Vanderbilt, has built a program called ARMOR. It adds six modules to standard combat casualty care, including bleeding control, whole-blood transfusion, pain control, wound care and prolonged care, and it's taught to ordinary soldiers, not medics. Three platoons trained this summer, and three more served as a control group. This month both groups ran an exercise at Fort Campbell with rising casualties, a constant drone threat and delayed evacuation. No results are out yet. One of the researchers put it simply: you will have several hours before the medic can get to you. The brigade surgeon said soldiers trained to today's standard often don't help their medic as much as they could.
+
+The hard part is that the person keeping a casualty alive for hours is usually the rifleman beside him. That training competes with everything else a platoon has to learn, the skills fade fast, and whole blood has to come up the same contested roads as everything else. The hundred-and-first's side-by-side comparison is one of the few real attempts to measure whether this works.
+
+Money: production moves west.
+
+SkyFall and Auterion will build drones in Germany with German government funding, and Quantum Frontline Industries plans to grow its German plant fivefold next year. The stated reason is to keep production out of reach of Russian strikes. But this month brought a sabotage plot against an Estonian drone maker, a poisoned software update at Quantum Systems and new Chinese export licenses on drone parts, so Europe isn't really out of reach either. And the farther the factory is from the front, the slower the feedback from the crews using the drones. In the US, the Army's Global Tactical Edge Acquisition Directorate will now give five or six small contracts after each field event instead of one. It starts with autonomous ground vehicles for resupply and casualty evacuation. More small awards still don't add up to production orders.
+
+One thing to think about.
+
+Put yourself in General Nowak's chair. Something is coming in at over eight hundred kilometers an hour. It could be a cruise missile or a jet drone, and the radar can't tell you which. You have about three minutes before it's over your own farms and towns, fighters in the air, and rules that require you to be sure before you shoot. Then picture the same choice spread across every NATO base, power plant and city as Russia mixes jets and missiles in the same raid. The hard problem isn't seeing the object. It's naming it fast enough to act. That's hard because the threats now overlap in speed and radar signature, because every wrong shot over your own territory carries real risk, and because the time to decide keeps getting shorter while the rules, sensibly, demand more certainty.
+
+That's your brief. Have a good Saturday.
