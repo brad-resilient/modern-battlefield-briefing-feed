@@ -1,0 +1,61 @@
+Good morning Brad, this is your Modern Battlefield brief for Sunday, November twenty-second.
+
+Here's the top line. Last night Iran fired two waves of drones and ballistic missiles at four American bases in Bahrain, and once again it aimed at the air defenses themselves. We also learned why nobody fired at the Russian missile over Poland on Friday: a Swedish pilot had permission, but the weather kept him from confirming what it was. And in Ukraine, four years into Russia's campaign against the power grid, eighty-four major substations still don't have adequate protection.
+
+Bahrain.
+
+On Saturday night Iran launched two waves of drones and ballistic missiles at four US bases in Bahrain, which hosts the Navy's Fifth Fleet. Iranian media named two of them: Sheikh Isa air base and the Juffair naval area. Bahrain told residents to take shelter and says its air defenses intercepted several of the attacks. A fire broke out at a civilian industrial compound, with no injuries reported. Iran's Revolutionary Guards claim they hit two Patriot batteries and a radar. Neither Bahrain nor the US has confirmed that, so treat it as a claim. The same day, at least three tankers were hit near the Strait of Hormuz.
+
+This is the third time in a week Iran has gone after air defenses in Bahrain, and the first time it's been a mixed salvo against several bases at once. That's the same recipe that hurts Kyiv: cheap drones to soak up attention, and ballistic missiles that only Patriot-class interceptors can stop, aimed at the Patriots and the radars. Every intercept spends a missile that the Center for Strategic and International Studies has rated heavily used, with no substitutes. And the people on those bases need somewhere to go, which is why the Army is trying to get concrete bunkers built in the region in forty-five days.
+
+Poland: cleared to fire, couldn't see.
+
+On Friday I told you Poland's commander said his radar couldn't tell a cruise missile from a jet drone. Now there's a second layer to it. General Ireneusz Nowak says one of two Swedish Gripen pilots was authorized to shoot down a target over Poland. The pilot thought it was probably a Kh-101 cruise missile, but in bad weather he couldn't confirm it by eye or with his onboard cameras, so he didn't fire. NATO's air operations center left that call to the pilots.
+
+The next morning, while Ukrainian drones hit Russia's Leningrad region, Finland closed airspace over the eastern Gulf of Finland and shipping near Kotka, in case it had to shoot something down. Estonia pushed a drone warning to phones in two counties. And a Russian cargo ship bound for Kaliningrad caught fire not far from Estonian waters; Finland's border guard chief says Ukrainian drones hit it.
+
+Here's the hard part. The rule that a pilot must be sure before firing over his own towns is a good rule. But it means cloud cover protects the attacker. The radar can't settle it, the pilot can't settle it, and there are only minutes to decide and to warn people on the ground.
+
+The overnight numbers, and what the front can't see.
+
+Overnight Russia sent a hundred and eighty-six drones at Ukraine, seventy-two of them jets. The Air Force says a hundred and sixty-one were downed, including fifty-six jets. That's about seventy-eight percent of the jets, the same band of seventy-seven to eighty-three percent we've seen for a week. There were still hits at eighteen sites. In Dymer, just north of Kyiv, a five-story apartment building was destroyed top to bottom, and rescuers think up to seven people may be under the rubble. On Friday a soldier in Odesa region knocked down two jet drones with two shots from a shoulder-fired missile. That works, but each shot spends a scarce missile, and the team has to be in the right place with a few minutes' notice.
+
+On the front itself, Ukraine's General Staff counted more than six thousand Russian attack drones in one twenty-four-hour period. A volunteer engineering group that works with Ukrainian units put the detection problem bluntly in its November update. Ukraine tracks the big, loud Shaheds well, and anything that gives off radio signals. But, quote, "that leaves fiber-optic and autonomous FPVs out." A drone flying on a fiber-optic cable, or flying itself, emits nothing for a radio detector to hear. What's left is spotting a small, fast object by eye, camera or sound, close in, with seconds to act. The same group says Ukraine's F-16s are hunting Shaheds with radars that are forty years old, and that civilians in Kharkiv drive through net tunnels because even twenty kilometers back they aren't safe from FPVs.
+
+Interceptors: still on the way.
+
+Two more fast interceptor projects surfaced at a defense innovation forum in The Hague. A Dutch firm, Hope Industries, is building a jet-powered interceptor it says will reach eight hundred kilometers an hour, with first flights as early as December. A Latvian company, Rannon, is building a small rocket, about a kilo, fired from drones in packs of four to twelve, with a range of about three hundred meters. Both are prototypes, and both are company claims. Like the Dutch WARDEN missile and the Swedish K200 from yesterday, nothing here will be proven in combat before next year.
+
+That's the defenders' bind this winter. The gap is the jet drone, and the help on paper arrives in twenty twenty-seven. Hitting something head-on when the two of you are closing at well over a thousand kilometers an hour leaves a camera or an operator a fraction of a second, and the radar has to put the interceptor in the right patch of sky first. Until then, the load stays on guns, fighters and short-range missiles that are already in short supply.
+
+Roads and bridges.
+
+In Ukraine's Operation Bear Trap, a counteroffensive in northern Kharkiv region, the 475th Assault Regiment says it used drones to lay mines on every Russian supply route up to thirty kilometers inside Russia, to stop reinforcements reaching the front. Starlink doesn't work over Russia, so it built its own mesh of radio repeaters to keep control of the drones. The loss figures they claim are unverified.
+
+Meanwhile, President Zelensky says Russia struck Ukrainian bridges a hundred and nine times with missiles and drones before Ukraine ever hit the Kerch bridge, mostly with Iskander ballistic missiles. A drone hit a rail station in Sumy region on Saturday, and Ukraine's defense minister says the Kerch bridge repairs could take months.
+
+The hard problem is that a supply route can now be closed without anyone standing on it. Drones seed mines at night thirty kilometers back, and the convoy finds them in the morning. Clearing a road you can't watch is slow and dangerous, and a bridge can't be moved or hidden.
+
+The grid's unfinished armor.
+
+A Ukrainian lawmaker, Serhiy Nahornyak, says the grid operator has settled on reinforced concrete enclosures, he calls them sarcophagi, to protect transformers, and that there is no alternative to that kind of passive protection. Yet eighty-four of the national operator's substations still don't have adequate protection, and the network won't be fully covered by the end of this year. The International Energy Agency says retrofits are expensive, repair crews keep getting stopped by air alerts, and getting replacement equipment connected has often taken months.
+
+This is a team that has known for four years exactly what the target is, has picked a fix that works, and still can't finish. Each enclosure is heavy construction at a live, high-voltage site that's under attack itself. US bases face the same arithmetic: passive protection is dependable, but slow to build at scale.
+
+Casualty care: seven flights, same wait.
+
+The StarGate evacuation drone flew seven evacuations during Operation Bear Trap, so for at least one regiment, flying the wounded out is becoming routine. But an analysis from the Center for European Policy Analysis collects the limits from the people who do it. A senior combat medic says big aerial drones are easy targets, including for fiber-optic drones. In his words, "There's nowhere to hide in the sky." Ground robots can hide in ditches and carry mine-resistant capsules, but they're slow. A mortar battery commander says air evacuations work best in rain or fog. And a volunteer surgeon says the golden hour is gone: the worst-stranded casualties wait weeks or months, often with tourniquet complications, and long delays breed drug-resistant infections. Every way out fails under different conditions, and the casualty waits while medics pick the least bad one.
+
+Money and oversight.
+
+Pressure over Starshield, the military version of Starlink, has moved from letters to budgets. Senator Chris Coons says the on-and-off service is killing civilians, and he plans an early Senate hearing in January. Representative Jim Himes, expected to chair House Intelligence, says his committee can't approve spending on systems the government doesn't fully control, and may hold up money for some SpaceX projects. Five weeks on, nobody has said who set the speed cap. Separately, Britain will fund production of Ukrainian strike drones, and NATO is designing repair centers closer to the front, which means faster turnaround, but workshops inside drone range.
+
+Your weekly.
+
+Since it's Sunday, the weekly synthesis is in the archive next to today's brief. It covers November sixteenth through twenty-second, and it's built around the week's hardest unsolved problems: naming a fast target in minutes, keeping the defense's own radars and links alive, ballistic missiles getting through, the rear area falling inside the kill zone, and casualties waiting with a rifleman, not a medic, beside them. It also tracks which of our standing questions moved.
+
+One thing to think about.
+
+Go back to that Gripen pilot. He's in cloud over Poland, cleared to shoot, and his best guess is a cruise missile. If he's right and he fires, he may save a town. If he's wrong, he may have just shot down something else, over his own ally's villages, on a guess. He held fire, and by the rules he was right to. Now notice who benefits. The attacker can choose to fly on nights when clouds blind the last check, and in Bahrain the attacker aims first at the radars that do the first check. The hard problem isn't building more sensors. It's getting enough certainty, fast enough, when the enemy picks the weather and shoots at your eyes. That's hard because each fix, a better radar, a closer look, a looser rule, either takes years, puts the defender at risk, or puts civilians at risk.
+
+That's your brief. Have a good Sunday.
