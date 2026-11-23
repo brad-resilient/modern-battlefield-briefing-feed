@@ -1,0 +1,67 @@
+Good morning Brad, this is your Modern Battlefield brief for Monday, November twenty-third.
+
+Here's the top line. The death toll in Dymer, the apartment block outside Kyiv, has reached eleven, and rescuers had to keep stopping to take cover from new air-raid alerts. Overnight, Ukraine stopped only seventy percent of the jet-powered drones Russia sent, down from about four in five all last week. And the follow-ups are in: the US says Saturday's Iranian strike on Bahrain did no damage to American forces, while Bahrain reports two civilians hurt, and Poland now says all three objects that fell on its soil were brand-new Russian cruise missiles.
+
+Since it's Monday, this covers the weekend, and I'll skip what I already told you Saturday and Sunday unless something changed.
+
+Dymer.
+
+On Sunday I told you up to seven people might be under the rubble in Dymer. It was worse. A Shahed-type drone brought down a whole stairwell section of the five-story building. More than a hundred and thirty rescuers worked through the night. They pulled out a seven-year-old boy alive on Sunday evening, and a seventy-nine-year-old woman at about three thirty this morning. By this morning, the regional governor put the dead at eleven. The Kyiv region has declared today a day of mourning.
+
+Here's the part that matters for us. Over and over, air-raid alerts forced the rescuers to stop digging and take cover. Rubble rescue is a race against crush injuries, cold and blood loss. Every alert stops the clock for the rescuers, but not for the people trapped underneath. So the crew chief has to weigh his own people's lives against the next wave, again and again, all night. That's a problem with no good answer as long as drones keep coming.
+
+The jet number slipped.
+
+Overnight Russia launched a hundred and fifty-three drones, sixty of them jets. The Air Force says a hundred and thirty-four were downed or jammed, but only forty-two of the jets. That's seventy percent. For six straight reports last week the jet rate sat between seventy-seven and eighty-three percent, so this is a step down. One night isn't a trend, but the margin was already thin. At seventy percent, eighteen jets got through on an ordinary night. And Ukraine's prime minister warned a week ago that Russia could launch up to sixty-five hundred jet drones this month, about twelve times August's number.
+
+Why is it hard? A jet drone flies about twice as fast as the old propeller Shahed. The gun crews and interceptor teams that learned to handle the slow ones now get roughly half the time. The interceptors built for jets, which we covered Saturday and Sunday, are still prototypes, and they won't arrive in numbers until twenty twenty-seven.
+
+Bahrain follow-up.
+
+The open question from Sunday was whether anyone would confirm damage from Saturday night's Iranian attack on Bahrain. So far, no one has. A US official told CBS News the attack caused no damage to American personnel or facilities. Iran now says it hit two Patriot radars, at bases in Riffa and Awali, and it released footage it says shows American drones shot down near Hormuz. Nobody has verified either claim.
+
+What Bahrain did confirm is about its own people. Falling debris damaged property, a civilian industrial site burned, near a refinery according to residents, and two people were hurt, a Bahraini in stable condition and a Pakistani worker in critical condition. That's the hard part. Juffair, the naval base, sits inside the capital. When a base in a city defends itself, the debris and the misses land on the neighbors. So far, the people paying for Iran's strikes on air defenses are the ones living around the bases.
+
+Drones far from the front.
+
+Two strange stories from Saturday show how far this reaches. In Baltiysk, the home of Russia's Baltic Fleet in Kaliningrad, residents reported explosions, drones and air-defense fire. The governor's first alert said a suspicious object coming from the direction of Lithuania was no threat. Then the guns opened up. No damage is confirmed.
+
+And in Benghazi, Libya, a Russian navy corvette that had escorted an arms convoy blew up at the pier. Satellite photos show about half the ship burned, and Libya's government says it was likely a drone. That same evening a Russian cargo ship off Benghazi caught fire, and open-source analysts blame a Ukrainian sea drone. Nobody has claimed either one.
+
+The problem here is that a port thousands of kilometers from any front now needs the same drone watch as a forward base, and almost none of them were built for it. A ship tied up at a foreign pier depends on someone else's air defense.
+
+Gaps at home: Canada.
+
+Here's one closer to home. Canadian reporters got air force records through an access-to-information request. They describe seven drone cases at two air bases, Trenton in Ontario and Cold Lake in Alberta, over the last two years. No interception was attempted in any of them, and no operator was ever found. At Trenton, a detection system that went live in March twenty twenty-five was switched off for a planned power outage when a camera drone buzzed the runway. Five days later, with the power back on, it missed another drone. A report on Cold Lake says it has no means of tracking small drones at all. The defense department wouldn't comment.
+
+A former Mounted Police counter-drone specialist put it simply: a very complex problem, and no easy solution. And notice what failed: a maintenance outage and a sensor that missed. Keeping a detection system running every hour of the year, with backup power and somebody watching the screen, is a staffing and upkeep problem as much as a technology one. Base security staff own it, and they usually can't say publicly what went wrong.
+
+Poland follow-up.
+
+On Saturday and Sunday we talked about the objects over Poland that nobody fired at. Investigators now say all three were Kh-one-oh-one cruise missiles, not two missiles and a jet drone as first reported. Even more striking, they traced all three to a factory near Moscow and to the last quarter of this year. So those missiles were built no more than about seven weeks before they fell. Poland has asked for a NATO council meeting. It wants airborne radar planes over its territory, more air power, and a review of NATO's rules so pilots can engage faster.
+
+The hard part is that the answer came from wreckage, days later. In the air, someone still has to decide in minutes, often through cloud. And loosening the rules to shoot faster over your own towns trades one risk for another. That's why those rules change slowly.
+
+The silent drones get bigger.
+
+A Ukrainian adviser on electronic warfare, Serhii Beskrestnov, known as Flash, says Russia has started flying its Molniya fixed-wing drones on fiber-optic cables, at about fifty meters, up to thirty kilometers into Ukraine's rear. A drone on a cable gives off no radio signal, flies under most radar, and can't be jammed. Some Ukrainian crews have spotted and shot them down, by eye. Last week a volunteer engineering group warned that fiber-optic quadcopters were invisible to radio detection close in. Now a bigger, longer-range drone is doing the same thing thirty kilometers back, where the supply drivers are.
+
+There's a supply twist, too. A Ukrainian engineer says fiber-optic cable has gone up six to ten times in price as data centers buy it up, and that Russia bought something like thirty-seven million miles of it last year, while some Chinese suppliers won't sell to Ukraine at all.
+
+Cheaper shots, and unproven ones.
+
+Two items on the cost of a kill. Belgian F-16s on NATO air patrol in Lithuania were photographed carrying seventy-millimeter laser-guided rockets made for shooting down drones. Fighters on drone duty have been firing air-to-air missiles that cost far more than their targets, so this narrows the gap, but the pilot has to hold a laser on a small target the whole way in.
+
+And the US Army wants a third company to compete to replace the Stinger, the shoulder-fired missile. The target is under two hundred thousand dollars a missile, for about eleven thousand of them, and it has to hit drones head-on and crossing at five to eight kilometers. Live-fire tests are in mid twenty twenty-seven, with low-rate production by late twenty twenty-eight. The Army will judge hits first and cost after.
+
+Closer in, the Army disclosed that instructors at Fort Benning tested four shotgun loads against three-D printed drones in September. It hasn't published the hit rates, and nothing's been chosen. Expert shooters against printed targets don't tell you what a tired rifleman does against a real attack drone, and a hit doesn't prove the drone was stopped before it reached anyone. A shotgun also means another weapon and another ammunition line for a squad that's already carrying too much.
+
+Nets on armor.
+
+Finally, both armies are now draping bright green nylon nets, like fishing nets, over the cages on their armored vehicles. A Russian infantry fighting vehicle wore one across the gray zone near Toretske on November eleventh. It didn't save it, the vehicle took repeated drone hits before it stopped. A captured Russian tank in Ukrainian service has one too. Each layer buys minutes, not safety, and nobody has test data on how many hits a net can soak up.
+
+One thing to think about.
+
+Put Trenton and Dymer side by side. At Trenton, the sensor was switched off for an ordinary power outage, and that's exactly when the drone came. In Dymer, the rescuers had to stop every time the warning sounded, which is exactly when the trapped needed them. In both places, protection has gaps in time, not just gaps in coverage. A sensor has to be maintained. Crews have to sleep. Warnings have to pause the work that saves lives. And an attacker who watches long enough can learn when those gaps open. The hard problem is keeping a defense alive every hour, not just at its best hour. That's hard because it's paid for in people, power and maintenance, the least glamorous parts of the budget, and because nobody notices a gap until something flies through it.
+
+That's your brief. Have a good Monday.
