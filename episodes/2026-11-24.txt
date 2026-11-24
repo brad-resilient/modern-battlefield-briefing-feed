@@ -1,0 +1,59 @@
+Good morning Brad, this is your Modern Battlefield brief for Tuesday, November twenty-fourth.
+
+Here's the top line. Ukraine's stop rate against Russia's jet-powered drones held at seventy percent for a second night, well below last week's range, even as President Zelensky says better interceptors are ready to buy. NATO gave Poland an early-warning aircraft after the three cruise missiles that fell there on Friday, and pushed everything else to next week. And small drones keep hitting police and army posts in Colombia, while the US Navy says three drones flew near its air station in Sicily.
+
+The jet drones.
+
+Overnight into this morning, Russia launched ninety-six drones at Ukraine, sixty-four of them jet-powered. Ukraine's Air Force says seventy-three were shot down or jammed, including forty-five of the jets. That's seventy percent, almost exactly the same as the night before, when forty-two of sixty were stopped. Drones hit thirteen locations.
+
+Two things stand out. First, the rate didn't bounce back. For six straight reports last week it ran between seventy-seven and eighty-three percent, and now it has sat at seventy two nights running. Second, the mix is shifting. Two-thirds of last night's raid were jets, up from about two in five the night before. Nineteen jets got through on a raid of fewer than a hundred drones.
+
+On Monday evening Zelensky said Ukrainian makers now have, quote, "more effective interceptors against jet-powered Shaheds," and he wants contracts for as many as possible. He pointed to an upgraded interceptor that reaches five hundred kilometers an hour, alongside a jet-powered interceptor fielded back in August. He gave no numbers on how many are in the field.
+
+Here's why that's hard. The mobile gun teams and the propeller-driven interceptors that carried the load against the older Shaheds get about half the reaction time against jets. A faster interceptor is only part of the answer. It also needs trained crews, launch sites spread across the country, and radar cueing quick enough to put it in front of a target moving several hundred kilometers an hour. Signing contracts is a start, but the crews and the radar network around them take months to build.
+
+Poland and NATO.
+
+Poland asked for an emergency meeting of NATO's governing council after three Russian Kh-101 cruise missiles fell on its territory last Friday. The council met in Brussels on Monday. Allies agreed to send an AWACS, the airborne early-warning plane, and to grant some of Poland's other requests, which weren't spelled out. Poland's deputy defense minister said every ambassador expressed full solidarity and understood that Friday's attack was not an isolated incident. Proposals for more air defense, including more allied fighters, go to NATO foreign ministers next week.
+
+An AWACS helps. It sees farther and lower than radar on the ground, which matters for cruise missiles that hug the terrain. But Poland's problem on Friday wasn't only seeing. Its radar couldn't tell a missile from a jet drone, and a fighter pilot cleared to fire held off because cloud kept him from confirming the target over Polish villages. A better picture doesn't change who's allowed to shoot or how fast, and changing that takes agreement among thirty-two countries. So the hard part has moved to next week's meeting.
+
+Bases that can only watch.
+
+Stars and Stripes reports that three drones were detected late Friday near Naval Air Station Sigonella in Sicily. Sigonella is a logistics hub and a launch point for long-range reconnaissance drones supporting US operations against Iran. The Navy says the drones were, quote, "actively monitored," and did not affect base residents or critical infrastructure. It wouldn't say more, citing operational security. Open-source accounts say the drones flew near a family housing complex and that at least one military flight was diverted. The Navy hasn't confirmed either, and nobody has said whether they were intercepted or who flew them.
+
+"Actively monitored" is often all a base overseas can do. It sits under host-nation law, next to family housing and a busy airfield, where jamming or shooting carries its own risk. Sigonella joins Lakenheath, Naples and the Canadian bases on a growing list of sightings where the public never learns what the drones were. That makes it hard for anyone outside the fence to know whether the defenses are working.
+
+Colombia.
+
+Now to Colombia, where drones have become a daily weapon for armed groups. On Monday a drone hit a police base in Cúcuta, a city on the Venezuelan border. At least three civilians were hurt, including an eighteen-month-old boy, and sixty homes were damaged. On Saturday a drone and rocket attack on an army battalion headquarters in Cesar province killed one soldier and wounded at least twelve. Colombian radio counts at least ninety-three drone attacks in the new president's first hundred days. Of twenty-six army personnel killed in that time, at least eleven died from drone-dropped explosives.
+
+Colombia's defense minister says the last government's planned anti-drone shield produced little. A retired colonel told Breaking Defense the attacks hit units on the front line that have no counter-drone protection at all. And analysts point out that shooting drones down does nothing about the networks that buy, modify and train with them. Colombia is facing Ukraine's tactics without Ukraine's air defenses. And when a police base sits inside a neighborhood, the defenders can't jam or shoot freely without hurting the people next door.
+
+Los Angeles and the Olympics.
+
+At home, the Los Angeles police chief laid out what worries him about the twenty twenty-eight Olympics: farm spray drones from the Central Valley, and drones carrying explosives. No specific plot has been reported. The department bought its counter-drone gear for the World Cup with a federal grant of about nine point eight million dollars: radio sensors at twenty-four fixed sites, two fixed sites for taking drones down, mobile units and a handheld device. Its officers are trained and waiting on equipment delivery.
+
+The scale is what makes this hard. The World Cup was one tournament. The Olympics means twenty security footprints over more than forty days, and about nine thousand four hundred officers for venue security, more than the whole department. California's share of the next federal counter-drone grant round is forty-six percent smaller than its World Cup award. Local police have only been allowed to take down drones since July, and only certified officers with a lawyer-reviewed policy and coordination with the Federal Aviation Administration for each operation. The radio sensors listen for consumer drone control links, which a homemade drone may not use. And in March, fifteen commercial spray drones were stolen from a New Jersey warehouse with forged paperwork and weren't recovered for a month.
+
+Ships far from the front.
+
+A follow-up on yesterday's port attacks. Ukraine's security service now claims that seven Ukrainian sea drones, launched from what it calls a mothership, sank the Russian corvette Merkury at its pier in Benghazi, Libya, and damaged a cargo ship outside the harbor. Satellite images show the corvette capsized. The mothership and the launch point are unconfirmed. Separately, on Saturday two drones hit a sanctioned Russian cargo ship, the Sparta Two, in the Gulf of Finland on its way to Kaliningrad. It lost steering and burned into Sunday, and its sixteen crew were taken off. Finland's military says Ukraine was likely behind it.
+
+The War Zone notes that Benghazi had essentially no booms or barriers in the water. Russia built exactly those defenses at Sevastopol and the Kerch Bridge, but only after years of attacks. A navy can't do that at every foreign pier it visits, and if drones can be launched from an ordinary-looking ship offshore, the threat isn't only from the coast. Any port can become a front line overnight, and barriers take months to put in place.
+
+The medic's day.
+
+Censor dot net spent a day with a senior combat medic in Ukraine's Third Assault Brigade, call sign Staff. He had no medical background before twenty twenty-two. Today he treats wounded, screens new arrivals, restocks every soldier's first-aid kit, teaches tourniquets, and plans evacuations in stages so no single vehicle has to drive all the way to the hospital. He says the concussion pill pack runs out very quickly. He says teaching is hard because soldiers are, quote, "tired, exhausted; they want to rest." And he says he spends a great deal of time on paperwork, including referrals to medical boards with huge queues.
+
+The front-line medic is also the clerk, the trainer, the pharmacist and the evacuation planner, and every hour of paperwork comes out of preparing for the next casualty. The concussion medicine running out fits the Navy study we covered earlier this month, which found about half of US troops wounded by drones had brain injuries. And no curriculum fixes trying to teach soldiers who are too exhausted to learn.
+
+Money.
+
+Two funding rounds, both reported as facts. Pai Defence, a British-Ukrainian company, raised five million dollars to track drones by their radio signals. Its chief executive says a detector beeping as a drone arrives overhead is far too late, and that units still track much of the drone activity around them by hand. And London-based Agon raised seventy million dollars at a four-hundred-fifty-million-dollar valuation for simulation software that tests how military drones and robots behave before they're fielded. Both rounds point at problems units still have. Soldiers have no shared live picture of the drones above them, and radio tracking can't see fiber-guided drones at all. Autonomous systems are being fielded faster than anyone can test them against real jamming, weather and decoys.
+
+One thing to think about.
+
+Here's the one to sit with today. Sigonella watched three drones. A Colombian police base was hit inside a neighborhood. Bahrain's injured on Saturday were civilians near the base. More and more of the places that need protecting sit among people, and the defenders there can usually see a drone long before they're allowed to do anything about it. The hard part isn't detection. It's the decision to act over a town, with uncertain identification, divided legal authority and the risk that the intercept itself hurts the neighbors. Nobody has worked out how to make that decision fast and safe at the same time, and the drones keep getting faster.
+
+That's your brief. Have a good Tuesday.
