@@ -1,0 +1,57 @@
+Good morning Brad, this is your Modern Battlefield brief for Wednesday, November 25th.
+
+Here's the top line. Ukraine stopped forty-seven of sixty-six Russian jet drones overnight, about seventy-one percent and the third night in a row near seventy, so this is starting to look like the new level. Across the front, drones are going after the vehicles that move people: a medical vehicle, a power-repair truck, a railway station and thousands of supply robots. And the White House has asked Congress to more than double counter-drone interceptor purchases in the next stopgap budget, while a count of leaked Russian death records suggests more than seven hundred thousand Russian troops have died.
+
+The jet-drone number.
+
+Starting at six last evening, Russia launched one hundred twelve drones, and sixty-six of them were jets. Ukraine's Air Force says eighty-eight were downed or jammed, forty-seven of them jets, and there were hits at eighteen locations. In Kyiv, debris set a sixteen-story apartment building on fire.
+
+Put the last three nights side by side: forty-two of sixty, forty-five of sixty-four, now forty-seven of sixty-six. That's seventy, seventy and seventy-one percent, after a week in the high seventies and low eighties. Every night, eighteen or nineteen jets get through, even as the raids grow. The defenses that work on the slower drones, truck-mounted gun teams and propeller-driven interceptor drones, just can't catch something cruising at four hundred fifty kilometers an hour or more.
+
+Quantum Systems, the German drone maker, says its joint venture's SPYS interceptor shot down a Geran-5 jet drone in combat testing. That's the company's own claim, with one video frame and no date, place or number of tries. One kill is a long way from changing a nightly number. Every new interceptor still needs crews, launch sites and radar warning fast enough for a target that covers a kilometer in under ten seconds.
+
+Detection.
+
+Two quick detection items. First, The War Zone reports that in an October Army test in Morocco, a small four-wheeled robot called the FireAnt carried six little sensors and set them out on the ground to build a local drone-warning network. The idea is to put cheap, passive listening sensors forward, where a radar would be too expensive and too easy to find, without sending a soldier to place them. The catch is something Army leaders have admitted for years. Lots of sensors make lots of data, and someone has to network it, standardize it and fuse it before it becomes a warning anybody can use. The War Zone compares it to the Vietnam-era trail sensors, which were expensive and got mixed results.
+
+Second, a Poland follow-up. On Sunday evening a Russian reconnaissance drone with cameras crossed into Poland near Dorohusk. Three air-defense systems tracked it for several minutes and permission to shoot it down came through. Then it turned back east, and commanders held fire because of the risk to people on the ground. Poland called it deliberate and summoned Russia's ambassador. This time the tracking and the authority both worked. The shot still wasn't taken.
+
+Counter-drone, up close.
+
+Ukrinform profiled a sergeant called Wasp, who leads a four-man security team guarding a French CAESAR howitzer. Their kit is rifles with red-dot sights, a shotgun that works on first-person-view, or FPV, drones out to about seventy meters, and a machine gun. Once a small drone spots the gun, he says, Russia sends Lancets, fixed-wing Molniyas and whatever else it has. Some get through. A damaged gun gets moved, patched and put back, or swapped out. On an earlier position his team fought off eighteen drones in two hours, and once they burned diesel-soaked rags in front of the barrel so the gun looked already destroyed, and the drones left. Two of his company were killed by a glide bomb while they were shooting at an FPV. His summary: it's simply impossible to shoot down every single thing they send.
+
+That's point defense in practice: four people per gun, all day, with small arms and judgment. It keeps the gun firing, but it ties down a squad for every high-value weapon, it does nothing against jets, and the people doing it are out in the open.
+
+Related, Ukraine's twenty-first Mechanized Brigade got its first German Lynx infantry fighting vehicles, and its corps says they'll partly fly counter-drone missions with airburst thirty-millimeter rounds. The War Zone points out the Lynx has no radar of its own, so the crew has to find a small drone through narrow optics from inside a closed vehicle. That's very hard, and a vehicle shooting at drones isn't doing its main job.
+
+Moving through the kill zone.
+
+This was the strongest thread of the last two days. On Monday a drone hit the railway station in Korosten, killing one local resident and injuring three. The railway's monitoring center had sent out a threat warning, the crew of a nearby train ordered everyone out, and most passengers and staff made it to a permanent shelter. Early this morning a small FPV drone hit a power company repair crew's truck near the front in Dnipropetrovsk region. The workers were out inspecting lines, away from the truck, and nobody was hurt. And Ukraine's Defense Ministry says its drone units have destroyed or disabled four thousand seventy-three Russian ground robots so far this year, between two hundred and five hundred a month, mostly machines Russia uses for supply. Those are Ukrainian figures.
+
+Put those together and the pattern is clear. The repair crew lived because they weren't in their truck, and the passengers lived because the warning came in time and a shelter was close. Robots were supposed to take people off the supply roads, and they're getting hunted like every other vehicle. No one has found a way to move people or cargo through this zone that the drones don't eventually find.
+
+Casualty care.
+
+Two items. First, a Ukrainian military channel posted video from Sunday evening near Druzhkivka: three Russian FPV drones hit a brigade's armored medical vehicle in about ten seconds. The driver, call sign Grinch, was wounded by shrapnel and kept driving. The crew loaded their wounded and got back on a damaged wheel. That hasn't been independently checked, but it fits everything else in the archive. Separately, a Russian strike damaged a hospital building in Odesa on Monday. Nobody inside was hurt and it kept working.
+
+The armor worked, but only just. Three hits in ten seconds leaves no time for warning or cover, and every evacuation run is a bet that the vehicle lasts long enough to get there and back.
+
+The second item is research. Two independent Russian news outlets, Meduza and Mediazona, analyzed a hacked copy of Russia's national death records. Russia's statistics agency denies a leak, so treat this as careful estimates from disputed data. They count about four hundred ninety thousand registered military deaths through September. Adding soldiers listed as missing, they estimate more than seven hundred thousand. Of the missing soldiers they could match to death records, fewer than one in ten turned up alive, and the median time from a soldier's last contact to death was about three days. Another outlet found that explosions and fragments caused ninety-two percent of military deaths in the combat zone, and gunshots barely one percent. One analyst suggested Russia may now have more soldiers killed than severely wounded. Military planners usually assume about three wounded for every death.
+
+For casualty care, the total isn't the important part. The pattern is: blast wounds almost everywhere, lots of soldiers simply missing, and many dying in the days before anyone reaches them. When the dead outnumber the badly wounded, it usually means the wounded aren't being reached.
+
+Hardening the rear.
+
+Britain's MI5 warned British defense firms and suppliers of aid to Ukraine that Russia is stepping up sabotage, mostly through hired proxies using simple methods like arson. In the US, the Army published its first guide for installations to work with the local utilities, ports, rail lines and fiber networks they rely on but don't own. Both point to the same gap. Protection now has to reach factories and city utilities that no commander controls, and that depends on thousands of private owners each acting and paying on their own.
+
+Money.
+
+The White House sent Congress its list of exceptions for the next stopgap funding bill, which is needed by December eleventh. It asks to take counter-small-drone interceptor buys from about three hundred sixty-three this year to eight hundred fifty-three next year, five billion dollars for Golden Dome, and permission to spend faster on Patriot PAC-3 and other missiles, with no extra money for them. Under a stopgap, new programs are barred unless Congress makes an exception, so even that counter-drone growth depends on the list. And eight hundred fifty-three is small next to a single night's raid in Ukraine. Meanwhile President Zelensky says there's one contract for forty-eight Patriot missiles for Ukraine that's still waiting on the US defense secretary's signature. His words: it depends on him.
+
+One more: Germany and Norway will get Ukraine's DELTA battle-management software, which has logged more than three million drone strike missions since March. Neither gets Ukraine's combat data, which is what actually makes the system smart. Allies get the tool without the experience behind it.
+
+One thing to think about.
+
+Here's the one to sit with today. A medical vehicle hit three times in ten seconds. A repair crew that lived because it was away from its truck. A railway station, and thousands of supply robots destroyed. On this battlefield, the vehicle is the signature. It's hot, it moves on roads, and it often carries a radio, and the drones find it within seconds of seeing it. Armor buys a little time. Nets cover some roads but not most. Robots take the people out but get hunted themselves, and aerial evacuation drones have nowhere to hide in the sky. The hard part is that casualties, fuel, food and repair crews still have to move, every day, across the same ground. Nobody has found a way to do that without being seen, and each fix so far just changes which machine gets hunted.
+
+That's your brief. Have a good Wednesday.
