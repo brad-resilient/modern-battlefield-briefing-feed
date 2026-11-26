@@ -1,0 +1,55 @@
+Good morning Brad, this is your Modern Battlefield brief for Thursday, November 26th. Happy Thanksgiving.
+
+Ukraine stopped about two-thirds of Russia's jet drones for a fourth night in a row, and an open-source count suggests it has stopped fewer than one in ten ballistic missiles since September. A laser and a ground robot each claim their first jet-drone kill, but neither changes the nightly math yet. And Russia is now aiming at repair time itself, hitting the small parts of the power grid and the water system that take longest to fix.
+
+The night's numbers.
+
+Starting at six in the evening, Russia launched one hundred thirteen drones, seventy-six of them jet-powered Shaheds, along with Iskander, Zircon and S-400 missiles. Ukraine's Air Force says eighty-seven drones were downed or jammed, fifty-two of them jets. That's about sixty-eight percent. Over four nights the jet rate has gone seventy, seventy, seventy-one, sixty-eight. Ukraine's General Staff says October was sixty-six percent for jets against eighty-nine for slower drones. This is where things stand.
+
+A Shahed hit a fifteenth-floor apartment in Kharkiv and killed two people. In Kyiv, a ballistic missile hit a shopping mall and industrial buildings on Tuesday evening, and a night strike in the same district injured seven, two of them seriously. Wave after wave hit Kryvyi Rih, and the city center's heat and water ended up running on generators.
+
+Now the harder number. Ukraine's Air Force counts twenty-six ballistic and hypersonic missiles intercepted from September through late November. An open-source group called Frontlinedatalab estimates Russia fired about three hundred thirty in that time. That's an estimate, since Ukraine doesn't publish launch totals, but it means roughly ninety-two percent got through. Meanwhile, the Financial Times reports about sixty Patriot interceptors, roughly forty of them the newer PAC-3s, are still waiting on Defense Secretary Hegseth's approval, even though allies have already paid for them. The Pentagon says it's working with Europe to raise Patriot production.
+
+The problem here isn't money. Only a few interceptor types can stop a ballistic missile, and Ukraine, US forces in the Gulf, Israel and NATO all draw on the same small stock. Production, stockpile politics and the approval chain each move in months, and the attacks come every night.
+
+Counter-drone.
+
+Remember the Ukrainian laser called Blysk, which went on duty in Kyiv and couldn't fire for days because of fog? The president's defense-tech adviser, Serhii Beskrestnov, says it has now destroyed a jet-powered Geran, and he's calling it a world first. It's a four-kilowatt laser with a reach of about a kilometer. He explains that it doesn't slice the drone. It holds one spot until the electronics overheat, which takes a fraction of a second on a small FPV and several seconds on a Shahed. He also says it's too early to talk about mass production. And the 208th Anti-Aircraft Missile Brigade posted video of a ground robot, probably carrying a heavy machine gun, hitting a jet Shahed on November twenty-third. Neither claim has been independently verified.
+
+Both have the same problem. A laser has to hold steady on a target crossing at four hundred kilometers an hour or more. A machine gun reaches a kilometer or two. Either one protects a single site, in clear weather, when a jet happens to come close and someone cues it in time. Jet drones fly routes planned to avoid known defenses. So a point defense can work perfectly and the night's total barely moves.
+
+Poland and the border.
+
+Poland asked NATO ambassadors to consider shooting down Russian missiles over Ukraine when they head toward alliance territory. Some allies liked it. Poland's deputy defense minister says NATO is not supportive, and one eastern-flank official called it a line the alliance has been careful not to cross. So Poland is doing something it controls instead. By early twenty twenty-seven it plans a no-fly zone more than ten kilometers deep along the Ukrainian border. Inside that strip, pilots could identify and engage a target using radar, allied intelligence, altitude and speed, without needing to see it.
+
+The logic is simple. If nothing friendly should be in that strip, speed and altitude are enough to call a target hostile. The cost is that it closes airspace to local flying, takes a year to set up, and only covers a strip. Firing farther forward over Ukraine would buy more time, but that would take every NATO member agreeing, plus access to Ukraine's airspace and a shared warning picture, and none of that exists yet.
+
+Hardening: the repair clock.
+
+This was the most telling story of the day. A board member at Ukrenergo, Ukraine's grid operator, says Russia has moved from precise strikes on major equipment to carpet strikes, often with cluster warheads bursting over substations. The big transformers are now fairly well protected, so the damage falls on everything around them: switches, relays, small transformers. Without repeat strikes, crews can fix a lot of that in two or three hours. After a cluster attack, it takes far longer. Few factories anywhere make the high-voltage parts, and Ukraine is short of contractors to build protection.
+
+Water is next. Kyiv's water utility warns that a city without sewage faces an epidemic within three days. Three of the six people killed in Kyiv on November twentieth were preliminarily identified as water-utility workers. In Kramatorsk, the utility says local wells could serve only ten to fifteen percent of residents if central supply fails. The government has ordered cities to plan water deliveries and speed up backup power at treatment plants.
+
+The same worry is reaching home bases in Europe. Sky News and The Times report the Royal Air Force has started moving aircraft into hangars at night because of drones, practicing Cold War-style dispersal, and planning Ukraine-style nets over aircraft. Britain's defense ministry hasn't confirmed it. The RAF's chief says they have to plan for no safe haven at home. In Finland, police are investigating drones that flew over a Nammo gunpowder plant for five days in September. There are no suspects. Airfields and ammunition plants were laid out for peacetime efficiency, in the open and close together, and there aren't enough shelters or defenders to change that quickly.
+
+Movement and logistics.
+
+A small one I liked. In Sumy region, near the Russian border, a ground robot from the 71st Airmobile Brigade got stuck in a mud puddle. Two locals on bicycles stopped, tied a rope to it and, with a soldier, hauled it out, and it went back to work. Ukraine's Defense Ministry says ground robots ran a record thirty-one thousand logistics and evacuation missions in October, four times January's number. Robots take drivers off the worst roads, but autumn mud and winter cold are where small wheeled machines fail. When one gets stuck, a person has to walk into the kill zone to free it, and the mission count never shows that.
+
+A follow-up on fiber-optic drones, the kind that can't be jammed. The Financial Times reports raw drone fiber has gone from about four dollars a kilometer in spring to almost thirty. Russia buys centrally, in bulk, and pays whatever it costs. Ukraine's buying is split among hundreds of drone makers bidding against each other. One maker says the fiber for a single thirty-kilometer drone can cost close to a thousand dollars, and some Ukrainian makers are switching back to radio drones with Starlink terminals. Ukraine's decentralized system makes it fast at inventing new things and weak at buying a commodity in bulk.
+
+Casualty care.
+
+Two efforts aim at the two ends of the evacuation wait. A Ukrainian design bureau has built a buggy called the Mongoose to the Logistics Forces Command's requirements. Its makers claim it tops a hundred kilometers an hour, carries two stretchers, and can take extra armor. It's in field tests, and no results are public. Speed shrinks the window for an FPV pilot, but a fast, light vehicle has little protection, and yesterday we heard about three hits in ten seconds on an armored medical vehicle. At the other end, during their rotation in Australia, US Marines used a cargo drone to fly a container standing in for refrigerated blood about two and a half kilometers between medical stations. That's a start, but it's a long way from keeping blood cold, matched and delivered under jamming to a casualty who has been waiting two days.
+
+Programs and practice.
+
+Ukraine's government cut its approval process. Electronic-warfare systems that pass testing will now be approved for military use within ten days, based on a test report, with the manufacturer responsible for the accuracy of its data. Drone makers no longer need the military to ask for a product before starting. Jamming gear goes stale in weeks, so slow approval meant obsolete kit. The tradeoff is that units get more new products, sooner, with less independent checking.
+
+And one for the research and practitioner file. In a Modern War Institute essay, Chief Warrant Officer James Andreasen describes this spring's Combined Resolve exercise in Germany, where Ukrainian drone operators played the enemy against a US armored brigade of about thirty-five hundred soldiers. They found moving vehicles within minutes, helped by dust, and the brigade, with its standard jamming and counter-drone gear, was eliminated in the simulation. Controllers had to put vehicles back to keep the exercise going. He says the gap wasn't mainly gear. It was persistent reconnaissance, specialized crews and a shared picture. He also notes the Army returned its drone-experiment battalion to regular airborne duty. His measure of success is a unit that can fight through drones without the controllers turning the threat down. That's hard to train for, because exercises turn the threat down so they can keep running.
+
+One thing to think about.
+
+Here's the one to sit with today. On this battlefield, the attacker is aiming at repair time. Ukraine protected the big transformers, so Russia now scatters cluster warheads over the switches and relays around them, which are many, small and slow to replace. It strikes lines again right after they're fixed, and it kills the utility workers who fix them. The same pattern shows up in the mud, where a robot that saves a driver needs a person to come and pull it out. The hard part is that the fix isn't a mystery. Everyone knows what needs protecting. But there are too many small parts, too few factories that make them, too few crews, and every repair happens under the same sky as the next strike. Whoever can repair faster than the attacker can break things holds the advantage, and right now nobody can say who that is.
+
+That's your brief. Have a good Thanksgiving.
