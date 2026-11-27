@@ -1,0 +1,59 @@
+Good morning Brad, this is your Modern Battlefield brief for Friday, November twenty-seventh.
+
+Here's the top line. Ukraine's stop rate against Russia's jet drones fell overnight, to about sixty-one percent, after four nights near seventy, and Kyiv warns a bigger strike is coming. In Kuwait, a drone attack on an air-defense radar station killed two Italian technicians, a reminder that the people who keep the defenses running are inside the target. And the Patriot missiles Ukraine's allies have paid for are still waiting on a signature in Washington, while a leaked European report says most of Europe's own drone defenses won't arrive until after twenty thirty.
+
+It's the day after Thanksgiving, so American outlets were quiet. Today leans on Ukraine, Europe, the Gulf, and some good research writing.
+
+The jet-drone number.
+
+Overnight into Friday, Russia launched one hundred fifty-five drones, eighty-three of them jet-powered Shaheds. By eight in the morning, Ukraine's Air Force said it had downed or jammed one hundred ten. But only fifty-one of the jets were stopped. That's about sixty-one percent. For the four nights before, the figure sat at seventy, seventy, seventy-one and sixty-eight. So the rate dropped just as the number of jets per raid hit its highest of the week. There were hits at twenty-seven locations, and the attack was still going when the numbers came out. Regional governors reported strikes on energy and rail in Vinnytsia, energy and logistics in Zhytomyr, where two people were hurt, and infrastructure in Kirovohrad.
+
+On Thursday, President Zelensky said Ukrainian intelligence shows Russia finishing preparations for another mass attack on energy, logistics and other life-support sites. Repairs are already running around the clock in Dnipro, Pavlohrad, Odesa, Kharkiv and Sumy regions.
+
+Why does this matter? One analyst newsletter that tracks these numbers says the line to watch is a steady rate above eighty percent, which would show new interceptors arriving in real numbers. Instead the trend is going the other way. More fast targets each night, the same scarce means to hit them, and a warning that a bigger strike is on the way.
+
+A second laser, and still no confirmations.
+
+A second Ukrainian laser has reached a unit. The developer, Celebra Tech, says the first crews have started combat use of the Tryzub three thousand, a laser of about three kilowatts with a two-person crew, a spotter and an operator, cued by radar. It's meant mostly for reconnaissance and first-person-view drones. In testing, it reportedly blinded a Shahed's thermal camera at up to five kilometers, but actually destroying a drone takes much shorter range. No kills have been claimed. One operator, call sign Rubin, said the crew is still learning the right sequence of use, and that jet Shaheds are, in his words, a bit challenging.
+
+Euromaidan Press tallied six different ways Ukraine says it downed a jet drone between November thirteenth and twenty-fifth: a shoulder-fired missile, a MiG-29, an F-16's cannon, a ground robot, an interceptor drone, and the Blysk laser. Each was one kill, and none has been independently verified. That includes the two you heard about yesterday. The Blysk laser kill still rests only on the presidential adviser who announced it, with no date or place, and the ground-robot kill rests on the brigade's own video. The takeaway is that lots of teams are trying, but nothing has yet turned into a method that changes the nightly count.
+
+The people inside the target.
+
+Now the Gulf. On Thursday, Kuwait's military detected several drones and said it intercepted some. Kuwait first reported four people hurt by falling debris. Then Italy's foreign minister said a powerful explosion at an air-defense surveillance station had killed two Italian technicians working for Rheinmetall Italia. A Kuwaiti army captain and a Pakistani worker were wounded. Kuwait and Italy blame Iran. Iran denies it and has offered a joint investigation. It isn't clear yet whether a drone hit the station or debris from an intercepted one fell on it.
+
+Here's the hard problem. Radars and sensors need technicians on site, often contractors, and you can't fix an antenna from inside a bunker. When an attacker goes after the air defense itself, as Iran has done at radar and Patriot sites in Bahrain and Kuwait this month, the maintainers are standing in the target area. And even a successful intercept overhead can drop debris on them. A good kill rate doesn't, by itself, keep them safe.
+
+Patriots and ballistic missiles.
+
+A quick follow-up on the Patriots. Zelensky says a contract for forty-eight Patriot missiles, in his words, depends solely on Defense Secretary Hegseth, who hasn't signed it, and that deliveries are still delayed with no good news from Washington. He wouldn't vouch for the reported figure of about sixty held-up interceptors. Meanwhile, the latest allied donors' meeting raised more than seven hundred million dollars more for buying American anti-ballistic interceptors. So more money is going into the same queue. Ukraine's own anti-ballistic program, called Freyja, expects its first prototypes and tests this winter.
+
+The president's technology adviser also published a list of what Ukraine lacks. It includes ballistic missile defense, where a Ukrainian magazine says forces have practically nothing, and a counter to Russia's guided glide bombs, for which there's still no effective answer. Zelensky counted about fourteen hundred sixty glide bombs in a single week. Those fall on front-line troops, not cities.
+
+Europe's drone wall and Poland.
+
+Europe's so-called drone wall, now called the European Drone Defence Initiative, is due to claim initial capacity at the end of December. But a leaked European Defence Agency report says only about a third of member states' counter-drone and short-range air-defense programs will deliver by the end of the decade. The money is there: about nineteen billion euros planned for drone technology through twenty twenty-nine. The experts quoted say the real obstacles are elsewhere. Buying is split country by country. The law on who may shoot a drone down is unclear, so some infrastructure operators can detect drones but not stop them. Sharing detection data runs into security and privacy rules. And procurement offices didn't grow along with the budgets. One Belgian military academy researcher called the goal of intercepting every hostile drone by the end of twenty twenty-seven a fantasy.
+
+On Poland: its deputy defense minister now says the no-fly zone along the Ukrainian border should take effect in late December or early January. Until then, Polish pilots still need to see a target before firing, which is exactly what cloud prevented on November twentieth. Poland's foreign minister says shooting Russian missiles down over Ukraine would count as self-defense, but the defense ministry says NATO is in no way favorable. And there's still no reported American response on the November twentieth missile crash.
+
+Planning to be hit.
+
+Two hardening items, both about planning for damage rather than hoping to stop every strike. Ukraine's cabinet has ordered every city over one hundred thousand people to plan for losing its sewage pumps. Each critical pumping station needs a response plan, generators, fuel, mobile pumps, bypass pipes, and a pre-chosen spot for emergency discharge. Cities have to draw up water-cutoff schedules and drinking-water delivery routes. No deadlines or station counts were given.
+
+And in Britain, following yesterday's reports of aircraft moving into hangars at night, the Ministry of Defence told The War Zone it's putting an extra four hundred seventy million pounds into base security, with restricted airspace over forty-four critical sites. A retired air marshal pointed out the catch: tankers and transports don't fit in the shelters. The biggest aircraft on the ramp, like the thousands of small pumps under a city, are the hardest things to cover.
+
+Casualty care.
+
+Congress's Helsinki Commission will hold a hearing on December third about Ukraine's battlefield medicine. The topics include drones making evacuation in the first hour more dangerous, drones delivering freeze-dried plasma to the wounded, and surgeons in Kyiv guiding operations at mobile hospitals over live video. Witnesses haven't been named. There's no new data this window on how long casualties are waiting, and no published test results yet for the Mongoose evacuation buggy.
+
+Programs and practice.
+
+In War on the Rocks, the two officials behind a special-operations Accelerator Day in July wrote about what came next. Nearly seven hundred submissions led to six hundred fifty thousand dollars in awards signed in eight hours. By November, four projects had money for operational exercises. Their point is that the contract was the easy part. The hard part is finding an organization willing to pay for fielding and upkeep, getting time with operators who are busy with real missions, and avoiding an endless chain of small pilots. It's the American version of what Ukraine faces with fast approvals: the paperwork speeds up, and the slow part just moves downstream.
+
+One thing to think about.
+
+Here's the one to sit with today. In the Modern War Institute, Morgan Bazilian and Jahara Matisek argue that the Pentagon watches critical minerals closely but has no clear picture of the chemicals that actually make munitions. Nitroguanidine, a key ingredient in artillery propellant, has no American source, and the new plant isn't expected to run until twenty twenty-nine. The United States hasn't made TNT since nineteen eighty-six. China makes about ninety-nine percent of the world's primary gallium, which goes into modern radars, and the authors note that China's pause on its gallium export ban is set to lapse today. The Strait of Hormuz closure cut Gulf sulfur exports to under a third of normal, and that sulfur becomes the acid used to process metals. An Air Force review found commercial supply-chain mapping tools only sixty to seventy percent accurate.
+
+Why is this so hard? First, nobody can see far enough down the chain. The companies the Pentagon contracts with buy from suppliers who buy from others, and the map gets fuzzy fast. Second, many of these chemicals are byproducts of oil and gas, so their supply follows energy markets, not defense budgets. Third, swapping one ingredient in a propellant can mean years of retesting, so you can't just buy something else. The authors' conclusion is blunt: the only way to really know how many interceptors or shells you can build after losing one supplier is to test wartime production. The same pattern shows up on the other side too, in Chinese drone fiber and imported interceptor turbines. Every layer of protection you've heard about this month, from Patriots to lasers to artillery, rests on a chemical someone, somewhere, has to make.
+
+That's your brief. Have a good Friday.
